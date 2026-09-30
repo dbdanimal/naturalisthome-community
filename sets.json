@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-09-30T15:23:04.682Z",
+  "updated": "2026-09-30T16:19:40.330Z",
   "sets": [
     {
       "id": "20260930-seed01",
@@ -24,6 +24,20 @@
         "Residual Emotional Retention Resolution"
       ],
       "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_triangle",
+          "wf_am"
+        ],
+        "intensities": [
+          "intensity100"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
       "doctrine": "v27.26",
       "published": "2026-09-30T15:23:04.681Z",
       "starter": true
@@ -49,6 +63,21 @@
         "Residual Whole System Distortion Resolution"
       ],
       "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_triangle",
+          "wf_sawtooth",
+          "wf_composite"
+        ],
+        "intensities": [
+          "intensity100"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
       "doctrine": "v27.26",
       "published": "2026-09-30T15:23:04.681Z",
       "starter": true
@@ -75,6 +104,21 @@
         "Residual Whole System Distortion Resolution"
       ],
       "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_triangle",
+          "wf_sawtooth",
+          "wf_composite"
+        ],
+        "intensities": [
+          "intensity100"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
       "doctrine": "v27.26",
       "published": "2026-09-30T15:23:04.681Z",
       "starter": true
@@ -98,6 +142,20 @@
         "Residual Whole System Distortion Resolution"
       ],
       "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_triangle",
+          "wf_am"
+        ],
+        "intensities": [
+          "intensity100"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
       "doctrine": "v27.26",
       "published": "2026-09-30T15:23:04.681Z",
       "starter": true
@@ -117,6 +175,21 @@
         "Residual Liver Meridian Congestion Resolution"
       ],
       "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_triangle",
+          "wf_pulse25",
+          "wf_composite"
+        ],
+        "intensities": [
+          "intensity100"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "2",
+        "delayBetweenCyclesMinutes": ""
+      },
       "doctrine": "v27.26",
       "published": "2026-09-30T15:23:04.681Z",
       "starter": true
@@ -146,6 +219,21 @@
         "Residual Meridian Circulation Resolution"
       ],
       "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_triangle",
+          "wf_pulse25",
+          "wf_composite"
+        ],
+        "intensities": [
+          "intensity100"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
       "doctrine": "v27.26",
       "published": "2026-09-30T15:23:04.682Z",
       "starter": true
@@ -170,6 +258,20 @@
         "Residual Subtle Field Distortion Resolution"
       ],
       "rife": "7.83, 14.1",
+      "session": {
+        "waveforms": [
+          "wf_triangle",
+          "wf_composite"
+        ],
+        "intensities": [
+          "intensity100"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "2",
+        "delayBetweenCyclesMinutes": ""
+      },
       "doctrine": "v27.26",
       "published": "2026-09-30T15:23:04.682Z",
       "starter": true
@@ -191,6 +293,21 @@
         "Residual Solfeggio Frequency Resolution"
       ],
       "rife": "432, 528",
+      "session": {
+        "waveforms": [
+          "wf_sawtooth",
+          "wf_composite",
+          "wf_burst"
+        ],
+        "intensities": [
+          "intensity100"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "2",
+        "delayBetweenCyclesMinutes": ""
+      },
       "doctrine": "v27.26",
       "published": "2026-09-30T15:23:04.682Z",
       "starter": true
@@ -202,7 +319,7 @@
       "note": "The evening I land. Low volume, feet up.",
       "tags": [
         "Sleep / Circadian Ecology",
-        "Circulation"
+        "Heart / Circulation"
       ],
       "phrases": [
         "Residual Circadian Distortion Resolution",
@@ -215,6 +332,20 @@
         "Residual Zusanli Point Congestion Resolution"
       ],
       "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_triangle",
+          "wf_am"
+        ],
+        "intensities": [
+          "intensity100"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
       "doctrine": "v27.26",
       "published": "2026-09-30T15:23:04.682Z",
       "starter": true
@@ -234,6 +365,21 @@
         "Residual Triple Energizer Meridian Congestion Resolution"
       ],
       "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_triangle",
+          "wf_pulse25",
+          "wf_composite"
+        ],
+        "intensities": [
+          "intensity100"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "2",
+        "delayBetweenCyclesMinutes": ""
+      },
       "doctrine": "v27.26",
       "published": "2026-09-30T15:23:04.682Z",
       "starter": true
@@ -257,6 +403,21 @@
         "Residual Yang Heel Vessel Congestion Resolution"
       ],
       "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_triangle",
+          "wf_pulse25",
+          "wf_composite"
+        ],
+        "intensities": [
+          "intensity100"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
       "doctrine": "v27.26",
       "published": "2026-09-30T15:23:04.682Z",
       "starter": true
@@ -284,6 +445,21 @@
         "Residual Merkaba Resolution"
       ],
       "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_sawtooth",
+          "wf_composite",
+          "wf_burst"
+        ],
+        "intensities": [
+          "intensity100"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
       "doctrine": "v27.26",
       "published": "2026-09-30T15:23:04.682Z",
       "starter": true
@@ -305,6 +481,21 @@
         "Residual Platonic Solids Resolution"
       ],
       "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_sawtooth",
+          "wf_composite",
+          "wf_burst"
+        ],
+        "intensities": [
+          "intensity100"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "2",
+        "delayBetweenCyclesMinutes": ""
+      },
       "doctrine": "v27.26",
       "published": "2026-09-30T15:23:04.682Z",
       "starter": true
