@@ -1,7 +1,314 @@
 {
   "v": 1,
-  "updated": "2026-09-30T04:50:21.993Z",
+  "updated": "2026-09-30T15:23:04.682Z",
   "sets": [
+    {
+      "id": "20260930-seed01",
+      "name": "Evening wind-down",
+      "handle": "Naturalist Home",
+      "note": "I play this after dinner with the lights low, then leave it running while I read.",
+      "tags": [
+        "Sleep / Circadian Ecology",
+        "Meridian",
+        "Limbic System"
+      ],
+      "phrases": [
+        "Residual Circadian Distortion Resolution",
+        "Residual Shenmen Point Congestion Resolution",
+        "Residual Neiguan Point Congestion Resolution",
+        "Residual Sanyinjiao Point Congestion Resolution",
+        "Residual Anmian Point Congestion Resolution",
+        "Residual Limbic Imprint Resolution",
+        "Residual Vagus Nerve Distortion Resolution",
+        "Residual Autonomic Distortion Resolution",
+        "Residual Emotional Retention Resolution"
+      ],
+      "rife": "",
+      "doctrine": "v27.26",
+      "published": "2026-09-30T15:23:04.681Z",
+      "starter": true
+    },
+    {
+      "id": "20260930-seed02",
+      "name": "Morning opener",
+      "handle": "Naturalist Home",
+      "note": "I play this with my first coffee, before I open the laptop.",
+      "tags": [
+        "Meridian",
+        "Coherence"
+      ],
+      "phrases": [
+        "Residual Field Distortion Resolution",
+        "Residual Meridian Congestion Resolution",
+        "Residual Baihui Point Congestion Resolution",
+        "Residual Yintang Point Congestion Resolution",
+        "Residual Hegu Point Congestion Resolution",
+        "Residual Zusanli Point Congestion Resolution",
+        "Residual Taichong Point Congestion Resolution",
+        "Residual Biological Rhythm Coherence Distortion Resolution",
+        "Residual Whole System Distortion Resolution"
+      ],
+      "rife": "",
+      "doctrine": "v27.26",
+      "published": "2026-09-30T15:23:04.681Z",
+      "starter": true
+    },
+    {
+      "id": "20260930-seed03",
+      "name": "First session opener",
+      "handle": "Naturalist Home",
+      "note": "What I start a new client with: whole field first, then the layers, nothing narrow yet.",
+      "tags": [
+        "Energetic Field Architecture",
+        "Coherence"
+      ],
+      "phrases": [
+        "Residual Field Distortion Resolution",
+        "Residual Biofield Distortion Resolution",
+        "Residual Biofield Geometry Distortion Resolution",
+        "Residual Energetic Blueprint Distortion Resolution",
+        "Residual Auric Field Distortion Resolution",
+        "Residual Energetic Structure Distortion Resolution",
+        "Residual Meridian Congestion Resolution",
+        "Residual Chakra Congestion Resolution",
+        "Residual Emotional Imprint Resolution",
+        "Residual Whole System Distortion Resolution"
+      ],
+      "rife": "",
+      "doctrine": "v27.26",
+      "published": "2026-09-30T15:23:04.681Z",
+      "starter": true
+    },
+    {
+      "id": "20260930-seed04",
+      "name": "Closing a session",
+      "handle": "Naturalist Home",
+      "note": "The last ten minutes with a client, the same list every time.",
+      "tags": [
+        "Energetic Clearing",
+        "Coherence"
+      ],
+      "phrases": [
+        "Residual Energetic Congestion Resolution",
+        "Residual Emotional Retention Resolution",
+        "Residual Stressor Imprint Resolution",
+        "Residual Subtle Field Distortion Resolution",
+        "Residual Biofield Distortion Resolution",
+        "Residual Field Distortion Resolution",
+        "Residual Whole System Distortion Resolution"
+      ],
+      "rife": "",
+      "doctrine": "v27.26",
+      "published": "2026-09-30T15:23:04.681Z",
+      "starter": true
+    },
+    {
+      "id": "20260930-seed05",
+      "name": "Four Gates",
+      "handle": "Naturalist Home",
+      "note": "Hegu and Taichong with their channels. I use it as a short opener before point work.",
+      "tags": [
+        "Meridian"
+      ],
+      "phrases": [
+        "Residual Hegu Point Congestion Resolution",
+        "Residual Taichong Point Congestion Resolution",
+        "Residual Large Intestine Meridian Congestion Resolution",
+        "Residual Liver Meridian Congestion Resolution"
+      ],
+      "rife": "",
+      "doctrine": "v27.26",
+      "published": "2026-09-30T15:23:04.681Z",
+      "starter": true
+    },
+    {
+      "id": "20260930-seed06",
+      "name": "Twelve channels",
+      "handle": "Naturalist Home",
+      "note": "One pass through the twelve main channels. My Sunday opener, before anything narrower.",
+      "tags": [
+        "Meridian"
+      ],
+      "phrases": [
+        "Residual Meridian Line Distortion Resolution",
+        "Residual Lung Meridian Congestion Resolution",
+        "Residual Large Intestine Meridian Congestion Resolution",
+        "Residual Stomach Meridian Congestion Resolution",
+        "Residual Spleen Meridian Congestion Resolution",
+        "Residual Heart Meridian Congestion Resolution",
+        "Residual Small Intestine Meridian Congestion Resolution",
+        "Residual Bladder Meridian Congestion Resolution",
+        "Residual Kidney Meridian Congestion Resolution",
+        "Residual Pericardium Meridian Congestion Resolution",
+        "Residual Triple Energizer Meridian Congestion Resolution",
+        "Residual Gallbladder Meridian Congestion Resolution",
+        "Residual Liver Meridian Congestion Resolution",
+        "Residual Meridian Circulation Resolution"
+      ],
+      "rife": "",
+      "doctrine": "v27.26",
+      "published": "2026-09-30T15:23:04.682Z",
+      "starter": true
+    },
+    {
+      "id": "20260930-seed07",
+      "name": "Quiet house, low tones",
+      "handle": "Naturalist Home",
+      "note": "For rooms rather than people: phrases first, then two low tones. I leave it on when the house is empty.",
+      "tags": [
+        "Environmental Sound / Vibratio",
+        "Energetic Clearing"
+      ],
+      "phrases": [
+        "Residual Acoustic Distortion Resolution",
+        "Residual Vibration Distortion Resolution",
+        "Residual Structural Sound Retention Resolution",
+        "Residual Energetic Noise Resolution",
+        "Residual Energetic Congestion Resolution",
+        "Residual Schumann Resonance Distortion Resolution",
+        "Residual Frequency Mismatch Resolution",
+        "Residual Subtle Field Distortion Resolution"
+      ],
+      "rife": "7.83, 14.1",
+      "doctrine": "v27.26",
+      "published": "2026-09-30T15:23:04.682Z",
+      "starter": true
+    },
+    {
+      "id": "20260930-seed08",
+      "name": "Geometry with tones",
+      "handle": "Naturalist Home",
+      "note": "A geometry list followed by two steady tones. I run it quietly in the background while drawing.",
+      "tags": [
+        "Sacred Geometry Architecture"
+      ],
+      "phrases": [
+        "Residual Flower of Life Resolution",
+        "Residual Seed of Life Resolution",
+        "Residual Vesica Piscis Resolution",
+        "Residual Golden Spiral Resolution",
+        "Residual Toroidal Geometry Resolution",
+        "Residual Solfeggio Frequency Resolution"
+      ],
+      "rife": "432, 528",
+      "doctrine": "v27.26",
+      "published": "2026-09-30T15:23:04.682Z",
+      "starter": true
+    },
+    {
+      "id": "20260930-seed09",
+      "name": "Travel day",
+      "handle": "Naturalist Home",
+      "note": "The evening I land. Low volume, feet up.",
+      "tags": [
+        "Sleep / Circadian Ecology",
+        "Circulation"
+      ],
+      "phrases": [
+        "Residual Circadian Distortion Resolution",
+        "Residual Biological Rhythm Coherence Distortion Resolution",
+        "Residual Rhythmic Incoherence Resolution",
+        "Residual Circulatory Congestion Resolution",
+        "Residual Lymphoid Congestion Resolution",
+        "Residual Muscular Retention Resolution",
+        "Residual Yongquan Point Congestion Resolution",
+        "Residual Zusanli Point Congestion Resolution"
+      ],
+      "rife": "",
+      "doctrine": "v27.26",
+      "published": "2026-09-30T15:23:04.682Z",
+      "starter": true
+    },
+    {
+      "id": "20260930-seed10",
+      "name": "Inner and outer gates",
+      "handle": "Naturalist Home",
+      "note": "Neiguan and Waiguan with their channels. Seated, once through.",
+      "tags": [
+        "Meridian"
+      ],
+      "phrases": [
+        "Residual Neiguan Point Congestion Resolution",
+        "Residual Waiguan Point Congestion Resolution",
+        "Residual Pericardium Meridian Congestion Resolution",
+        "Residual Triple Energizer Meridian Congestion Resolution"
+      ],
+      "rife": "",
+      "doctrine": "v27.26",
+      "published": "2026-09-30T15:23:04.682Z",
+      "starter": true
+    },
+    {
+      "id": "20260930-seed11",
+      "name": "Front and back",
+      "handle": "Naturalist Home",
+      "note": "The Conception and Governing vessels, then the other six. I play it after the twelve channels.",
+      "tags": [
+        "Meridian"
+      ],
+      "phrases": [
+        "Residual Conception Vessel Congestion Resolution",
+        "Residual Governing Vessel Congestion Resolution",
+        "Residual Thrusting Vessel Congestion Resolution",
+        "Residual Belt Vessel Congestion Resolution",
+        "Residual Yin Link Vessel Congestion Resolution",
+        "Residual Yang Link Vessel Congestion Resolution",
+        "Residual Yin Heel Vessel Congestion Resolution",
+        "Residual Yang Heel Vessel Congestion Resolution"
+      ],
+      "rife": "",
+      "doctrine": "v27.26",
+      "published": "2026-09-30T15:23:04.682Z",
+      "starter": true
+    },
+    {
+      "id": "20260930-seed12",
+      "name": "Spirals and solids",
+      "handle": "Naturalist Home",
+      "note": "A geometry-only list I run quietly in the background while drawing.",
+      "tags": [
+        "Sacred Geometry Architecture"
+      ],
+      "phrases": [
+        "Residual Flower of Life Resolution",
+        "Residual Seed of Life Resolution",
+        "Residual Vesica Piscis Resolution",
+        "Residual Tree of Life Resolution",
+        "Residual Fibonacci Spiral Resolution",
+        "Residual Golden Spiral Resolution",
+        "Residual Golden Ratio Resolution",
+        "Residual Toroidal Geometry Resolution",
+        "Residual Icosahedron Resolution",
+        "Residual Dodecahedron Resolution",
+        "Residual Metatrons Cube Resolution",
+        "Residual Merkaba Resolution"
+      ],
+      "rife": "",
+      "doctrine": "v27.26",
+      "published": "2026-09-30T15:23:04.682Z",
+      "starter": true
+    },
+    {
+      "id": "20260930-seed13",
+      "name": "Five solids",
+      "handle": "Naturalist Home",
+      "note": "Tetrahedron to icosahedron, in order, then the set as a whole.",
+      "tags": [
+        "Sacred Geometry Architecture"
+      ],
+      "phrases": [
+        "Residual Tetrahedron Resolution",
+        "Residual Cube Resolution",
+        "Residual Octahedron Resolution",
+        "Residual Dodecahedron Resolution",
+        "Residual Icosahedron Resolution",
+        "Residual Platonic Solids Resolution"
+      ],
+      "rife": "",
+      "doctrine": "v27.26",
+      "published": "2026-09-30T15:23:04.682Z",
+      "starter": true
+    },
     {
       "id": "20260930-m4zmtx",
       "name": "Dental Health Test",
