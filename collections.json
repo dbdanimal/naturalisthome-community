@@ -1,0 +1,96 @@
+{
+  "v": 1,
+  "updated": "2026-09-30T15:23:05.862Z",
+  "collections": [
+    {
+      "id": "self-explorer",
+      "kind": "persona",
+      "name": "Self-explorer",
+      "blurb": "Quiet evening and morning sets for home",
+      "sets": [
+        "20260930-seed01",
+        "20260930-seed02"
+      ]
+    },
+    {
+      "id": "practitioner",
+      "kind": "persona",
+      "name": "Practitioner",
+      "blurb": "Client-ready sets with consistent wording",
+      "sets": [
+        "20260930-seed03",
+        "20260930-seed04"
+      ]
+    },
+    {
+      "id": "acupuncturist",
+      "kind": "persona",
+      "name": "Acupuncturist",
+      "blurb": "Point pairs and channel sets",
+      "sets": [
+        "20260930-seed05",
+        "20260930-seed06"
+      ]
+    },
+    {
+      "id": "frequency-hobbyist",
+      "kind": "persona",
+      "name": "Frequency hobbyist",
+      "blurb": "Sets that pair phrases with Rife frequencies",
+      "sets": [
+        "20260930-seed07",
+        "20260930-seed08"
+      ]
+    },
+    {
+      "id": "evening-routines",
+      "kind": "topic",
+      "name": "Evening routines",
+      "blurb": "",
+      "sets": [
+        "20260930-seed01",
+        "20260930-seed09"
+      ]
+    },
+    {
+      "id": "acupoint-pairs",
+      "kind": "topic",
+      "name": "Acupoint pairs",
+      "blurb": "",
+      "sets": [
+        "20260930-seed05",
+        "20260930-seed10"
+      ]
+    },
+    {
+      "id": "channel-sets",
+      "kind": "topic",
+      "name": "Channel sets",
+      "blurb": "",
+      "sets": [
+        "20260930-seed06",
+        "20260930-seed11"
+      ]
+    },
+    {
+      "id": "geometry-sequences",
+      "kind": "topic",
+      "name": "Geometry sequences",
+      "blurb": "",
+      "sets": [
+        "20260930-seed12",
+        "20260930-seed13"
+      ]
+    },
+    {
+      "id": "with-rife",
+      "kind": "topic",
+      "name": "With Rife frequencies",
+      "blurb": "",
+      "sets": [
+        "20260930-seed07",
+        "20260930-seed08"
+      ]
+    }
+  ]
+}
