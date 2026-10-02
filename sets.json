@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-09-30T17:33:44.977Z",
+  "updated": "2026-10-02T20:12:29.690Z",
   "sets": [
     {
       "id": "20260930-seed01",
@@ -499,47 +499,6 @@
       "doctrine": "v27.26",
       "published": "2026-09-30T15:23:04.682Z",
       "starter": true
-    },
-    {
-      "id": "20260930-m4zmtx",
-      "name": "Dental Health Test",
-      "handle": "DB",
-      "note": "Healthy teach pearly whites",
-      "tags": [
-        "Dental"
-      ],
-      "phrases": [
-        "Residual Dental Plaque Resolution",
-        "Residual Tartar Deposit Resolution",
-        "Residual Dental Calculus Resolution",
-        "Residual Oral Bacterial Residue Resolution",
-        "Residual Gingival Plaque Retention Resolution",
-        "Residual Calcium Phosphate Deposit Resolution",
-        "Residual Oral Mineral Saturation Resolution",
-        "Residual Dental Surface Adhesion Resolution",
-        "Residual Gingival Calcification Burden Resolution",
-        "Residual Embedded Plaque Material Resolution",
-        "Residual Oral Deposit Layering Resolution",
-        "Residual Calcified Debris Reservoir Resolution",
-        "Residual Dental Material Saturation Resolution",
-        "Residual Dental Surface Saturation Resolution",
-        "Residual Oral Cyclical Deposit Resolution",
-        "Residual Oral Bacterial Consortium Resolution",
-        "Residual Streptococcal Burden Resolution",
-        "Residual Candida Residue Resolution",
-        "Residual Anaerobic Bacterial Burden Resolution",
-        "Residual Periodontal Bacterial Consortium Resolution",
-        "Residual Actinomyces Material Resolution",
-        "Residual Mixed Oral Microbiota Resolution",
-        "Residual Candida Material Resolution",
-        "Residual Oral Fungal Structural Framework Resolution",
-        "Residual Dual Infection Resolution",
-        "Residual Consortium Resolution",
-        "Residual Biological Debris Resolution"
-      ],
-      "rife": "",
-      "doctrine": "v27.26",
-      "published": "2026-09-30T04:50:21.981Z"
     }
   ]
 }
