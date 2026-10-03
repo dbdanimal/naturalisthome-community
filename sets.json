@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-03T12:56:10.133Z",
+  "updated": "2026-10-03T12:56:26.008Z",
   "sets": [
     {
       "id": "20261002-path01",
@@ -62,47 +62,6 @@
           "wf_burst",
           "wf_composite",
           "wf_triangle"
-        ],
-        "intensities": [
-          "intensity100"
-        ],
-        "phraseRepeat": "1",
-        "frequencyMode": "proportional",
-        "sessionTimer": "",
-        "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
-      },
-      "doctrine": "v27.27",
-      "published": "2026-10-03T01:46:58.123Z",
-      "starter": true
-    },
-    {
-      "id": "20261002-path03",
-      "name": "Shapes",
-      "handle": "Naturalist Home",
-      "note": "Shape words on their own, no organism named. Pairs with the forms set.",
-      "tags": [
-        "Infection",
-        "Sacred Geometry Architecture"
-      ],
-      "phrases": [
-        "Residual Spiral Geometry Resolution",
-        "Residual Helix Geometry Resolution",
-        "Residual Rod Geometry Resolution",
-        "Residual Coccoid Geometry Resolution",
-        "Residual Ring Geometry Resolution",
-        "Residual Tetrad Geometry Resolution",
-        "Residual Pyriform Geometry Resolution",
-        "Residual Comma Geometry Resolution",
-        "Residual Filamentous Geometry Resolution",
-        "Residual Spherical Geometry Resolution"
-      ],
-      "rife": "",
-      "session": {
-        "waveforms": [
-          "wf_sawtooth",
-          "wf_composite",
-          "wf_burst"
         ],
         "intensities": [
           "intensity100"
