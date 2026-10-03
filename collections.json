@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-03T01:46:59.096Z",
+  "updated": "2026-10-03T01:51:22.147Z",
   "collections": [
     {
       "id": "self-explorer",
@@ -94,7 +94,7 @@
     },
     {
       "id": "pathogen-co-infection",
-      "kind": "topic",
+      "kind": "persona",
       "name": "Pathogen & Co-infection",
       "blurb": "Kinds, forms and shapes, the duals, then debris and drainage",
       "sets": [
