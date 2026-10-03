@@ -1,7 +1,82 @@
 {
   "v": 1,
-  "updated": "2026-10-03T14:53:04.387Z",
+  "updated": "2026-10-03T14:57:50.578Z",
   "sets": [
+    {
+      "id": "20261002-path01",
+      "name": "Kinds, forms and the duals",
+      "handle": "Naturalist Home",
+      "note": "Every kind and what lingers, the duals, then Borrelia, Bartonia and Nuttallia with their shapes. Bartonia and Nuttallia are the energetic synonyms for Bartonella and Babesia.",
+      "tags": [
+        "Infection",
+        "Sacred Geometry Architecture"
+      ],
+      "phrases": [
+        "Residual Bacteria Resolution",
+        "Residual Spirochete Resolution",
+        "Residual Virus Resolution",
+        "Residual Fungus Resolution",
+        "Residual Helminth Resolution",
+        "Residual Ectoparasite Resolution",
+        "Residual Parasite Resolution",
+        "Residual Protozoa Resolution",
+        "Residual Flagellate Resolution",
+        "Residual Endoparasite Resolution",
+        "Residual Hemoparasite Resolution",
+        "Residual Persister Cell Resolution",
+        "Residual Pathogen Reservoir Resolution",
+        "Residual Pathogen Viability Resolution",
+        "Residual Consortium Resolution",
+        "Residual Infection Resolution",
+        "Residual Secondary Infection Resolution",
+        "Residual Dual Infection Resolution",
+        "Residual Dual Burden Resolution",
+        "Residual Organism Gene Expression Resolution",
+        "Residual Immune Burden Resolution",
+        "Residual Borrelia Resolution",
+        "Residual Borrelia Spiral Geometry Resolution",
+        "Residual Borrelia Helix Geometry Resolution",
+        "Residual Borrelia Spherical Geometry Resolution",
+        "Residual Borrelia Persister Cell Resolution",
+        "Residual Bartonia Resolution",
+        "Residual Bartonia Rod Geometry Resolution",
+        "Residual Nuttallia Resolution",
+        "Residual Nuttallia Ring Geometry Resolution",
+        "Residual Nuttallia Tetrad Geometry Resolution",
+        "Residual Nuttallia Pyriform Geometry Resolution",
+        "Residual Spiral Geometry Resolution",
+        "Residual Helix Geometry Resolution",
+        "Residual Rod Geometry Resolution",
+        "Residual Coccoid Geometry Resolution",
+        "Residual Ring Geometry Resolution",
+        "Residual Tetrad Geometry Resolution",
+        "Residual Pyriform Geometry Resolution",
+        "Residual Comma Geometry Resolution",
+        "Residual Filamentous Geometry Resolution",
+        "Residual Spherical Geometry Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_square",
+          "wf_sawtooth",
+          "wf_burst",
+          "wf_composite",
+          "wf_triangle"
+        ],
+        "intensities": [
+          "intensity100"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.27",
+      "published": "2026-10-03T14:57:50.578Z",
+      "starter": true
+    },
     {
       "id": "20261002-path05",
       "name": "Toxins, debris and drainage",
