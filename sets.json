@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-03T12:56:31.792Z",
+  "updated": "2026-10-03T14:49:23.775Z",
   "sets": [
     {
       "id": "20261002-path01",
@@ -22,6 +22,7 @@
         "Residual Protozoa Resolution",
         "Residual Flagellate Resolution",
         "Residual Endoparasite Resolution",
+        "Residual Hemoparasite Resolution",
         "Residual Persister Cell Resolution",
         "Residual Pathogen Reservoir Resolution",
         "Residual Pathogen Viability Resolution",
