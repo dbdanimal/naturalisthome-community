@@ -28,5 +28,10 @@
   "status": "removed",
   "reason": "Old",
   "at": "2026-10-03T12:56:33.490Z"
+ },
+ "20261002-path01": {
+  "status": "removed",
+  "reason": "Old",
+  "at": "2026-10-03T14:53:06.425Z"
  }
 }
