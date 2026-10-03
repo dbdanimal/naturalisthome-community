@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-03T14:51:51.304Z",
+  "updated": "2026-10-03T14:57:42.542Z",
   "collections": [
     {
       "id": "self-explorer",
@@ -99,9 +99,6 @@
       "blurb": "Kinds, forms and shapes, the duals, then debris and drainage",
       "sets": [
         "20261002-path01",
-        "20261002-path02",
-        "20261002-path03",
-        "20261002-path04",
         "20261002-path05"
       ]
     }
