@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-03T12:54:43.606Z",
+  "updated": "2026-10-03T12:56:10.133Z",
   "sets": [
     {
       "id": "20261002-path01",
@@ -62,51 +62,6 @@
           "wf_burst",
           "wf_composite",
           "wf_triangle"
-        ],
-        "intensities": [
-          "intensity100"
-        ],
-        "phraseRepeat": "1",
-        "frequencyMode": "proportional",
-        "sessionTimer": "",
-        "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
-      },
-      "doctrine": "v27.27",
-      "published": "2026-10-03T01:46:58.123Z",
-      "starter": true
-    },
-    {
-      "id": "20261002-path02",
-      "name": "Borrelia, Bartonella, Babesia: forms",
-      "handle": "Naturalist Home",
-      "note": "Each named organism first, then its documented shapes, with the two duals.",
-      "tags": [
-        "Infection",
-        "Sacred Geometry Architecture"
-      ],
-      "phrases": [
-        "Residual Borrelia Resolution",
-        "Residual Borrelia Spiral Geometry Resolution",
-        "Residual Borrelia Helix Geometry Resolution",
-        "Residual Borrelia Spherical Geometry Resolution",
-        "Residual Borrelia Persister Cell Resolution",
-        "Residual Bartonella Resolution",
-        "Residual Bartonella Rod Geometry Resolution",
-        "Residual Babesia Resolution",
-        "Residual Babesia Ring Geometry Resolution",
-        "Residual Babesia Tetrad Geometry Resolution",
-        "Residual Babesia Pyriform Geometry Resolution",
-        "Residual Dual Infection Resolution",
-        "Residual Dual Burden Resolution"
-      ],
-      "rife": "",
-      "session": {
-        "waveforms": [
-          "wf_square",
-          "wf_sawtooth",
-          "wf_burst",
-          "wf_composite"
         ],
         "intensities": [
           "intensity100"
