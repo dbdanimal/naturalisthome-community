@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-03T12:56:26.008Z",
+  "updated": "2026-10-03T12:56:31.792Z",
   "sets": [
     {
       "id": "20261002-path01",
@@ -62,47 +62,6 @@
           "wf_burst",
           "wf_composite",
           "wf_triangle"
-        ],
-        "intensities": [
-          "intensity100"
-        ],
-        "phraseRepeat": "1",
-        "frequencyMode": "proportional",
-        "sessionTimer": "",
-        "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
-      },
-      "doctrine": "v27.27",
-      "published": "2026-10-03T01:46:58.123Z",
-      "starter": true
-    },
-    {
-      "id": "20261002-path04",
-      "name": "Dual burden",
-      "handle": "Naturalist Home",
-      "note": "The duals and what travels with them.",
-      "tags": [
-        "Infection",
-        "Immune"
-      ],
-      "phrases": [
-        "Residual Dual Infection Resolution",
-        "Residual Dual Burden Resolution",
-        "Residual Infection Resolution",
-        "Residual Secondary Infection Resolution",
-        "Residual Organism Gene Expression Resolution",
-        "Residual Immune Burden Resolution",
-        "Residual Biological Toxin Resolution",
-        "Residual Mycotoxin Resolution",
-        "Residual Biological Defense Compound Resolution"
-      ],
-      "rife": "",
-      "session": {
-        "waveforms": [
-          "wf_square",
-          "wf_sawtooth",
-          "wf_burst",
-          "wf_composite"
         ],
         "intensities": [
           "intensity100"
