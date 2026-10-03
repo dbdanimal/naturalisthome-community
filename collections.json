@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-09-30T17:33:46.228Z",
+  "updated": "2026-10-03T01:46:59.096Z",
   "collections": [
     {
       "id": "self-explorer",
@@ -90,6 +90,19 @@
       "sets": [
         "20260930-seed07",
         "20260930-seed08"
+      ]
+    },
+    {
+      "id": "pathogen-co-infection",
+      "kind": "topic",
+      "name": "Pathogen & Co-infection",
+      "blurb": "Kinds, forms and shapes, the duals, then debris and drainage",
+      "sets": [
+        "20261002-path01",
+        "20261002-path02",
+        "20261002-path03",
+        "20261002-path04",
+        "20261002-path05"
       ]
     }
   ]
