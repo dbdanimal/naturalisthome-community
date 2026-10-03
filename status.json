@@ -13,5 +13,10 @@
   "status": "declined",
   "reason": "cuz it was a test",
   "at": "2026-09-30T17:39:17.988Z"
+ },
+ "20261002-path02": {
+  "status": "removed",
+  "reason": "Old",
+  "at": "2026-10-03T12:56:12.137Z"
  }
 }
