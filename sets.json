@@ -1,7 +1,227 @@
 {
   "v": 1,
-  "updated": "2026-10-02T20:12:29.690Z",
+  "updated": "2026-10-03T01:46:58.123Z",
   "sets": [
+    {
+      "id": "20261002-path01",
+      "name": "Kinds and persistence",
+      "handle": "Naturalist Home",
+      "note": "Every kind on file, then what lingers. I play it first in a pathogen session.",
+      "tags": [
+        "Infection"
+      ],
+      "phrases": [
+        "Residual Bacteria Resolution",
+        "Residual Spirochete Resolution",
+        "Residual Virus Resolution",
+        "Residual Fungus Resolution",
+        "Residual Helminth Resolution",
+        "Residual Ectoparasite Resolution",
+        "Residual Parasite Resolution",
+        "Residual Protozoa Resolution",
+        "Residual Flagellate Resolution",
+        "Residual Endoparasite Resolution",
+        "Residual Persister Cell Resolution",
+        "Residual Pathogen Reservoir Resolution",
+        "Residual Pathogen Viability Resolution",
+        "Residual Consortium Resolution",
+        "Residual Infection Resolution",
+        "Residual Secondary Infection Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_square",
+          "wf_sawtooth",
+          "wf_burst",
+          "wf_composite"
+        ],
+        "intensities": [
+          "intensity100"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.27",
+      "published": "2026-10-03T01:46:58.123Z",
+      "starter": true
+    },
+    {
+      "id": "20261002-path02",
+      "name": "Borrelia, Bartonella, Babesia: forms",
+      "handle": "Naturalist Home",
+      "note": "Each named organism first, then its documented shapes, with the two duals.",
+      "tags": [
+        "Infection",
+        "Sacred Geometry Architecture"
+      ],
+      "phrases": [
+        "Residual Borrelia Resolution",
+        "Residual Borrelia Spiral Geometry Resolution",
+        "Residual Borrelia Helix Geometry Resolution",
+        "Residual Borrelia Spherical Geometry Resolution",
+        "Residual Borrelia Persister Cell Resolution",
+        "Residual Bartonella Resolution",
+        "Residual Bartonella Rod Geometry Resolution",
+        "Residual Babesia Resolution",
+        "Residual Babesia Ring Geometry Resolution",
+        "Residual Babesia Tetrad Geometry Resolution",
+        "Residual Babesia Pyriform Geometry Resolution",
+        "Residual Dual Infection Resolution",
+        "Residual Dual Burden Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_square",
+          "wf_sawtooth",
+          "wf_burst",
+          "wf_composite"
+        ],
+        "intensities": [
+          "intensity100"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.27",
+      "published": "2026-10-03T01:46:58.123Z",
+      "starter": true
+    },
+    {
+      "id": "20261002-path03",
+      "name": "Shapes",
+      "handle": "Naturalist Home",
+      "note": "Shape words on their own, no organism named. Pairs with the forms set.",
+      "tags": [
+        "Infection",
+        "Sacred Geometry Architecture"
+      ],
+      "phrases": [
+        "Residual Spiral Geometry Resolution",
+        "Residual Helix Geometry Resolution",
+        "Residual Rod Geometry Resolution",
+        "Residual Coccoid Geometry Resolution",
+        "Residual Ring Geometry Resolution",
+        "Residual Tetrad Geometry Resolution",
+        "Residual Pyriform Geometry Resolution",
+        "Residual Comma Geometry Resolution",
+        "Residual Filamentous Geometry Resolution",
+        "Residual Spherical Geometry Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_sawtooth",
+          "wf_composite",
+          "wf_burst"
+        ],
+        "intensities": [
+          "intensity100"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.27",
+      "published": "2026-10-03T01:46:58.123Z",
+      "starter": true
+    },
+    {
+      "id": "20261002-path04",
+      "name": "Dual burden",
+      "handle": "Naturalist Home",
+      "note": "The duals and what travels with them.",
+      "tags": [
+        "Infection",
+        "Immune"
+      ],
+      "phrases": [
+        "Residual Dual Infection Resolution",
+        "Residual Dual Burden Resolution",
+        "Residual Infection Resolution",
+        "Residual Secondary Infection Resolution",
+        "Residual Organism Gene Expression Resolution",
+        "Residual Immune Burden Resolution",
+        "Residual Biological Toxin Resolution",
+        "Residual Mycotoxin Resolution",
+        "Residual Biological Defense Compound Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_square",
+          "wf_sawtooth",
+          "wf_burst",
+          "wf_composite"
+        ],
+        "intensities": [
+          "intensity100"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.27",
+      "published": "2026-10-03T01:46:58.123Z",
+      "starter": true
+    },
+    {
+      "id": "20261002-path05",
+      "name": "Drainage and debris",
+      "handle": "Naturalist Home",
+      "note": "What is left behind, then the drainage pathways. I play it last.",
+      "tags": [
+        "Infection",
+        "Lymphatic",
+        "Liver Spleen Gallbladder"
+      ],
+      "phrases": [
+        "Residual Microbial Debris Resolution",
+        "Residual Lysed Bacterial Debris Resolution",
+        "Residual Biological Debris Resolution",
+        "Residual Bacterial Endotoxin Resolution",
+        "Residual Spirochetal Lipoprotein Resolution",
+        "Residual Biological Defense Compound Resolution",
+        "Residual Lymphoid Congestion Resolution",
+        "Residual Mobilized Toxin Resolution",
+        "Residual Drainage Pathway Congestion Resolution",
+        "Residual Detox Pathway Burden Resolution",
+        "Residual Bile Burden Resolution",
+        "Residual Renal Congestion Resolution",
+        "Residual Hepatic Congestion Resolution",
+        "Residual Liver Burden Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_triangle",
+          "wf_sawtooth",
+          "wf_composite"
+        ],
+        "intensities": [
+          "intensity100"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.27",
+      "published": "2026-10-03T01:46:58.123Z",
+      "starter": true
+    },
     {
       "id": "20260930-seed01",
       "name": "Evening wind-down",
