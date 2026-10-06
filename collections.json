@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-03T14:57:51.652Z",
+  "updated": "2026-10-06T22:17:38.526Z",
   "collections": [
     {
       "id": "self-explorer",
@@ -96,10 +96,31 @@
       "id": "pathogen-co-infection",
       "kind": "persona",
       "name": "Pathogen & Co-infection",
-      "blurb": "Kinds, forms and shapes, the duals, then debris and drainage",
+      "blurb": "Kinds, forms and the duals; the consortium; then toxins, debris and drainage",
       "sets": [
         "20261002-path01",
+        "20261006-path06",
         "20261002-path05"
+      ]
+    },
+    {
+      "id": "nutrition",
+      "kind": "topic",
+      "name": "Nutrition",
+      "blurb": "Digestion top to bottom, then fuel and food chemistry",
+      "sets": [
+        "20261006-nutr01",
+        "20261006-nutr02"
+      ]
+    },
+    {
+      "id": "emotional-imprints",
+      "kind": "topic",
+      "name": "Emotional imprints",
+      "blurb": "Grief and loss; fear, worry and stress",
+      "sets": [
+        "20261006-emot01",
+        "20261006-emot02"
       ]
     }
   ]
