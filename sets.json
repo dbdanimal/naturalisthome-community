@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-06T22:17:37.480Z",
+  "updated": "2026-10-06T23:46:02.064Z",
   "sets": [
     {
       "id": "20261006-nutr01",
@@ -27,11 +27,10 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_triangle",
-          "wf_am"
-        ],
-        "intensities": [
-          "intensity100"
+          "wf_sawtooth",
+          "wf_pulse25",
+          "wf_am",
+          "wf_composite"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -69,12 +68,9 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_triangle",
           "wf_sawtooth",
+          "wf_pulse25",
           "wf_composite"
-        ],
-        "intensities": [
-          "intensity100"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -114,10 +110,8 @@
       "session": {
         "waveforms": [
           "wf_triangle",
-          "wf_am"
-        ],
-        "intensities": [
-          "intensity100"
+          "wf_pulse25",
+          "wf_composite"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -157,10 +151,8 @@
       "session": {
         "waveforms": [
           "wf_triangle",
-          "wf_am"
-        ],
-        "intensities": [
-          "intensity100"
+          "wf_pulse25",
+          "wf_composite"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -193,6 +185,7 @@
         "Residual Microbial Mineral Residue Resolution",
         "Residual Microbial Coating Resolution",
         "Residual Quorum Signal Distortion Resolution",
+        "Residual Sessile Cell Resolution",
         "Residual Persister Cell Resolution",
         "Residual Pathogen Reservoir Resolution",
         "Residual Oral Microbial Consortium Resolution",
@@ -210,10 +203,8 @@
           "wf_sawtooth",
           "wf_burst",
           "wf_composite",
-          "wf_triangle"
-        ],
-        "intensities": [
-          "intensity100"
+          "wf_triangle",
+          "wf_pulse25"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -287,9 +278,6 @@
           "wf_composite",
           "wf_triangle"
         ],
-        "intensities": [
-          "intensity100"
-        ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
         "sessionTimer": "",
@@ -331,12 +319,9 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_triangle",
           "wf_sawtooth",
+          "wf_pulse25",
           "wf_composite"
-        ],
-        "intensities": [
-          "intensity100"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -373,10 +358,9 @@
       "session": {
         "waveforms": [
           "wf_triangle",
-          "wf_am"
-        ],
-        "intensities": [
-          "intensity100"
+          "wf_pulse25",
+          "wf_am",
+          "wf_composite"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -410,12 +394,9 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_triangle",
-          "wf_sawtooth",
+          "wf_noise",
+          "wf_pulse25",
           "wf_composite"
-        ],
-        "intensities": [
-          "intensity100"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -451,12 +432,11 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_noise",
+          "wf_am",
+          "wf_pulse25",
           "wf_triangle",
-          "wf_sawtooth",
           "wf_composite"
-        ],
-        "intensities": [
-          "intensity100"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -489,11 +469,11 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_noise",
+          "wf_am",
+          "wf_pulse25",
           "wf_triangle",
-          "wf_am"
-        ],
-        "intensities": [
-          "intensity100"
+          "wf_composite"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -522,17 +502,12 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_triangle",
-          "wf_pulse25",
-          "wf_composite"
-        ],
-        "intensities": [
-          "intensity100"
+          "wf_pulse25"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
         "sessionTimer": "",
-        "cycleLimit": "2",
+        "cycleLimit": "1",
         "delayBetweenCyclesMinutes": ""
       },
       "doctrine": "v27.26",
@@ -566,12 +541,7 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_triangle",
-          "wf_pulse25",
-          "wf_composite"
-        ],
-        "intensities": [
-          "intensity100"
+          "wf_pulse25"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -605,16 +575,15 @@
       "rife": "7.83, 14.1",
       "session": {
         "waveforms": [
-          "wf_triangle",
+          "wf_am",
+          "wf_noise",
+          "wf_pulse25",
           "wf_composite"
-        ],
-        "intensities": [
-          "intensity100"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
         "sessionTimer": "",
-        "cycleLimit": "2",
+        "cycleLimit": "1",
         "delayBetweenCyclesMinutes": ""
       },
       "doctrine": "v27.26",
@@ -640,17 +609,13 @@
       "rife": "432, 528",
       "session": {
         "waveforms": [
-          "wf_sawtooth",
           "wf_composite",
-          "wf_burst"
-        ],
-        "intensities": [
-          "intensity100"
+          "wf_am"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
         "sessionTimer": "",
-        "cycleLimit": "2",
+        "cycleLimit": "1",
         "delayBetweenCyclesMinutes": ""
       },
       "doctrine": "v27.26",
@@ -678,11 +643,9 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_triangle",
-          "wf_am"
-        ],
-        "intensities": [
-          "intensity100"
+          "wf_am",
+          "wf_pulse25",
+          "wf_composite"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -711,17 +674,13 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_triangle",
           "wf_pulse25",
-          "wf_composite"
-        ],
-        "intensities": [
-          "intensity100"
+          "wf_binaural"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
         "sessionTimer": "",
-        "cycleLimit": "2",
+        "cycleLimit": "1",
         "delayBetweenCyclesMinutes": ""
       },
       "doctrine": "v27.26",
@@ -749,12 +708,8 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_triangle",
           "wf_pulse25",
-          "wf_composite"
-        ],
-        "intensities": [
-          "intensity100"
+          "wf_binaural"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -791,12 +746,7 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_sawtooth",
-          "wf_composite",
-          "wf_burst"
-        ],
-        "intensities": [
-          "intensity100"
+          "wf_composite"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -827,17 +777,12 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_sawtooth",
-          "wf_composite",
-          "wf_burst"
-        ],
-        "intensities": [
-          "intensity100"
+          "wf_composite"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
         "sessionTimer": "",
-        "cycleLimit": "2",
+        "cycleLimit": "1",
         "delayBetweenCyclesMinutes": ""
       },
       "doctrine": "v27.26",
