@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-06T23:46:03.203Z",
+  "updated": "2026-10-06T23:49:53.026Z",
   "collections": [
     {
       "id": "self-explorer",
@@ -105,7 +105,7 @@
     },
     {
       "id": "nutrition",
-      "kind": "topic",
+      "kind": "persona",
       "name": "Nutrition",
       "blurb": "Digestion top to bottom, then fuel and food chemistry",
       "sets": [
