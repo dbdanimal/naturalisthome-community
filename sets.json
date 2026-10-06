@@ -1,7 +1,230 @@
 {
   "v": 1,
-  "updated": "2026-10-03T14:57:50.578Z",
+  "updated": "2026-10-06T22:17:37.480Z",
   "sets": [
+    {
+      "id": "20261006-nutr01",
+      "name": "Digestion, top to bottom",
+      "handle": "Naturalist Home",
+      "note": "I play this before lunch: the stomach first, then down through the gut.",
+      "tags": [
+        "Gut / Digestive",
+        "Meridian",
+        "Liver Spleen Gallbladder"
+      ],
+      "phrases": [
+        "Residual Digestive Residue Resolution",
+        "Residual Stomach Meridian Congestion Resolution",
+        "Residual Zusanli Point Congestion Resolution",
+        "Residual Spleen Meridian Congestion Resolution",
+        "Residual Gastric Electrical Frequency Resolution",
+        "Residual Bile Burden Resolution",
+        "Residual Gut Lining Distortion Resolution",
+        "Residual Nutrient Absorption Distortion Resolution",
+        "Residual Microbiome Distortion Resolution",
+        "Residual Small Intestine Meridian Congestion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_triangle",
+          "wf_am"
+        ],
+        "intensities": [
+          "intensity100"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-06T22:17:37.480Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-nutr02",
+      "name": "Fuel and food chemistry",
+      "handle": "Naturalist Home",
+      "note": "My kitchen-day set, after the week's shopping is put away.",
+      "tags": [
+        "Metabolic",
+        "Cellular",
+        "Liver Spleen Gallbladder"
+      ],
+      "phrases": [
+        "Residual Metabolic Distortion Resolution",
+        "Residual Glycemic Distortion Resolution",
+        "Residual Mitochondrial Burden Resolution",
+        "Residual Ion Gradient Distortion Resolution",
+        "Residual Mineral Resolution",
+        "Residual Oxidative Compound Burden Resolution",
+        "Residual Metabolic Byproduct Burden Resolution",
+        "Residual Food Additive Burden Resolution",
+        "Residual Pesticide Residue Resolution",
+        "Residual Hepatic Congestion Resolution",
+        "Residual Metabolic Waste Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_triangle",
+          "wf_sawtooth",
+          "wf_composite"
+        ],
+        "intensities": [
+          "intensity100"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-06T22:17:37.480Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-emot01",
+      "name": "Grief and loss",
+      "handle": "Naturalist Home",
+      "note": "For a quiet evening when something old comes back up.",
+      "tags": [
+        "Emotional / Trauma Architectur",
+        "Limbic System",
+        "Meridian",
+        "Evening"
+      ],
+      "phrases": [
+        "Residual Emotional Retention Resolution",
+        "Residual Grief Imprint Resolution",
+        "Residual Grief Resolution",
+        "Residual Sorrow Resolution",
+        "Residual Loss Grief Abandonment Resolution",
+        "Residual Loneliness Resolution",
+        "Residual Regret Resolution",
+        "Residual Yearning Resolution",
+        "Residual Limbic Imprint Resolution",
+        "Residual Lung Meridian Congestion Resolution",
+        "Residual Heart Meridian Congestion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_triangle",
+          "wf_am"
+        ],
+        "intensities": [
+          "intensity100"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-06T22:17:37.480Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-emot02",
+      "name": "Fear, worry and stress",
+      "handle": "Naturalist Home",
+      "note": "My pick after a tense week: the feelings first, then the body's alarm system.",
+      "tags": [
+        "Emotional / Trauma Architectur",
+        "Brain / Nervous System",
+        "Limbic System",
+        "Meridian"
+      ],
+      "phrases": [
+        "Residual Stress Imprint Resolution",
+        "Residual Fear Imprint Resolution",
+        "Residual Worry Imprint Resolution",
+        "Residual Fear Conditioning Resolution",
+        "Residual Startle Retention Resolution",
+        "Residual Amygdala Resolution",
+        "Residual Survival State Nervous System Distortion Resolution",
+        "Residual Autonomic Distortion Resolution",
+        "Residual Vagus Nerve Distortion Resolution",
+        "Residual Kidney Meridian Congestion Resolution",
+        "Residual Shenmen Point Congestion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_triangle",
+          "wf_am"
+        ],
+        "intensities": [
+          "intensity100"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-06T22:17:37.480Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-path06",
+      "name": "The consortium and its framework",
+      "handle": "Naturalist Home",
+      "note": "What is often called biofilm, by its parts: the consortium, the framework it builds, what shelters inside, then the drainage.",
+      "tags": [
+        "Infection",
+        "Gut / Digestive",
+        "Lymphatic"
+      ],
+      "phrases": [
+        "Residual Microbial Consortium Resolution",
+        "Residual Mixed Microbial Consortium Resolution",
+        "Residual Bacterial Consortium Resolution",
+        "Residual Fungal Consortium Resolution",
+        "Residual Microbial Consortium Structural Framework Resolution",
+        "Residual Extracellular Polymeric Substance Resolution",
+        "Residual Polysaccharide Structural Framework Resolution",
+        "Residual Microbial Mineral Residue Resolution",
+        "Residual Microbial Coating Resolution",
+        "Residual Quorum Signal Distortion Resolution",
+        "Residual Persister Cell Resolution",
+        "Residual Pathogen Reservoir Resolution",
+        "Residual Oral Microbial Consortium Resolution",
+        "Residual Sinus Microbial Consortium Resolution",
+        "Residual Gut Microbial Consortium Resolution",
+        "Residual Microbial Debris Resolution",
+        "Residual Bacterial Endotoxin Resolution",
+        "Residual Lymphoid Congestion Resolution",
+        "Residual Drainage Pathway Congestion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_square",
+          "wf_sawtooth",
+          "wf_burst",
+          "wf_composite",
+          "wf_triangle"
+        ],
+        "intensities": [
+          "intensity100"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-06T22:17:37.480Z",
+      "starter": true
+    },
     {
       "id": "20261002-path01",
       "name": "Kinds, forms and the duals",
@@ -182,7 +405,6 @@
         "Residual Hegu Point Congestion Resolution",
         "Residual Zusanli Point Congestion Resolution",
         "Residual Taichong Point Congestion Resolution",
-        "Residual Biological Rhythm Coherence Distortion Resolution",
         "Residual Whole System Distortion Resolution"
       ],
       "rife": "",
@@ -446,7 +668,6 @@
       ],
       "phrases": [
         "Residual Circadian Distortion Resolution",
-        "Residual Biological Rhythm Coherence Distortion Resolution",
         "Residual Rhythmic Incoherence Resolution",
         "Residual Circulatory Congestion Resolution",
         "Residual Lymphoid Congestion Resolution",
