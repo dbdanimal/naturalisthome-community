@@ -1,15 +1,21 @@
 {
   "v": 1,
-  "updated": "2026-10-07T02:20:01.170Z",
+  "updated": "2026-10-07T02:43:37.527Z",
   "collections": [
     {
       "id": "self-explorer",
       "kind": "persona",
       "name": "Self-explorer",
-      "blurb": "Quiet evening and morning sets for home",
+      "blurb": "Quiet sets for home: evenings, mornings, feelings and the chakras",
       "sets": [
         "20260930-seed01",
-        "20260930-seed02"
+        "20260930-seed02",
+        "20261006-emot01",
+        "20261006-emot02",
+        "20261006-chak01",
+        "20261006-fiel01",
+        "20261006-scre02",
+        "20261006-room01"
       ]
     },
     {
@@ -19,17 +25,36 @@
       "blurb": "Client-ready sets with consistent wording",
       "sets": [
         "20260930-seed03",
-        "20260930-seed04"
+        "20260930-seed04",
+        "20261006-horm01",
+        "20261006-horm02",
+        "20261006-reac01",
+        "20261006-drai01",
+        "20261006-drai02",
+        "20261006-viru01",
+        "20261006-fami01"
       ]
     },
     {
       "id": "acupuncturist",
       "kind": "persona",
       "name": "Acupuncturist",
-      "blurb": "Point pairs and channel sets",
+      "blurb": "Point pairs, channels, classic point groups, Five Elements and the organ clock",
       "sets": [
         "20260930-seed05",
-        "20260930-seed06"
+        "20260930-seed06",
+        "20260930-seed10",
+        "20260930-seed11",
+        "20261006-poin01",
+        "20261006-poin02",
+        "20261006-poin03",
+        "20261006-elem01",
+        "20261006-elem02",
+        "20261006-elem03",
+        "20261006-elem04",
+        "20261006-elem05",
+        "20261006-cloc01",
+        "20261006-cloc02"
       ]
     },
     {
@@ -49,7 +74,9 @@
       "blurb": "",
       "sets": [
         "20260930-seed01",
-        "20260930-seed09"
+        "20260930-seed09",
+        "20261006-scre02",
+        "20261006-cloc02"
       ]
     },
     {
@@ -69,7 +96,9 @@
       "blurb": "",
       "sets": [
         "20260930-seed06",
-        "20260930-seed11"
+        "20260930-seed11",
+        "20261006-cloc01",
+        "20261006-cloc02"
       ]
     },
     {
@@ -79,7 +108,8 @@
       "blurb": "",
       "sets": [
         "20260930-seed12",
-        "20260930-seed13"
+        "20260930-seed13",
+        "20261006-fiel02"
       ]
     },
     {
@@ -96,21 +126,27 @@
       "id": "pathogen-co-infection",
       "kind": "persona",
       "name": "Pathogen & Co-infection",
-      "blurb": "Kinds, forms and the duals; the consortium; then toxins, debris and drainage",
+      "blurb": "Kinds and forms, the consortium, mold and viruses; then toxins and drainage",
       "sets": [
         "20261002-path01",
         "20261006-path06",
-        "20261002-path05"
+        "20261002-path05",
+        "20261006-mold01",
+        "20261006-mold02",
+        "20261006-viru01"
       ]
     },
     {
       "id": "nutrition",
       "kind": "persona",
       "name": "Nutrition",
-      "blurb": "Digestion top to bottom, then fuel and food chemistry",
+      "blurb": "Digestion, food chemistry, food reactivity, the cell's fuel and the liver",
       "sets": [
         "20261006-nutr01",
-        "20261006-nutr02"
+        "20261006-nutr02",
+        "20261006-reac03",
+        "20261006-cell01",
+        "20261006-drai01"
       ]
     },
     {
@@ -120,7 +156,8 @@
       "blurb": "Grief and loss; fear, worry and stress",
       "sets": [
         "20261006-emot01",
-        "20261006-emot02"
+        "20261006-emot02",
+        "20261006-fami01"
       ]
     },
     {
@@ -131,7 +168,8 @@
       "sets": [
         "20261006-horm01",
         "20261006-horm02",
-        "20261006-horm03"
+        "20261006-horm03",
+        "20261006-scre02"
       ]
     },
     {
@@ -141,7 +179,8 @@
       "blurb": "What the body lets go of: the fungal forms, then their toxins and the drainage",
       "sets": [
         "20261006-mold01",
-        "20261006-mold02"
+        "20261006-mold02",
+        "20261006-drai01"
       ]
     },
     {
@@ -151,7 +190,9 @@
       "blurb": "Dense elements and everyday chemicals, named as what the body lets go of",
       "sets": [
         "20261006-carr01",
-        "20261006-carr02"
+        "20261006-carr02",
+        "20261006-drai02",
+        "20261006-skin02"
       ]
     },
     {
@@ -162,7 +203,8 @@
       "sets": [
         "20261006-reac01",
         "20261006-reac02",
-        "20261006-reac03"
+        "20261006-reac03",
+        "20261006-skin01"
       ]
     },
     {
@@ -172,7 +214,8 @@
       "blurb": "Mitochondria and oxidative load; after exertion",
       "sets": [
         "20261006-cell01",
-        "20261006-cell02"
+        "20261006-cell02",
+        "20261006-acti01"
       ]
     },
     {
@@ -182,7 +225,9 @@
       "blurb": "Neural load and the blood-brain barrier; signals",
       "sets": [
         "20261006-brai01",
-        "20261006-brai02"
+        "20261006-brai02",
+        "20261006-emot02",
+        "20261006-late02"
       ]
     },
     {
@@ -192,7 +237,9 @@
       "blurb": "Liver and gallbladder; kidneys and lymph",
       "sets": [
         "20261006-drai01",
-        "20261006-drai02"
+        "20261006-drai02",
+        "20261002-path05",
+        "20261006-mold02"
       ]
     },
     {
@@ -202,7 +249,8 @@
       "blurb": "Viral debris, misfolded proteins, and what the immune system leaves",
       "sets": [
         "20261006-viru01",
-        "20261006-viru02"
+        "20261006-viru02",
+        "20261006-drai02"
       ]
     },
     {
@@ -212,7 +260,8 @@
       "blurb": "The skin barrier; what touches the skin",
       "sets": [
         "20261006-skin01",
-        "20261006-skin02"
+        "20261006-skin02",
+        "20261006-reac01"
       ]
     },
     {
@@ -222,7 +271,8 @@
       "blurb": "Dental work; the oral microbiome",
       "sets": [
         "20261006-dent01",
-        "20261006-dent02"
+        "20261006-dent02",
+        "20261006-path06"
       ]
     },
     {
@@ -245,7 +295,8 @@
       "blurb": "The twelve channels in clock order, day and night",
       "sets": [
         "20261006-cloc01",
-        "20261006-cloc02"
+        "20261006-cloc02",
+        "20260930-seed06"
       ]
     },
     {
@@ -256,7 +307,9 @@
       "sets": [
         "20261006-poin01",
         "20261006-poin02",
-        "20261006-poin03"
+        "20261006-poin03",
+        "20260930-seed05",
+        "20260930-seed10"
       ]
     },
     {
@@ -267,7 +320,8 @@
       "sets": [
         "20261006-chak01",
         "20261006-chak02",
-        "20261006-chak03"
+        "20261006-chak03",
+        "20261006-fiel01"
       ]
     },
     {
@@ -277,7 +331,8 @@
       "blurb": "Aura and subtle bodies; blueprint and structure",
       "sets": [
         "20261006-fiel01",
-        "20261006-fiel02"
+        "20261006-fiel02",
+        "20260930-seed03"
       ]
     },
     {
@@ -297,37 +352,45 @@
       "blurb": "After an argument; moving into a new home",
       "sets": [
         "20261006-room01",
-        "20261006-room02"
+        "20261006-room02",
+        "20260930-seed07"
       ]
     },
     {
       "id": "for-practitioner",
       "kind": "persona",
       "name": "For the practitioner",
-      "blurb": "Your own field between clients and at the end of the day",
+      "blurb": "Your own field between clients, at the end of the day, and after a session",
       "sets": [
         "20261006-prac01",
-        "20261006-prac02"
+        "20261006-prac02",
+        "20260930-seed04",
+        "20261006-fiel01"
       ]
     },
     {
       "id": "desk-worker",
       "kind": "persona",
       "name": "Desk worker",
-      "blurb": "Neck and shoulders; eyes and screens",
+      "blurb": "Neck and shoulders, eyes and screens, devices and light at night",
       "sets": [
         "20261006-desk01",
-        "20261006-desk02"
+        "20261006-desk02",
+        "20261006-scre01",
+        "20261006-scre02"
       ]
     },
     {
       "id": "active-body",
       "kind": "persona",
       "name": "Active body",
-      "blurb": "After training; joints and fascia",
+      "blurb": "After training, joints and fascia, the cell's fuel and drainage",
       "sets": [
         "20261006-acti01",
-        "20261006-acti02"
+        "20261006-acti02",
+        "20261006-cell02",
+        "20261006-cell01",
+        "20261006-drai02"
       ]
     },
     {
@@ -337,17 +400,22 @@
       "blurb": "Wi-Fi and devices; light at night",
       "sets": [
         "20261006-scre01",
-        "20261006-scre02"
+        "20261006-scre02",
+        "20261006-desk02"
       ]
     },
     {
       "id": "later-years",
       "kind": "persona",
       "name": "Later years",
-      "blurb": "Collagen, joints and skin; memory and the nervous system",
+      "blurb": "Collagen, joints and skin; memory, the nervous system and the cell's fuel",
       "sets": [
         "20261006-late01",
-        "20261006-late02"
+        "20261006-late02",
+        "20261006-brai01",
+        "20261006-skin01",
+        "20261006-cell01",
+        "20261006-acti02"
       ]
     }
   ]
