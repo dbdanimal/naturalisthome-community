@@ -1,7 +1,1579 @@
 {
   "v": 1,
-  "updated": "2026-10-06T23:46:02.064Z",
+  "updated": "2026-10-07T02:13:50.025Z",
   "sets": [
+    {
+      "id": "20261006-horm01",
+      "name": "Thyroid and metabolic rate",
+      "handle": "Naturalist Home",
+      "note": "A morning set: the thyroid's signals first, then the pace the body runs at.",
+      "tags": [
+        "Hormonal / Endocrine",
+        "Metabolic",
+        "Morning"
+      ],
+      "phrases": [
+        "Residual Thyroid Hormone Burden Resolution",
+        "Residual Thyroid Communication Signal Resolution",
+        "Residual Thyroid Communication Resolution",
+        "Residual Thalamic Pituitary Axis Distortion Resolution",
+        "Residual Endocrine Communication Signal Resolution",
+        "Residual Halide Burden Resolution",
+        "Residual Metabolic Distortion Resolution",
+        "Residual Mitochondrial Burden Resolution",
+        "Residual Thermoregulation Distortion Resolution",
+        "Residual Throat Chakra Congestion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_sawtooth",
+          "wf_am",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.023Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-horm02",
+      "name": "Adrenal and stress hormones",
+      "handle": "Naturalist Home",
+      "note": "For the end of a long stretch: the stress hormones, the daily rhythm, then the Kidney channel.",
+      "tags": [
+        "Hormonal / Endocrine",
+        "Brain / Nervous System",
+        "Meridian"
+      ],
+      "phrases": [
+        "Residual Adrenal Burden Resolution",
+        "Residual Stress Hormone Burden Resolution",
+        "Residual Cortisol Rhythm Distortion Resolution",
+        "Residual Hypothalamic Pituitary Adrenal Axis Distortion Resolution",
+        "Residual Stress Imprint Resolution",
+        "Residual Autonomic Distortion Resolution",
+        "Residual Circadian Distortion Resolution",
+        "Residual Survival State Nervous System Distortion Resolution",
+        "Residual Kidney Meridian Congestion Resolution",
+        "Residual Shenshu Point Congestion Resolution",
+        "Residual Mingmen Point Congestion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_sawtooth",
+          "wf_am",
+          "wf_pulse25",
+          "wf_triangle",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.023Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-horm03",
+      "name": "The monthly cycle",
+      "handle": "Naturalist Home",
+      "note": "I play this in the week before the cycle turns: hormones, the pelvic channels, then the points.",
+      "tags": [
+        "Hormonal / Endocrine",
+        "Meridian",
+        "Chakra"
+      ],
+      "phrases": [
+        "Residual Hormone Burden Resolution",
+        "Residual Xenoestrogen Burden Resolution",
+        "Residual Progesterone Rhythm Distortion Resolution",
+        "Residual Lunar Rhythm Distortion Resolution",
+        "Residual Pelvic Congestion Resolution",
+        "Residual Uterine Congestion Resolution",
+        "Residual Conception Vessel Congestion Resolution",
+        "Residual Thrusting Vessel Congestion Resolution",
+        "Residual Liver Meridian Congestion Resolution",
+        "Residual Sanyinjiao Point Congestion Resolution",
+        "Residual Sacral Chakra Congestion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_sawtooth",
+          "wf_am",
+          "wf_pulse25",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.023Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-mold01",
+      "name": "Fungal forms in the body",
+      "handle": "Naturalist Home",
+      "note": "Named as what the body lets go of, not something to go after: the fungal kinds first, then where they settle.",
+      "tags": [
+        "Infection",
+        "Gut / Digestive",
+        "Respiratory"
+      ],
+      "phrases": [
+        "Residual Fungus Resolution",
+        "Residual Mold Resolution",
+        "Residual Yeast Resolution",
+        "Residual Fungal Consortium Resolution",
+        "Residual Fungal Spore Resolution",
+        "Residual Aspergillus Resolution",
+        "Residual Penicillium Resolution",
+        "Residual Stachybotrys Resolution",
+        "Residual Fungal Debris Resolution",
+        "Residual Sinus Microbial Consortium Resolution",
+        "Residual Gut Microbial Consortium Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_square",
+          "wf_burst",
+          "wf_triangle",
+          "wf_sawtooth",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.023Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-mold02",
+      "name": "Mycotoxins and drainage",
+      "handle": "Naturalist Home",
+      "note": "The toxins the body lets go of, then the pathways it lets them go through. I play it after the fungal set.",
+      "tags": [
+        "Infection",
+        "Liver Spleen Gallbladder",
+        "Lymphatic"
+      ],
+      "phrases": [
+        "Residual Mycotoxin Resolution",
+        "Residual Ochratoxin Resolution",
+        "Residual Aflatoxin Resolution",
+        "Residual Trichothecene Resolution",
+        "Residual Gliotoxin Resolution",
+        "Residual Zearalenone Resolution",
+        "Residual Mobilized Toxin Resolution",
+        "Residual Bile Burden Resolution",
+        "Residual Hepatic Congestion Resolution",
+        "Residual Lymphoid Congestion Resolution",
+        "Residual Renal Congestion Resolution",
+        "Residual Drainage Pathway Congestion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_sawtooth",
+          "wf_pulse25",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.023Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-carr01",
+      "name": "Dense elements",
+      "handle": "Naturalist Home",
+      "note": "Each element named as something the body lets go of, then the drainage pathways it leaves by.",
+      "tags": [
+        "Liver Spleen Gallbladder",
+        "Kidney / Bladder",
+        "Lymphatic"
+      ],
+      "phrases": [
+        "Residual Mercury Burden Resolution",
+        "Residual Lead Burden Resolution",
+        "Residual Aluminum Burden Resolution",
+        "Residual Cadmium Burden Resolution",
+        "Residual Arsenic Burden Resolution",
+        "Residual Nickel Burden Resolution",
+        "Residual Thallium Burden Resolution",
+        "Residual Gadolinium Burden Resolution",
+        "Residual Bile Burden Resolution",
+        "Residual Renal Congestion Resolution",
+        "Residual Lymphoid Congestion Resolution",
+        "Residual Drainage Pathway Congestion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_sawtooth",
+          "wf_pulse25",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.023Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-carr02",
+      "name": "Plastics, solvents and household chemicals",
+      "handle": "Naturalist Home",
+      "note": "The everyday chemicals, named as what the body lets go of, with the liver and drainage last.",
+      "tags": [
+        "Liver Spleen Gallbladder",
+        "Lymphatic",
+        "Cellular"
+      ],
+      "phrases": [
+        "Residual Microplastic Resolution",
+        "Residual Phthalate Burden Resolution",
+        "Residual Bisphenol Burden Resolution",
+        "Residual Petrochemical Resolution",
+        "Residual Chemical Toxin Resolution",
+        "Residual Fragrance Chemical Burden Resolution",
+        "Residual Flame Retardant Burden Resolution",
+        "Residual Fluorinated Compound Burden Resolution",
+        "Residual Pesticide Residue Resolution",
+        "Residual Glyphosate Burden Resolution",
+        "Residual Chemical Residue Energetic Retention Resolution",
+        "Residual Hepatic Congestion Resolution",
+        "Residual Drainage Pathway Congestion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_sawtooth",
+          "wf_pulse25",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.023Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-reac01",
+      "name": "Histamine and mast cells",
+      "handle": "Naturalist Home",
+      "note": "The reactive compounds first, then the linings they show up in.",
+      "tags": [
+        "Immune",
+        "Gut / Digestive",
+        "Skin"
+      ],
+      "phrases": [
+        "Residual Histamine Burden Resolution",
+        "Residual Mast Cell Burden Resolution",
+        "Residual Immune Burden Resolution",
+        "Residual Inflammatory Compound Resolution",
+        "Residual Leukotriene Burden Resolution",
+        "Residual Allergen Resolution",
+        "Residual Chemical Sensitizer Resolution",
+        "Residual Gut Lining Distortion Resolution",
+        "Residual Skin Barrier Distortion Resolution",
+        "Residual Sinus Congestion Resolution",
+        "Residual Vagus Nerve Distortion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_sawtooth",
+          "wf_am",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.023Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-reac02",
+      "name": "Pollen season",
+      "handle": "Naturalist Home",
+      "note": "My spring and late-summer set: the pollens, the airways, then the points around the nose.",
+      "tags": [
+        "Respiratory",
+        "Immune",
+        "Seasonal"
+      ],
+      "phrases": [
+        "Residual Pollen Resolution",
+        "Residual Tree Pollen Resolution",
+        "Residual Grass Pollen Resolution",
+        "Residual Ragweed Pollen Resolution",
+        "Residual Airway Particulate Resolution",
+        "Residual Histamine Burden Resolution",
+        "Residual Sinus Congestion Resolution",
+        "Residual Respiratory Congestion Resolution",
+        "Residual Lung Meridian Congestion Resolution",
+        "Residual Yingxiang Point Congestion Resolution",
+        "Residual Yintang Point Congestion Resolution",
+        "Residual Hegu Point Congestion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_sawtooth",
+          "wf_pulse25",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.023Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-reac03",
+      "name": "Food reactivity",
+      "handle": "Naturalist Home",
+      "note": "The food compounds first, then the gut lining and the immune load.",
+      "tags": [
+        "Gut / Digestive",
+        "Immune",
+        "Metabolic"
+      ],
+      "phrases": [
+        "Residual Food Imprint Resolution",
+        "Residual Gluten Imprint Resolution",
+        "Residual Casein Imprint Resolution",
+        "Residual Lectin Burden Resolution",
+        "Residual Oxalate Burden Resolution",
+        "Residual Salicylate Burden Resolution",
+        "Residual Food Additive Burden Resolution",
+        "Residual Gut Lining Distortion Resolution",
+        "Residual Microbiome Distortion Resolution",
+        "Residual Histamine Burden Resolution",
+        "Residual Immune Burden Resolution",
+        "Residual Digestive Residue Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_sawtooth",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.023Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-cell01",
+      "name": "Mitochondria and oxidative load",
+      "handle": "Naturalist Home",
+      "note": "The cell's power plants, the membrane, then what oxidation leaves behind.",
+      "tags": [
+        "Cellular",
+        "Metabolic",
+        "Electrical System"
+      ],
+      "phrases": [
+        "Residual Mitochondrial Burden Resolution",
+        "Residual Mitochondrial Membrane Distortion Resolution",
+        "Residual Cell Membrane Distortion Resolution",
+        "Residual Ion Gradient Distortion Resolution",
+        "Residual Oxidative Compound Burden Resolution",
+        "Residual Free Radical Burden Resolution",
+        "Residual Cellular Burden Resolution",
+        "Residual Metabolic Byproduct Burden Resolution",
+        "Residual Lactic Acid Residue Resolution",
+        "Residual Cellular Signal Distortion Resolution",
+        "Residual Biophoton Cellular Burden Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_sawtooth",
+          "wf_am",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.023Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-cell02",
+      "name": "After exertion",
+      "handle": "Naturalist Home",
+      "note": "For the evening after a hard day: what the cells are left holding.",
+      "tags": [
+        "Cellular",
+        "Metabolic",
+        "After exercise"
+      ],
+      "phrases": [
+        "Residual Exertion Imprint Resolution",
+        "Residual Metabolic Byproduct Burden Resolution",
+        "Residual Lactic Acid Residue Resolution",
+        "Residual Ammonia Burden Resolution",
+        "Residual Ion Gradient Distortion Resolution",
+        "Residual Oxidative Compound Burden Resolution",
+        "Residual Mitochondrial Burden Resolution",
+        "Residual Cellular Burden Resolution",
+        "Residual Adrenal Burden Resolution",
+        "Residual Circadian Distortion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_sawtooth",
+          "wf_am",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.023Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-brai01",
+      "name": "Neural load and the blood-brain barrier",
+      "handle": "Naturalist Home",
+      "note": "The barrier and the brain's drainage first, then the deeper structures and two head points.",
+      "tags": [
+        "Brain / Nervous System",
+        "Lymphatic",
+        "Meridian"
+      ],
+      "phrases": [
+        "Residual Blood Brain Barrier Retention Resolution",
+        "Residual Neural Inflammatory Compound Resolution",
+        "Residual Microglial Burden Resolution",
+        "Residual Glymphatic Congestion Resolution",
+        "Residual Cerebrospinal Fluid Congestion Resolution",
+        "Residual Nervous System Distortion Resolution",
+        "Residual Brainwave Distortion Resolution",
+        "Residual Thalamic Retention Resolution",
+        "Residual Hippocampal Imprint Resolution",
+        "Residual Baihui Point Congestion Resolution",
+        "Residual Fengchi Point Congestion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_sawtooth",
+          "wf_pulse25",
+          "wf_am",
+          "wf_triangle",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.023Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-brai02",
+      "name": "Signals and neurotransmitters",
+      "handle": "Naturalist Home",
+      "note": "The messengers, then the circuits they run through, then the gut-brain line.",
+      "tags": [
+        "Brain / Nervous System",
+        "Limbic System",
+        "Gut / Digestive"
+      ],
+      "phrases": [
+        "Residual Signal Distortion Resolution",
+        "Residual Neurotransmitter Signal Distortion Resolution",
+        "Residual Dopamine Signal Distortion Resolution",
+        "Residual Serotonin Signal Distortion Resolution",
+        "Residual Acetylcholine Signal Distortion Resolution",
+        "Residual Glutamate Signal Distortion Resolution",
+        "Residual Reward System Distortion Resolution",
+        "Residual Limbic Circuits Resolution",
+        "Residual Vagus Nerve Distortion Resolution",
+        "Residual Autonomic Distortion Resolution",
+        "Residual Gut Brain Axis Distortion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_am",
+          "wf_triangle",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.024Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-drai01",
+      "name": "Liver and gallbladder",
+      "handle": "Naturalist Home",
+      "note": "The organs first, then their channels and the points on the ribs and back.",
+      "tags": [
+        "Liver Spleen Gallbladder",
+        "Meridian"
+      ],
+      "phrases": [
+        "Residual Liver Burden Resolution",
+        "Residual Hepatic Congestion Resolution",
+        "Residual Bile Burden Resolution",
+        "Residual Biliary Congestion Resolution",
+        "Residual Gallbladder Congestion Resolution",
+        "Residual Conjugation Pathway Congestion Resolution",
+        "Residual Liver Meridian Congestion Resolution",
+        "Residual Gallbladder Meridian Congestion Resolution",
+        "Residual Qimen Point Congestion Resolution",
+        "Residual Riyue Point Congestion Resolution",
+        "Residual Ganshu Point Congestion Resolution",
+        "Residual Danshu Point Congestion Resolution",
+        "Residual Taichong Point Congestion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_sawtooth",
+          "wf_pulse25",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.024Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-drai02",
+      "name": "Kidneys and lymph",
+      "handle": "Naturalist Home",
+      "note": "Kidneys and bladder, the lymph and its ducts, then the channels down to the feet.",
+      "tags": [
+        "Kidney / Bladder",
+        "Lymphatic",
+        "Meridian"
+      ],
+      "phrases": [
+        "Residual Renal Congestion Resolution",
+        "Residual Bladder Congestion Resolution",
+        "Residual Lymphoid Congestion Resolution",
+        "Residual Lymph Node Congestion Resolution",
+        "Residual Thoracic Duct Congestion Resolution",
+        "Residual Cisterna Chyli Congestion Resolution",
+        "Residual Interstitial Fluid Congestion Resolution",
+        "Residual Drainage Pathway Congestion Resolution",
+        "Residual Kidney Meridian Congestion Resolution",
+        "Residual Bladder Meridian Congestion Resolution",
+        "Residual Shenshu Point Congestion Resolution",
+        "Residual Yongquan Point Congestion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_sawtooth",
+          "wf_pulse25",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.024Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-viru01",
+      "name": "Viral debris and misfolded proteins",
+      "handle": "Naturalist Home",
+      "note": "What a virus leaves: its debris and proteins, misfolded proteins with them, and where they wait.",
+      "tags": [
+        "Infection",
+        "Immune",
+        "Cellular"
+      ],
+      "phrases": [
+        "Residual Virus Resolution",
+        "Residual Viral Debris Resolution",
+        "Residual Viral Protein Residue Resolution",
+        "Residual Viral Imprint Resolution",
+        "Residual Spike Protein Residue Resolution",
+        "Residual Misfolded Protein Residue Resolution",
+        "Residual Misfolded Protein Aggregate Resolution",
+        "Residual Protein Aggregate Resolution",
+        "Residual Amyloid Residue Resolution",
+        "Residual Pathogen Reservoir Resolution",
+        "Residual Microbial Debris Resolution",
+        "Residual Immune Burden Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_square",
+          "wf_burst",
+          "wf_triangle",
+          "wf_sawtooth",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.024Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-viru02",
+      "name": "What the immune system leaves",
+      "handle": "Naturalist Home",
+      "note": "The immune system's leftovers, then the lymph, then the energy it took.",
+      "tags": [
+        "Immune",
+        "Lymphatic",
+        "Respiratory"
+      ],
+      "phrases": [
+        "Residual Immune Imprint Resolution",
+        "Residual Immune Burden Resolution",
+        "Residual Cytokine Burden Resolution",
+        "Residual Immune Complex Burden Resolution",
+        "Residual Inflammatory Compound Resolution",
+        "Residual Mast Cell Burden Resolution",
+        "Residual Lymphoid Congestion Resolution",
+        "Residual Splenic Congestion Resolution",
+        "Residual Thymic Congestion Resolution",
+        "Residual Mitochondrial Burden Resolution",
+        "Residual Exertion Imprint Resolution",
+        "Residual Autonomic Distortion Resolution",
+        "Residual Lung Meridian Congestion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_sawtooth",
+          "wf_pulse25",
+          "wf_am",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.024Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-skin01",
+      "name": "Skin barrier",
+      "handle": "Naturalist Home",
+      "note": "The barrier and its microbes, then the Lung and Large Intestine channels that go with skin.",
+      "tags": [
+        "Skin",
+        "Meridian",
+        "Immune"
+      ],
+      "phrases": [
+        "Residual Skin Barrier Distortion Resolution",
+        "Residual Dermal Residue Resolution",
+        "Residual Dermal Congestion Resolution",
+        "Residual Skin Microbial Consortium Resolution",
+        "Residual Collagen Burden Resolution",
+        "Residual Histamine Burden Resolution",
+        "Residual Lung Meridian Congestion Resolution",
+        "Residual Large Intestine Meridian Congestion Resolution",
+        "Residual Quchi Point Congestion Resolution",
+        "Residual Xuehai Point Congestion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_sawtooth",
+          "wf_pulse25",
+          "wf_burst",
+          "wf_triangle",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.024Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-skin02",
+      "name": "What touches the skin",
+      "handle": "Naturalist Home",
+      "note": "Soaps, fabrics, fragrance and sunscreen, then the skin and lymph.",
+      "tags": [
+        "Skin",
+        "Lymphatic"
+      ],
+      "phrases": [
+        "Residual Topical Chemical Residue Resolution",
+        "Residual Fragrance Chemical Burden Resolution",
+        "Residual Detergent Residue Resolution",
+        "Residual Dye Residue Resolution",
+        "Residual Fabric Finish Residue Resolution",
+        "Residual Formaldehyde Burden Resolution",
+        "Residual Paraben Burden Resolution",
+        "Residual Sunscreen Chemical Residue Resolution",
+        "Residual Dermal Residue Resolution",
+        "Residual Skin Barrier Distortion Resolution",
+        "Residual Lymphoid Congestion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_sawtooth",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.024Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-dent01",
+      "name": "Dental work",
+      "handle": "Naturalist Home",
+      "note": "After a dental visit: the work itself, the jaw, then the points along the face.",
+      "tags": [
+        "Dental",
+        "Mouth / Oral Ecology",
+        "Meridian"
+      ],
+      "phrases": [
+        "Residual Dental Implant Imprint Resolution",
+        "Residual Dental Crown Imprint Resolution",
+        "Residual Dental Resin Resolution",
+        "Residual Tooth Extraction Imprint Resolution",
+        "Residual Temporomandibular Congestion Resolution",
+        "Residual Trigeminal Distortion Resolution",
+        "Residual Jiache Point Congestion Resolution",
+        "Residual Xiaguan Point Congestion Resolution",
+        "Residual Hegu Point Congestion Resolution",
+        "Residual Stomach Meridian Congestion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_square",
+          "wf_sawtooth",
+          "wf_pulse25",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.024Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-dent02",
+      "name": "The oral microbiome",
+      "handle": "Naturalist Home",
+      "note": "The mouth's microbes, then the throat and lymph nearby.",
+      "tags": [
+        "Mouth / Oral Ecology",
+        "Dental",
+        "Infection"
+      ],
+      "phrases": [
+        "Residual Oral Microbial Consortium Resolution",
+        "Residual Gum Line Microbial Consortium Resolution",
+        "Residual Tongue Microbial Consortium Resolution",
+        "Residual Oral Microbiome Distortion Resolution",
+        "Residual Dental Plaque Residue Resolution",
+        "Residual Tonsillar Congestion Resolution",
+        "Residual Sinus Microbial Consortium Resolution",
+        "Residual Lymphoid Congestion Resolution",
+        "Residual Stomach Meridian Congestion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_square",
+          "wf_burst",
+          "wf_triangle",
+          "wf_sawtooth",
+          "wf_pulse25",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.024Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-elem01",
+      "name": "Wood: Liver and Gallbladder",
+      "handle": "Naturalist Home",
+      "note": "Wood's channels and points, then anger and its cousins.",
+      "tags": [
+        "Meridian",
+        "Liver Spleen Gallbladder",
+        "Emotional / Trauma Architectur"
+      ],
+      "phrases": [
+        "Residual Wood Element Distortion Resolution",
+        "Residual Liver Meridian Congestion Resolution",
+        "Residual Gallbladder Meridian Congestion Resolution",
+        "Residual Taichong Point Congestion Resolution",
+        "Residual Yanglingquan Point Congestion Resolution",
+        "Residual Hepatic Congestion Resolution",
+        "Residual Anger Resolution",
+        "Residual Resentment Resolution",
+        "Residual Frustration Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_pulse25",
+          "wf_triangle",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.024Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-elem02",
+      "name": "Fire: Heart and Small Intestine",
+      "handle": "Naturalist Home",
+      "note": "The four Fire channels and two calming points, then overexcitement.",
+      "tags": [
+        "Meridian",
+        "Heart / Circulation",
+        "Emotional / Trauma Architectur"
+      ],
+      "phrases": [
+        "Residual Fire Element Distortion Resolution",
+        "Residual Heart Meridian Congestion Resolution",
+        "Residual Small Intestine Meridian Congestion Resolution",
+        "Residual Pericardium Meridian Congestion Resolution",
+        "Residual Triple Energizer Meridian Congestion Resolution",
+        "Residual Shenmen Point Congestion Resolution",
+        "Residual Neiguan Point Congestion Resolution",
+        "Residual Overexcitement Imprint Resolution",
+        "Residual Heart Chakra Congestion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_pulse25",
+          "wf_triangle",
+          "wf_am",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.024Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-elem03",
+      "name": "Earth: Stomach and Spleen",
+      "handle": "Naturalist Home",
+      "note": "Earth's channels and points, then worry.",
+      "tags": [
+        "Meridian",
+        "Gut / Digestive",
+        "Emotional / Trauma Architectur"
+      ],
+      "phrases": [
+        "Residual Earth Element Distortion Resolution",
+        "Residual Stomach Meridian Congestion Resolution",
+        "Residual Spleen Meridian Congestion Resolution",
+        "Residual Zusanli Point Congestion Resolution",
+        "Residual Sanyinjiao Point Congestion Resolution",
+        "Residual Digestive Residue Resolution",
+        "Residual Worry Resolution",
+        "Residual Worry Imprint Resolution",
+        "Residual Rumination Imprint Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_pulse25",
+          "wf_triangle",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.024Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-elem04",
+      "name": "Metal: Lung and Large Intestine",
+      "handle": "Naturalist Home",
+      "note": "Metal's channels and points, then grief.",
+      "tags": [
+        "Meridian",
+        "Respiratory",
+        "Emotional / Trauma Architectur"
+      ],
+      "phrases": [
+        "Residual Metal Element Distortion Resolution",
+        "Residual Lung Meridian Congestion Resolution",
+        "Residual Large Intestine Meridian Congestion Resolution",
+        "Residual Taiyuan Point Congestion Resolution",
+        "Residual Hegu Point Congestion Resolution",
+        "Residual Respiratory Congestion Resolution",
+        "Residual Grief Resolution",
+        "Residual Grief Imprint Resolution",
+        "Residual Sorrow Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_pulse25",
+          "wf_triangle",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.024Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-elem05",
+      "name": "Water: Kidney and Bladder",
+      "handle": "Naturalist Home",
+      "note": "Water's channels and points, then fear.",
+      "tags": [
+        "Meridian",
+        "Kidney / Bladder",
+        "Emotional / Trauma Architectur"
+      ],
+      "phrases": [
+        "Residual Water Element Distortion Resolution",
+        "Residual Kidney Meridian Congestion Resolution",
+        "Residual Bladder Meridian Congestion Resolution",
+        "Residual Taixi Point Congestion Resolution",
+        "Residual Yongquan Point Congestion Resolution",
+        "Residual Shenshu Point Congestion Resolution",
+        "Residual Renal Congestion Resolution",
+        "Residual Fear Resolution",
+        "Residual Fear Imprint Resolution",
+        "Residual Startle Retention Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_pulse25",
+          "wf_triangle",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.025Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-cloc01",
+      "name": "Daytime channels",
+      "handle": "Naturalist Home",
+      "note": "The channels from the early hours to mid-afternoon, in clock order: Lung to Small Intestine.",
+      "tags": [
+        "Meridian",
+        "Sleep / Circadian Ecology",
+        "Channels"
+      ],
+      "phrases": [
+        "Residual Lung Meridian Congestion Resolution",
+        "Residual Large Intestine Meridian Congestion Resolution",
+        "Residual Stomach Meridian Congestion Resolution",
+        "Residual Spleen Meridian Congestion Resolution",
+        "Residual Heart Meridian Congestion Resolution",
+        "Residual Small Intestine Meridian Congestion Resolution",
+        "Residual Circadian Distortion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_pulse25",
+          "wf_am"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.025Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-cloc02",
+      "name": "Night channels",
+      "handle": "Naturalist Home",
+      "note": "Mid-afternoon to the early hours, in clock order: Bladder to Liver. I play it in the evening.",
+      "tags": [
+        "Meridian",
+        "Sleep / Circadian Ecology",
+        "Evening"
+      ],
+      "phrases": [
+        "Residual Bladder Meridian Congestion Resolution",
+        "Residual Kidney Meridian Congestion Resolution",
+        "Residual Pericardium Meridian Congestion Resolution",
+        "Residual Triple Energizer Meridian Congestion Resolution",
+        "Residual Gallbladder Meridian Congestion Resolution",
+        "Residual Liver Meridian Congestion Resolution",
+        "Residual Circadian Distortion Resolution",
+        "Residual Melatonin Rhythm Distortion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_pulse25",
+          "wf_am"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.025Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-poin01",
+      "name": "Window of the Sky points",
+      "handle": "Naturalist Home",
+      "note": "The ten points around the neck and upper chest, as the classic group lists them.",
+      "tags": [
+        "Meridian",
+        "Acupoints",
+        "Head and neck"
+      ],
+      "phrases": [
+        "Residual Large Intestine Futu Point Congestion Resolution",
+        "Residual Renying Point Congestion Resolution",
+        "Residual Tianchuang Point Congestion Resolution",
+        "Residual Tianrong Point Congestion Resolution",
+        "Residual Tianyou Point Congestion Resolution",
+        "Residual Tianzhu Point Congestion Resolution",
+        "Residual Tianfu Point Congestion Resolution",
+        "Residual Tianchi Point Congestion Resolution",
+        "Residual Tiantu Point Congestion Resolution",
+        "Residual Fengfu Point Congestion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_pulse25"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.025Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-poin02",
+      "name": "Back-shu points",
+      "handle": "Naturalist Home",
+      "note": "The back-shu points from top to bottom, one for each organ.",
+      "tags": [
+        "Meridian",
+        "Acupoints",
+        "Shoulders and back"
+      ],
+      "phrases": [
+        "Residual Feishu Point Congestion Resolution",
+        "Residual Jueyinshu Point Congestion Resolution",
+        "Residual Xinshu Point Congestion Resolution",
+        "Residual Ganshu Point Congestion Resolution",
+        "Residual Danshu Point Congestion Resolution",
+        "Residual Pishu Point Congestion Resolution",
+        "Residual Weishu Point Congestion Resolution",
+        "Residual Sanjiaoshu Point Congestion Resolution",
+        "Residual Shenshu Point Congestion Resolution",
+        "Residual Dachangshu Point Congestion Resolution",
+        "Residual Xiaochangshu Point Congestion Resolution",
+        "Residual Pangguangshu Point Congestion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_pulse25"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.025Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-poin03",
+      "name": "Ear points",
+      "handle": "Naturalist Home",
+      "note": "The five-point ear set, in its usual order.",
+      "tags": [
+        "Meridian",
+        "Acupoints",
+        "Eyes / Ears"
+      ],
+      "phrases": [
+        "Residual Ear Shenmen Point Congestion Resolution",
+        "Residual Ear Sympathetic Point Congestion Resolution",
+        "Residual Ear Kidney Point Congestion Resolution",
+        "Residual Ear Liver Point Congestion Resolution",
+        "Residual Ear Lung Point Congestion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_pulse25"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.025Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-chak01",
+      "name": "Root to crown",
+      "handle": "Naturalist Home",
+      "note": "All seven centres from the base up, then the network as a whole.",
+      "tags": [
+        "Chakra",
+        "Biofield / Energetic"
+      ],
+      "phrases": [
+        "Residual Root Chakra Congestion Resolution",
+        "Residual Sacral Chakra Congestion Resolution",
+        "Residual Solar Plexus Chakra Congestion Resolution",
+        "Residual Heart Chakra Congestion Resolution",
+        "Residual Throat Chakra Congestion Resolution",
+        "Residual Third Eye Chakra Congestion Resolution",
+        "Residual Crown Chakra Congestion Resolution",
+        "Residual Chakra Network Resolution",
+        "Residual Chakra Architecture Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_am",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.025Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-chak02",
+      "name": "The lower three",
+      "handle": "Naturalist Home",
+      "note": "Root, sacral and solar plexus with their colours, then what the lower centres hold.",
+      "tags": [
+        "Chakra",
+        "Light / Color",
+        "Ancestral / Lineage"
+      ],
+      "phrases": [
+        "Residual Root Chakra Congestion Resolution",
+        "Residual Root Chakra Color Congestion Resolution",
+        "Residual Sacral Chakra Congestion Resolution",
+        "Residual Solar Plexus Chakra Congestion Resolution",
+        "Residual Solar Plexus Chakra Color Congestion Resolution",
+        "Residual Ancestral Imprint Resolution",
+        "Residual Emotional Imprint Resolution",
+        "Residual Stressor Imprint Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_am",
+          "wf_triangle",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.025Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-chak03",
+      "name": "The upper four",
+      "handle": "Naturalist Home",
+      "note": "Heart to crown with their colours, then the throat's signal line.",
+      "tags": [
+        "Chakra",
+        "Light / Color"
+      ],
+      "phrases": [
+        "Residual Heart Chakra Congestion Resolution",
+        "Residual Heart Chakra Color Congestion Resolution",
+        "Residual Throat Chakra Congestion Resolution",
+        "Residual Throat Chakra Color Congestion Resolution",
+        "Residual Third Eye Chakra Congestion Resolution",
+        "Residual Third Eye Chakra Color Congestion Resolution",
+        "Residual Crown Chakra Congestion Resolution",
+        "Residual Crown Chakra Color Congestion Resolution",
+        "Residual Thyroid Communication Signal Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_am",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.025Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-fiel01",
+      "name": "Aura and subtle bodies",
+      "handle": "Naturalist Home",
+      "note": "The aura's edge and layers, then each subtle body from the etheric out.",
+      "tags": [
+        "Aura / Subtle Body",
+        "Biofield / Energetic"
+      ],
+      "phrases": [
+        "Residual Auric Field Distortion Resolution",
+        "Residual Aura Layer Fragmentation Resolution",
+        "Residual Aura Boundary Leakage Resolution",
+        "Residual Etheric Body Distortion Resolution",
+        "Residual Emotional Body Distortion Resolution",
+        "Residual Mental Body Distortion Resolution",
+        "Residual Astral Body Distortion Resolution",
+        "Residual Celestial Body Distortion Resolution",
+        "Residual Ketheric Body Distortion Resolution",
+        "Residual Subtle Field Distortion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_am",
+          "wf_noise",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.025Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-fiel02",
+      "name": "Blueprint and structure",
+      "handle": "Naturalist Home",
+      "note": "The templates the field is built on, then the whole system.",
+      "tags": [
+        "Aura / Subtle Body",
+        "Energetic Field Architecture",
+        "Sacred Geometry Architecture"
+      ],
+      "phrases": [
+        "Residual Energetic Blueprint Distortion Resolution",
+        "Residual Etheric Template Resolution",
+        "Residual Original Soul Blueprint Distortion Resolution",
+        "Residual Biofield Geometry Distortion Resolution",
+        "Residual Energetic Structure Distortion Resolution",
+        "Residual Higher Dimensional Etheric Grid Distortion Resolution",
+        "Residual Light Body Distortion Resolution",
+        "Residual Energetic Body Misalignment Resolution",
+        "Residual Whole System Distortion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_am",
+          "wf_noise",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.025Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-fami01",
+      "name": "Ancestral imprints",
+      "handle": "Naturalist Home",
+      "note": "What came down the family line: imprints, trauma, then the genetic memory.",
+      "tags": [
+        "Ancestral / Lineage",
+        "Emotional / Trauma Architectur",
+        "Miasm Architecture"
+      ],
+      "phrases": [
+        "Residual Ancestral Imprint Resolution",
+        "Residual Generational Imprint Resolution",
+        "Residual Ancestral Distortion Resolution",
+        "Residual Generational Trauma Resolution",
+        "Residual Ancestral Trauma Resolution",
+        "Residual Lineage Imprint Resolution",
+        "Residual Ancestral Methylation Imprint Resolution",
+        "Residual Epigenetic Energy Imprints Resolution",
+        "Residual Genetic Memory Storage Resolution",
+        "Residual Inherited Spiritual Imprinting Resolution",
+        "Residual Genetic Miasm Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_triangle",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.025Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-fami02",
+      "name": "Vows and contracts",
+      "handle": "Naturalist Home",
+      "note": "Old promises, debts and cords, family and beyond.",
+      "tags": [
+        "Ancestral / Lineage",
+        "Spiritual Protection Architect",
+        "Soul / Fragmentation Architect"
+      ],
+      "phrases": [
+        "Residual Ancestral Vow Resolution",
+        "Residual Soul Contract Information Resolution",
+        "Residual Covenant Resolution",
+        "Residual Karmic Imprint Resolution",
+        "Residual Karmic Imprinting Resolution",
+        "Residual Past Life Imprinting Resolution",
+        "Residual Energetic Debt Resolution",
+        "Residual Consent Imprinting Resolution",
+        "Residual Ritual Imprinting Resolution",
+        "Residual Etheric Cords Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_triangle",
+          "wf_pulse25",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.025Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-room01",
+      "name": "After an argument",
+      "handle": "Naturalist Home",
+      "note": "I leave this running in the room afterwards, with the door closed.",
+      "tags": [
+        "For a room",
+        "Energetic Clearing",
+        "Spiritual Protection Architect"
+      ],
+      "phrases": [
+        "Residual Discord Imprint Resolution",
+        "Residual Anger Imprint Resolution",
+        "Residual Spoken Word Imprint Resolution",
+        "Residual Stressor Imprint Resolution",
+        "Residual Energetic Noise Resolution",
+        "Residual Energetic Congestion Resolution",
+        "Residual Subtle Field Distortion Resolution",
+        "Residual Sacred Smoke Resolution",
+        "Residual Smudging Resolution",
+        "Residual Field Distortion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_triangle",
+          "wf_am",
+          "wf_noise",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:13:50.025Z",
+      "starter": true
+    },
     {
       "id": "20261006-nutr01",
       "name": "Digestion, top to bottom",
