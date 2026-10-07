@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-06T23:49:53.026Z",
+  "updated": "2026-10-07T02:13:51.016Z",
   "collections": [
     {
       "id": "self-explorer",
@@ -121,6 +121,233 @@
       "sets": [
         "20261006-emot01",
         "20261006-emot02"
+      ]
+    },
+    {
+      "id": "hormones-rhythm",
+      "kind": "topic",
+      "name": "Hormones and rhythm",
+      "blurb": "Thyroid, adrenal and the monthly cycle",
+      "sets": [
+        "20261006-horm01",
+        "20261006-horm02",
+        "20261006-horm03"
+      ]
+    },
+    {
+      "id": "mold-mycotoxins",
+      "kind": "topic",
+      "name": "Mold and mycotoxins",
+      "blurb": "What the body lets go of: the fungal forms, then their toxins and the drainage",
+      "sets": [
+        "20261006-mold01",
+        "20261006-mold02"
+      ]
+    },
+    {
+      "id": "body-carries",
+      "kind": "topic",
+      "name": "What the body carries",
+      "blurb": "Dense elements and everyday chemicals, named as what the body lets go of",
+      "sets": [
+        "20261006-carr01",
+        "20261006-carr02"
+      ]
+    },
+    {
+      "id": "reactivity",
+      "kind": "topic",
+      "name": "Reactivity",
+      "blurb": "Histamine and mast cells, pollen season, food",
+      "sets": [
+        "20261006-reac01",
+        "20261006-reac02",
+        "20261006-reac03"
+      ]
+    },
+    {
+      "id": "cellular-energy",
+      "kind": "topic",
+      "name": "Cellular energy",
+      "blurb": "Mitochondria and oxidative load; after exertion",
+      "sets": [
+        "20261006-cell01",
+        "20261006-cell02"
+      ]
+    },
+    {
+      "id": "brain-nervous",
+      "kind": "topic",
+      "name": "Brain and nervous system",
+      "blurb": "Neural load and the blood-brain barrier; signals",
+      "sets": [
+        "20261006-brai01",
+        "20261006-brai02"
+      ]
+    },
+    {
+      "id": "drainage-pathways",
+      "kind": "topic",
+      "name": "Drainage pathways",
+      "blurb": "Liver and gallbladder; kidneys and lymph",
+      "sets": [
+        "20261006-drai01",
+        "20261006-drai02"
+      ]
+    },
+    {
+      "id": "after-virus",
+      "kind": "topic",
+      "name": "After a virus",
+      "blurb": "Viral debris, misfolded proteins, and what the immune system leaves",
+      "sets": [
+        "20261006-viru01",
+        "20261006-viru02"
+      ]
+    },
+    {
+      "id": "skin",
+      "kind": "topic",
+      "name": "Skin",
+      "blurb": "The skin barrier; what touches the skin",
+      "sets": [
+        "20261006-skin01",
+        "20261006-skin02"
+      ]
+    },
+    {
+      "id": "dental-oral",
+      "kind": "topic",
+      "name": "Dental and oral",
+      "blurb": "Dental work; the oral microbiome",
+      "sets": [
+        "20261006-dent01",
+        "20261006-dent02"
+      ]
+    },
+    {
+      "id": "five-elements",
+      "kind": "topic",
+      "name": "Five Elements",
+      "blurb": "Each element's channels with its emotion",
+      "sets": [
+        "20261006-elem01",
+        "20261006-elem02",
+        "20261006-elem03",
+        "20261006-elem04",
+        "20261006-elem05"
+      ]
+    },
+    {
+      "id": "organ-clock",
+      "kind": "topic",
+      "name": "The organ clock",
+      "blurb": "The twelve channels in clock order, day and night",
+      "sets": [
+        "20261006-cloc01",
+        "20261006-cloc02"
+      ]
+    },
+    {
+      "id": "point-groups",
+      "kind": "topic",
+      "name": "Classic point groups",
+      "blurb": "Window of the Sky, back-shu and ear points",
+      "sets": [
+        "20261006-poin01",
+        "20261006-poin02",
+        "20261006-poin03"
+      ]
+    },
+    {
+      "id": "chakras",
+      "kind": "topic",
+      "name": "Chakras",
+      "blurb": "Root to crown; the lower three; the upper four",
+      "sets": [
+        "20261006-chak01",
+        "20261006-chak02",
+        "20261006-chak03"
+      ]
+    },
+    {
+      "id": "field-layers",
+      "kind": "topic",
+      "name": "Layers of the field",
+      "blurb": "Aura and subtle bodies; blueprint and structure",
+      "sets": [
+        "20261006-fiel01",
+        "20261006-fiel02"
+      ]
+    },
+    {
+      "id": "family-line",
+      "kind": "topic",
+      "name": "Family line",
+      "blurb": "Ancestral imprints; vows and contracts",
+      "sets": [
+        "20261006-fami01",
+        "20261006-fami02"
+      ]
+    },
+    {
+      "id": "rooms-homes",
+      "kind": "topic",
+      "name": "Rooms and homes",
+      "blurb": "After an argument; moving into a new home",
+      "sets": [
+        "20261006-room01",
+        "20261006-room02"
+      ]
+    },
+    {
+      "id": "for-practitioner",
+      "kind": "persona",
+      "name": "For the practitioner",
+      "blurb": "Your own field between clients and at the end of the day",
+      "sets": [
+        "20261006-prac01",
+        "20261006-prac02"
+      ]
+    },
+    {
+      "id": "desk-worker",
+      "kind": "persona",
+      "name": "Desk worker",
+      "blurb": "Neck and shoulders; eyes and screens",
+      "sets": [
+        "20261006-desk01",
+        "20261006-desk02"
+      ]
+    },
+    {
+      "id": "active-body",
+      "kind": "persona",
+      "name": "Active body",
+      "blurb": "After training; joints and fascia",
+      "sets": [
+        "20261006-acti01",
+        "20261006-acti02"
+      ]
+    },
+    {
+      "id": "screens-signals",
+      "kind": "topic",
+      "name": "Screens and signals",
+      "blurb": "Wi-Fi and devices; light at night",
+      "sets": [
+        "20261006-scre01",
+        "20261006-scre02"
+      ]
+    },
+    {
+      "id": "later-years",
+      "kind": "persona",
+      "name": "Later years",
+      "blurb": "Collagen, joints and skin; memory and the nervous system",
+      "sets": [
+        "20261006-late01",
+        "20261006-late02"
       ]
     }
   ]
