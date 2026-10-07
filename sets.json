@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-07T02:43:36.481Z",
+  "updated": "2026-10-07T16:45:15.616Z",
   "sets": [
     {
       "id": "20261006-room02",
@@ -2252,7 +2252,6 @@
         "Residual Bacteria Resolution",
         "Residual Spirochete Resolution",
         "Residual Virus Resolution",
-        "Residual Fungus Resolution",
         "Residual Helminth Resolution",
         "Residual Ectoparasite Resolution",
         "Residual Parasite Resolution",
