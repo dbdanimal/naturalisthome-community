@@ -1,7 +1,449 @@
 {
   "v": 1,
-  "updated": "2026-10-07T02:20:00.098Z",
+  "updated": "2026-10-07T02:43:36.481Z",
   "sets": [
+    {
+      "id": "20261006-room02",
+      "name": "Moving into a new home",
+      "handle": "Naturalist Home",
+      "note": "For the first week in a new place: what the last people left, the ground, then the threshold.",
+      "tags": [
+        "For a room",
+        "Biofield - Ley Line",
+        "Spiritual Protection Architect"
+      ],
+      "phrases": [
+        "Residual Previous Occupant Imprint Resolution",
+        "Residual Structural Sound Retention Resolution",
+        "Residual Geomantic Imprint Resolution",
+        "Residual Ley Line Distortion Resolution",
+        "Residual Electromagnetic Field Distortion Resolution",
+        "Residual Spirit Bound Residue Resolution",
+        "Residual Energetic Noise Resolution",
+        "Residual Sea Salt At Entryways Resolution",
+        "Residual Smudging Resolution",
+        "Residual Subtle Field Distortion Resolution",
+        "Residual Field Distortion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_triangle",
+          "wf_pulse25",
+          "wf_am",
+          "wf_noise",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:43:36.480Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-prac01",
+      "name": "Between clients",
+      "handle": "Naturalist Home",
+      "note": "Five minutes between appointments: what I picked up, then my own edges.",
+      "tags": [
+        "Spiritual Protection Architect",
+        "Aura / Subtle Body",
+        "Session close"
+      ],
+      "phrases": [
+        "Residual Absorbed Emotional Imprint Resolution",
+        "Residual Psychic Intrusion Resolution",
+        "Residual Aura Attachment Resolution",
+        "Residual Aura Boundary Leakage Resolution",
+        "Residual Energetic Shielding Distortion Resolution",
+        "Residual Etheric Cords Resolution",
+        "Residual External Influence Resolution",
+        "Residual Biofield Energy Sealing Resolution",
+        "Residual Subtle Field Distortion Resolution",
+        "Residual Field Distortion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_triangle",
+          "wf_am",
+          "wf_pulse25",
+          "wf_noise",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:43:36.480Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-prac02",
+      "name": "End of the clinic day",
+      "handle": "Naturalist Home",
+      "note": "After the last client, before I go home.",
+      "tags": [
+        "Energetic Clearing",
+        "Brain / Nervous System",
+        "Session close"
+      ],
+      "phrases": [
+        "Residual Stressor Imprint Resolution",
+        "Residual Energetic Congestion Resolution",
+        "Residual Exertion Imprint Resolution",
+        "Residual Emotional Retention Resolution",
+        "Residual Etheric Cords Resolution",
+        "Residual Spiritual Attachment Resolution",
+        "Residual Auric Field Distortion Resolution",
+        "Residual Autonomic Distortion Resolution",
+        "Residual Vagus Nerve Distortion Resolution",
+        "Residual Whole System Distortion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_triangle",
+          "wf_am",
+          "wf_pulse25",
+          "wf_noise",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:43:36.480Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-desk01",
+      "name": "Neck and shoulders",
+      "handle": "Naturalist Home",
+      "note": "At lunch or after work: the muscles and fascia, then the neck and shoulder points.",
+      "tags": [
+        "Musculoskeletal",
+        "Fascia / Myofascial Systems",
+        "Shoulders and back"
+      ],
+      "phrases": [
+        "Residual Muscular Retention Resolution",
+        "Residual Trigger Point Congestion Resolution",
+        "Residual Myofascial Adhesion Resolution",
+        "Residual Fascial Adhesion Resolution",
+        "Residual Cervical Congestion Resolution",
+        "Residual Fengchi Point Congestion Resolution",
+        "Residual Jianjing Point Congestion Resolution",
+        "Residual Tianzhu Point Congestion Resolution",
+        "Residual Jianyu Point Congestion Resolution",
+        "Residual Gallbladder Meridian Congestion Resolution",
+        "Residual Small Intestine Meridian Congestion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_sawtooth",
+          "wf_pulse25",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:43:36.481Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-desk02",
+      "name": "Eyes and screens",
+      "handle": "Naturalist Home",
+      "note": "For the end of a screen day: the light, the eye points, then the rhythm.",
+      "tags": [
+        "Eyes / Ears",
+        "Environmental Light Ecology",
+        "Desk day"
+      ],
+      "phrases": [
+        "Residual Blue Light Imprint Resolution",
+        "Residual Screen Light Imprint Resolution",
+        "Residual Ocular Congestion Resolution",
+        "Residual Jingming Point Congestion Resolution",
+        "Residual Zanzhu Point Congestion Resolution",
+        "Residual Taiyang Point Congestion Resolution",
+        "Residual Liver Meridian Congestion Resolution",
+        "Residual Third Eye Chakra Congestion Resolution",
+        "Residual Electromagnetic Field Distortion Resolution",
+        "Residual Circadian Distortion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_am",
+          "wf_pulse25",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:43:36.481Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-acti01",
+      "name": "After training",
+      "handle": "Naturalist Home",
+      "note": "After a workout or a long run: the muscles, what they leave, then the legs.",
+      "tags": [
+        "Musculoskeletal",
+        "After exercise",
+        "Legs"
+      ],
+      "phrases": [
+        "Residual Exertion Imprint Resolution",
+        "Residual Lactic Acid Residue Resolution",
+        "Residual Muscle Tissue Burden Resolution",
+        "Residual Muscular Retention Resolution",
+        "Residual Myofascial Adhesion Resolution",
+        "Residual Metabolic Byproduct Burden Resolution",
+        "Residual Ion Gradient Distortion Resolution",
+        "Residual Circulatory Congestion Resolution",
+        "Residual Lymphoid Congestion Resolution",
+        "Residual Chengshan Point Congestion Resolution",
+        "Residual Zusanli Point Congestion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_sawtooth",
+          "wf_pulse25",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:43:36.481Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-acti02",
+      "name": "Joints and fascia",
+      "handle": "Naturalist Home",
+      "note": "The joints and what holds them, then the knee and tendon points.",
+      "tags": [
+        "Joint",
+        "Fascia / Myofascial Systems",
+        "Connective Tissue"
+      ],
+      "phrases": [
+        "Residual Joint Congestion Resolution",
+        "Residual Synovial Congestion Resolution",
+        "Residual Cartilage Burden Resolution",
+        "Residual Ligament Distortion Resolution",
+        "Residual Tendon Distortion Resolution",
+        "Residual Fascial Adhesion Resolution",
+        "Residual Collagen Burden Resolution",
+        "Residual Skeletal Retention Resolution",
+        "Residual Yanglingquan Point Congestion Resolution",
+        "Residual Dubi Point Congestion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_sawtooth",
+          "wf_pulse25",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:43:36.481Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-scre01",
+      "name": "Wi-Fi and devices",
+      "handle": "Naturalist Home",
+      "note": "The fields around the devices, then the body's own signals.",
+      "tags": [
+        "EMF / Radiation",
+        "Electrical System",
+        "Brain / Nervous System"
+      ],
+      "phrases": [
+        "Residual Electromagnetic Field Distortion Resolution",
+        "Residual Electromagnetic Distortion Resolution",
+        "Residual Negative EMF Resolution",
+        "Residual Radiofrequency Imprint Resolution",
+        "Residual Wireless Signal Imprint Resolution",
+        "Residual Electromagnetic Frequency Resonance Distortion Resolution",
+        "Residual Radiation Imprint Resolution",
+        "Residual Endogenous Electromagnetic Distortion Resolution",
+        "Residual Signal Distortion Resolution",
+        "Residual Nervous System Distortion Resolution",
+        "Residual Biofield Distortion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_am",
+          "wf_noise",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:43:36.481Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-scre02",
+      "name": "Light at night",
+      "handle": "Naturalist Home",
+      "note": "Before sleep, after an evening of screens.",
+      "tags": [
+        "Environmental Light Ecology",
+        "Sleep / Circadian Ecology",
+        "Before sleep"
+      ],
+      "phrases": [
+        "Residual Blue Light Imprint Resolution",
+        "Residual Artificial Light Imprint Resolution",
+        "Residual Screen Light Imprint Resolution",
+        "Residual Melatonin Rhythm Distortion Resolution",
+        "Residual Circadian Distortion Resolution",
+        "Residual Pineal Distortion Resolution",
+        "Residual Sleep Architecture Distortion Resolution",
+        "Residual Dream Imprint Resolution",
+        "Residual Anmian Point Congestion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_am",
+          "wf_pulse25",
+          "wf_triangle",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:43:36.481Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-late01",
+      "name": "Collagen, joints and skin",
+      "handle": "Naturalist Home",
+      "note": "The connective tissue, joints and skin, then the Kidney channel.",
+      "tags": [
+        "Connective Tissue",
+        "Joint",
+        "Skin"
+      ],
+      "phrases": [
+        "Residual Collagen Burden Resolution",
+        "Residual Connective Tissue Burden Resolution",
+        "Residual Glycation Residue Resolution",
+        "Residual Joint Congestion Resolution",
+        "Residual Skeletal Retention Resolution",
+        "Residual Skin Barrier Distortion Resolution",
+        "Residual Dermal Residue Resolution",
+        "Residual Oxidative Compound Burden Resolution",
+        "Residual Cellular Burden Resolution",
+        "Residual Kidney Meridian Congestion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_sawtooth",
+          "wf_pulse25",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:43:36.481Z",
+      "starter": true
+    },
+    {
+      "id": "20261006-late02",
+      "name": "Memory and the nervous system",
+      "handle": "Naturalist Home",
+      "note": "Memory, the misfolded proteins that crowd it, then circulation and two head points.",
+      "tags": [
+        "Brain / Nervous System",
+        "Limbic System",
+        "Heart / Circulation"
+      ],
+      "phrases": [
+        "Residual Hippocampal Imprint Resolution",
+        "Residual Memory Encoding Resolution",
+        "Residual Misfolded Protein Aggregate Resolution",
+        "Residual Neural Inflammatory Compound Resolution",
+        "Residual Blood Brain Barrier Retention Resolution",
+        "Residual Nervous System Distortion Resolution",
+        "Residual Brainwave Distortion Resolution",
+        "Residual Circulatory Congestion Resolution",
+        "Residual Baihui Point Congestion Resolution",
+        "Residual Sishencong Point Congestion Resolution",
+        "Residual Kidney Meridian Congestion Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_sawtooth",
+          "wf_am",
+          "wf_triangle",
+          "wf_pulse25",
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.29",
+      "published": "2026-10-07T02:43:36.481Z",
+      "starter": true
+    },
     {
       "id": "20261006-horm01",
       "name": "Thyroid and metabolic rate",
@@ -128,24 +570,33 @@
       "id": "20261006-mold01",
       "name": "Fungal forms in the body",
       "handle": "Naturalist Home",
-      "note": "Named as what the body lets go of, not something to go after: the fungal kinds first, then where they settle.",
+      "note": "The fungal forms as particulates, fragments, dusts and colonies, named as what the body lets go of, not something to go after.",
       "tags": [
         "Infection",
         "Gut / Digestive",
         "Respiratory"
       ],
       "phrases": [
-        "Residual Fungus Resolution",
-        "Residual Mold Resolution",
-        "Residual Yeast Resolution",
-        "Residual Fungal Consortium Resolution",
-        "Residual Fungal Spore Resolution",
-        "Residual Aspergillus Resolution",
-        "Residual Penicillium Resolution",
-        "Residual Stachybotrys Resolution",
-        "Residual Fungal Debris Resolution",
-        "Residual Sinus Microbial Consortium Resolution",
-        "Residual Gut Microbial Consortium Resolution"
+        "Residual Fungal Particulate Resolution",
+        "Residual Microbial Colony Resolution",
+        "Residual Filamentous Particulate Resolution",
+        "Residual Bioaerosol Resolution",
+        "Residual Mat Resolution",
+        "Residual Hyphal Fragment Resolution",
+        "Residual Mycelial Mat Resolution",
+        "Residual Spore Dust Resolution",
+        "Residual Conidial Dust Resolution",
+        "Residual Zoospore Suspension Resolution",
+        "Residual Oospore Particulate Resolution",
+        "Residual Sporocarp Fragment Resolution",
+        "Residual Thallus Fragment Resolution",
+        "Residual Pseudohyphal Fragment Resolution",
+        "Residual Cyphelloid Fungus Particulate Resolution",
+        "Residual Aspergillaceae Particulate Resolution",
+        "Residual Sac Fungus Particulate Resolution",
+        "Residual Club Fungus Particulate Resolution",
+        "Residual Crust Fungus Particulate Resolution",
+        "Residual Sessile Cell Resolution"
       ],
       "rife": "",
       "session": {
