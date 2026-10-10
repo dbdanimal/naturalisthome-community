@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-07T16:45:15.616Z",
+  "updated": "2026-10-10T03:15:24.372Z",
   "sets": [
     {
       "id": "20261006-room02",
@@ -2312,23 +2312,25 @@
     },
     {
       "id": "20261002-path05",
-      "name": "Toxins, debris and drainage",
+      "name": "Toxins and drainage",
       "handle": "Naturalist Home",
-      "note": "Toxins first, then what is left behind, then the drainage pathways. I play it last.",
+      "note": "Chemical toxins first, then the drainage pathways. I play it last.",
       "tags": [
-        "Infection",
+        "Environmental",
         "Lymphatic",
         "Liver Spleen Gallbladder"
       ],
       "phrases": [
-        "Residual Biological Toxin Resolution",
-        "Residual Mycotoxin Resolution",
-        "Residual Biological Defense Compound Resolution",
-        "Residual Microbial Debris Resolution",
-        "Residual Lysed Bacterial Debris Resolution",
-        "Residual Biological Debris Resolution",
-        "Residual Bacterial Endotoxin Resolution",
-        "Residual Spirochetal Lipoprotein Resolution",
+        "Residual Microplastic Resolution",
+        "Residual Phthalate Resolution",
+        "Residual Bisphenol Resolution",
+        "Residual Petrochemical Resolution",
+        "Residual Chemical Toxicant Resolution",
+        "Residual Fragrance Chemical Resolution",
+        "Residual Flame Retardant Resolution",
+        "Residual Fluorinated Compound Resolution",
+        "Residual Agrochemical Resolution",
+        "Residual Chemical Residue Resolution",
         "Residual Lymphoid Congestion Resolution",
         "Residual Mobilized Toxin Resolution",
         "Residual Drainage Pathway Congestion Resolution",
@@ -2351,7 +2353,7 @@
         "cycleLimit": "1",
         "delayBetweenCyclesMinutes": ""
       },
-      "doctrine": "v27.27",
+      "doctrine": "v27.30",
       "published": "2026-10-03T01:46:58.123Z",
       "starter": true
     },
