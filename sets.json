@@ -1,7 +1,118 @@
 {
   "v": 1,
-  "updated": "2026-10-10T03:15:24.372Z",
+  "updated": "2026-10-11T14:00:03.672Z",
   "sets": [
+    {
+      "id": "20261011-form01",
+      "name": "Spiral bacteria",
+      "handle": "Naturalist Home",
+      "note": "The spiral and helix kinds by their shapes, then what lingers.",
+      "tags": [
+        "Morphology",
+        "Sacred Geometry Architecture"
+      ],
+      "phrases": [
+        "Residual Borrelia Resolution",
+        "Residual Borrelia Spiral Geometry Resolution",
+        "Residual Borrelia Helix Geometry Resolution",
+        "Residual Borrelia Spherical Geometry Resolution",
+        "Residual Borrelia Persister Cell Resolution",
+        "Residual Spirochete Resolution",
+        "Residual Spiral Geometry Resolution",
+        "Residual Helix Geometry Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_square",
+          "wf_sawtooth",
+          "wf_burst",
+          "wf_composite",
+          "wf_triangle"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.32",
+      "published": "2026-10-11T14:00:03.672Z",
+      "starter": true
+    },
+    {
+      "id": "20261011-form02",
+      "name": "Rod-shaped bacteria",
+      "handle": "Naturalist Home",
+      "note": "The rod and coccoid kinds by their shapes.",
+      "tags": [
+        "Morphology",
+        "Sacred Geometry Architecture"
+      ],
+      "phrases": [
+        "Residual Bartonia Resolution",
+        "Residual Bartonia Rod Geometry Resolution",
+        "Residual Rod Geometry Resolution",
+        "Residual Coccoid Geometry Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_square",
+          "wf_sawtooth",
+          "wf_burst",
+          "wf_composite",
+          "wf_triangle"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.32",
+      "published": "2026-10-11T14:00:03.672Z",
+      "starter": true
+    },
+    {
+      "id": "20261011-form03",
+      "name": "Ring-forming protozoa",
+      "handle": "Naturalist Home",
+      "note": "Protozoa that form rings, tetrads and pear shapes, by their shapes.",
+      "tags": [
+        "Morphology",
+        "Sacred Geometry Architecture"
+      ],
+      "phrases": [
+        "Residual Nuttallia Resolution",
+        "Residual Nuttallia Ring Geometry Resolution",
+        "Residual Nuttallia Tetrad Geometry Resolution",
+        "Residual Nuttallia Pyriform Geometry Resolution",
+        "Residual Protozoa Resolution",
+        "Residual Hemoparasite Resolution",
+        "Residual Ring Geometry Resolution",
+        "Residual Tetrad Geometry Resolution",
+        "Residual Pyriform Geometry Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_square",
+          "wf_sawtooth",
+          "wf_burst",
+          "wf_composite",
+          "wf_triangle"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.32",
+      "published": "2026-10-11T14:00:03.672Z",
+      "starter": true
+    },
     {
       "id": "20261006-room02",
       "name": "Moving into a new home",
@@ -634,7 +745,7 @@
         "Residual Trichothecene Resolution",
         "Residual Gliotoxin Resolution",
         "Residual Zearalenone Resolution",
-        "Residual Mobilized Toxin Resolution",
+        "Residual Mobilized Toxicant Resolution",
         "Residual Bile Burden Resolution",
         "Residual Hepatic Congestion Resolution",
         "Residual Lymphoid Congestion Resolution",
@@ -714,7 +825,7 @@
         "Residual Phthalate Burden Resolution",
         "Residual Bisphenol Burden Resolution",
         "Residual Petrochemical Resolution",
-        "Residual Chemical Toxin Resolution",
+        "Residual Chemical Toxicant Resolution",
         "Residual Fragrance Chemical Burden Resolution",
         "Residual Flame Retardant Burden Resolution",
         "Residual Fluorinated Compound Burden Resolution",
@@ -1842,7 +1953,7 @@
       ],
       "phrases": [
         "Residual Auric Field Distortion Resolution",
-        "Residual Aura Layer Fragmentation Resolution",
+        "Residual Aura Layer Fragment Resolution",
         "Residual Aura Boundary Leakage Resolution",
         "Residual Etheric Body Distortion Resolution",
         "Residual Emotional Body Distortion Resolution",
@@ -2243,7 +2354,7 @@
       "id": "20261002-path01",
       "name": "Kinds, forms and the duals",
       "handle": "Naturalist Home",
-      "note": "Every kind and what lingers, the duals, then Borrelia, Bartonia and Nuttallia with their shapes. Bartonia and Nuttallia are the energetic synonyms for Bartonella and Babesia.",
+      "note": "Every kind and what lingers, the duals, then the shapes alone. The genus sets are their own: spiral bacteria, rod-shaped bacteria, ring-forming protozoa.",
       "tags": [
         "Infection",
         "Sacred Geometry Architecture"
@@ -2269,17 +2380,6 @@
         "Residual Dual Burden Resolution",
         "Residual Organism Gene Expression Resolution",
         "Residual Immune Burden Resolution",
-        "Residual Borrelia Resolution",
-        "Residual Borrelia Spiral Geometry Resolution",
-        "Residual Borrelia Helix Geometry Resolution",
-        "Residual Borrelia Spherical Geometry Resolution",
-        "Residual Borrelia Persister Cell Resolution",
-        "Residual Bartonia Resolution",
-        "Residual Bartonia Rod Geometry Resolution",
-        "Residual Nuttallia Resolution",
-        "Residual Nuttallia Ring Geometry Resolution",
-        "Residual Nuttallia Tetrad Geometry Resolution",
-        "Residual Nuttallia Pyriform Geometry Resolution",
         "Residual Spiral Geometry Resolution",
         "Residual Helix Geometry Resolution",
         "Residual Rod Geometry Resolution",
@@ -2306,15 +2406,15 @@
         "cycleLimit": "1",
         "delayBetweenCyclesMinutes": ""
       },
-      "doctrine": "v27.27",
+      "doctrine": "v27.32",
       "published": "2026-10-03T14:57:50.578Z",
       "starter": true
     },
     {
       "id": "20261002-path05",
-      "name": "Toxins and drainage",
+      "name": "Toxicants and drainage",
       "handle": "Naturalist Home",
-      "note": "Chemical toxins first, then the drainage pathways. I play it last.",
+      "note": "Chemical toxicants first, then the drainage pathways. I play it last.",
       "tags": [
         "Environmental",
         "Lymphatic",
@@ -2332,9 +2432,8 @@
         "Residual Agrochemical Resolution",
         "Residual Chemical Residue Resolution",
         "Residual Lymphoid Congestion Resolution",
-        "Residual Mobilized Toxin Resolution",
+        "Residual Mobilized Toxicant Resolution",
         "Residual Drainage Pathway Congestion Resolution",
-        "Residual Detox Pathway Burden Resolution",
         "Residual Bile Burden Resolution",
         "Residual Renal Congestion Resolution",
         "Residual Hepatic Congestion Resolution",
