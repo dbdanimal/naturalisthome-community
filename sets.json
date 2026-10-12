@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-12T02:08:48.436Z",
+  "updated": "2026-10-12T11:29:33.291Z",
   "sets": [
     {
       "id": "20261011-form01",
@@ -826,7 +826,7 @@
         "Residual Bisphenol Burden Resolution",
         "Residual Petrochemical Resolution",
         "Residual Chemical Toxicant Resolution",
-        "Residual Fragrance Chemical Burden Resolution",
+        "Residual Synthetic Musk Burden Resolution",
         "Residual Flame Retardant Burden Resolution",
         "Residual Fluorinated Compound Burden Resolution",
         "Residual Pesticide Residue Resolution",
@@ -848,7 +848,7 @@
         "cycleLimit": "1",
         "delayBetweenCyclesMinutes": ""
       },
-      "doctrine": "v27.29",
+      "doctrine": "v27.34",
       "published": "2026-10-07T02:13:50.023Z",
       "starter": true
     },
@@ -1354,7 +1354,7 @@
       ],
       "phrases": [
         "Residual Topical Chemical Residue Resolution",
-        "Residual Fragrance Chemical Burden Resolution",
+        "Residual Synthetic Musk Burden Resolution",
         "Residual Detergent Residue Resolution",
         "Residual Dye Residue Resolution",
         "Residual Fabric Finish Residue Resolution",
@@ -1377,7 +1377,7 @@
         "cycleLimit": "1",
         "delayBetweenCyclesMinutes": ""
       },
-      "doctrine": "v27.29",
+      "doctrine": "v27.34",
       "published": "2026-10-07T02:13:50.024Z",
       "starter": true
     },
@@ -2426,7 +2426,7 @@
         "Residual Bisphenol Resolution",
         "Residual Petrochemical Resolution",
         "Residual Chemical Toxicant Resolution",
-        "Residual Fragrance Chemical Resolution",
+        "Residual Synthetic Musk Resolution",
         "Residual Flame Retardant Resolution",
         "Residual Fluorinated Compound Resolution",
         "Residual Agrochemical Resolution",
@@ -2452,7 +2452,7 @@
         "cycleLimit": "1",
         "delayBetweenCyclesMinutes": ""
       },
-      "doctrine": "v27.30",
+      "doctrine": "v27.34",
       "published": "2026-10-03T01:46:58.123Z",
       "starter": true
     },
