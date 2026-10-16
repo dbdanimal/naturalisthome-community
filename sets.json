@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-16T17:54:41.033Z",
+  "updated": "2026-10-16T20:45:53.186Z",
   "sets": [
     {
       "id": "20261016-form04",
@@ -73,40 +73,6 @@
         "Residual Spirochete Resolution",
         "Residual Spiral Geometry Resolution",
         "Residual Helix Geometry Resolution"
-      ],
-      "rife": "",
-      "session": {
-        "waveforms": [
-          "wf_square",
-          "wf_sawtooth",
-          "wf_burst",
-          "wf_composite",
-          "wf_triangle"
-        ],
-        "phraseRepeat": "1",
-        "frequencyMode": "proportional",
-        "sessionTimer": "",
-        "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
-      },
-      "doctrine": "v27.32",
-      "published": "2026-10-11T14:00:03.672Z",
-      "starter": true
-    },
-    {
-      "id": "20261011-form02",
-      "name": "Rod-shaped bacteria",
-      "handle": "Naturalist Home",
-      "note": "The rod and coccoid kinds by their shapes.",
-      "tags": [
-        "Morphology",
-        "Sacred Geometry Architecture"
-      ],
-      "phrases": [
-        "Residual Bartonia Resolution",
-        "Residual Bartonia Rod Geometry Resolution",
-        "Residual Rod Geometry Resolution",
-        "Residual Coccoid Geometry Resolution"
       ],
       "rife": "",
       "session": {
