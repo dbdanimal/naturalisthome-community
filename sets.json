@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-16T20:46:07.746Z",
+  "updated": "2026-10-16T20:46:22.378Z",
   "sets": [
     {
       "id": "20261016-form04",
@@ -73,45 +73,6 @@
         "Residual Spirochete Resolution",
         "Residual Spiral Geometry Resolution",
         "Residual Helix Geometry Resolution"
-      ],
-      "rife": "",
-      "session": {
-        "waveforms": [
-          "wf_square",
-          "wf_sawtooth",
-          "wf_burst",
-          "wf_composite",
-          "wf_triangle"
-        ],
-        "phraseRepeat": "1",
-        "frequencyMode": "proportional",
-        "sessionTimer": "",
-        "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
-      },
-      "doctrine": "v27.32",
-      "published": "2026-10-11T14:00:03.672Z",
-      "starter": true
-    },
-    {
-      "id": "20261011-form03",
-      "name": "Ring-forming protozoa",
-      "handle": "Naturalist Home",
-      "note": "Protozoa that form rings, tetrads and pear shapes, by their shapes.",
-      "tags": [
-        "Morphology",
-        "Sacred Geometry Architecture"
-      ],
-      "phrases": [
-        "Residual Nuttallia Resolution",
-        "Residual Nuttallia Ring Geometry Resolution",
-        "Residual Nuttallia Tetrad Geometry Resolution",
-        "Residual Nuttallia Pyriform Geometry Resolution",
-        "Residual Protozoa Resolution",
-        "Residual Hemoparasite Resolution",
-        "Residual Ring Geometry Resolution",
-        "Residual Tetrad Geometry Resolution",
-        "Residual Pyriform Geometry Resolution"
       ],
       "rife": "",
       "session": {
