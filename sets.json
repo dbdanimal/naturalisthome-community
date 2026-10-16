@@ -1,7 +1,60 @@
 {
   "v": 1,
-  "updated": "2026-10-12T18:01:53.082Z",
+  "updated": "2026-10-16T13:18:38.714Z",
   "sets": [
+    {
+      "id": "20261016-form04",
+      "name": "Spiral, rod and ring forms",
+      "handle": "Naturalist Home",
+      "note": "The spiral, rod and ring-forming kinds by their shapes, then what lingers.",
+      "tags": [
+        "Morphology",
+        "Sacred Geometry Architecture"
+      ],
+      "phrases": [
+        "Residual Borrelia Resolution",
+        "Residual Borrelia Spiral Geometry Resolution",
+        "Residual Borrelia Helix Geometry Resolution",
+        "Residual Borrelia Spherical Geometry Resolution",
+        "Residual Borrelia Persister Cell Resolution",
+        "Residual Spirochete Resolution",
+        "Residual Spiral Geometry Resolution",
+        "Residual Helix Geometry Resolution",
+        "Residual Bartonia Resolution",
+        "Residual Bartonia Rod Geometry Resolution",
+        "Residual Rod Geometry Resolution",
+        "Residual Coccoid Geometry Resolution",
+        "Residual Nuttallia Resolution",
+        "Residual Nuttallia Ring Geometry Resolution",
+        "Residual Nuttallia Tetrad Geometry Resolution",
+        "Residual Nuttallia Pyriform Geometry Resolution",
+        "Residual Protozoa Resolution",
+        "Residual Hemoparasite Resolution",
+        "Residual Ring Geometry Resolution",
+        "Residual Tetrad Geometry Resolution",
+        "Residual Pyriform Geometry Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_square",
+          "wf_sawtooth",
+          "wf_burst",
+          "wf_composite",
+          "wf_triangle",
+          "wf_noise",
+          "wf_pulse25"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.32",
+      "published": "2026-10-16T13:18:38.714Z",
+      "starter": true
+    },
     {
       "id": "20261011-form01",
       "name": "Spiral bacteria",
@@ -2036,7 +2089,6 @@
         "Residual Generational Trauma Resolution",
         "Residual Ancestral Trauma Resolution",
         "Residual Lineage Imprint Resolution",
-        "Residual Ancestral Methylation Imprint Resolution",
         "Residual Epigenetic Energy Imprints Resolution",
         "Residual Genetic Memory Storage Resolution",
         "Residual Inherited Spiritual Imprinting Resolution",
@@ -2355,7 +2407,7 @@
       "id": "20261002-path01",
       "name": "Kinds, forms and the duals",
       "handle": "Naturalist Home",
-      "note": "Every kind and what lingers, the duals, then the shapes alone. The genus sets are their own: spiral bacteria, rod-shaped bacteria, ring-forming protozoa.",
+      "note": "Every kind and what lingers, the duals, then the shapes alone. The genus forms are their own set: spiral, rod and ring forms.",
       "tags": [
         "Infection",
         "Sacred Geometry Architecture"
