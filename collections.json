@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-12T18:01:54.171Z",
+  "updated": "2026-10-16T13:18:39.976Z",
   "collections": [
     {
       "id": "self-explorer",
@@ -129,9 +129,7 @@
       "blurb": "Kinds and forms, the consortium, mold and viruses; then toxins and drainage",
       "sets": [
         "20261002-path01",
-        "20261011-form01",
-        "20261011-form02",
-        "20261011-form03",
+        "20261016-form04",
         "20261006-path06",
         "20261002-path05",
         "20261006-mold01",
