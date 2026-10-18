@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-18T21:08:46.139Z",
+  "updated": "2026-10-18T21:22:29.659Z",
   "sets": [
     {
       "id": "20260930-seed12",
@@ -90,44 +90,6 @@
       },
       "doctrine": "v27.32",
       "published": "2026-10-16T13:18:38.714Z",
-      "starter": true
-    },
-    {
-      "id": "20261011-form01",
-      "name": "Spiral bacteria",
-      "handle": "Naturalist Home",
-      "note": "The spiral and helix kinds by their shapes, then what lingers.",
-      "tags": [
-        "Morphology",
-        "Sacred Geometry Architecture"
-      ],
-      "phrases": [
-        "Residual Borrelia Resolution",
-        "Residual Borrelia Spiral Geometry Resolution",
-        "Residual Borrelia Helix Geometry Resolution",
-        "Residual Borrelia Spherical Geometry Resolution",
-        "Residual Borrelia Persister Cell Resolution",
-        "Residual Spirochete Resolution",
-        "Residual Spiral Geometry Resolution",
-        "Residual Helix Geometry Resolution"
-      ],
-      "rife": "",
-      "session": {
-        "waveforms": [
-          "wf_square",
-          "wf_sawtooth",
-          "wf_burst",
-          "wf_composite",
-          "wf_triangle"
-        ],
-        "phraseRepeat": "1",
-        "frequencyMode": "proportional",
-        "sessionTimer": "",
-        "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
-      },
-      "doctrine": "v27.32",
-      "published": "2026-10-11T14:00:03.672Z",
       "starter": true
     },
     {
