@@ -1,44 +1,7 @@
 {
   "v": 1,
-  "updated": "2026-10-17T22:23:41.931Z",
+  "updated": "2026-10-18T03:12:20.831Z",
   "sets": [
-    {
-      "id": "20260930-seed12",
-      "name": "Spirals and solids",
-      "handle": "Naturalist Home",
-      "note": "A geometry-only list I run quietly in the background while drawing.",
-      "tags": [
-        "Sacred Geometry Architecture"
-      ],
-      "phrases": [
-        "Residual Flower of Life Resolution",
-        "Residual Seed of Life Resolution",
-        "Residual Vesica Piscis Resolution",
-        "Residual Tree of Life Resolution",
-        "Residual Fibonacci Spiral Resolution",
-        "Residual Golden Spiral Resolution",
-        "Residual Golden Ratio Resolution",
-        "Residual Toroidal Geometry Resolution",
-        "Residual Icosahedron Resolution",
-        "Residual Dodecahedron Resolution",
-        "Residual Metatrons Cube Resolution",
-        "Residual Merkaba Resolution"
-      ],
-      "rife": "",
-      "session": {
-        "waveforms": [
-          "wf_composite"
-        ],
-        "phraseRepeat": "1",
-        "frequencyMode": "proportional",
-        "sessionTimer": "",
-        "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
-      },
-      "doctrine": "v27.26",
-      "published": "2026-10-16T23:42:17.461Z",
-      "starter": true
-    },
     {
       "id": "20261016-form04",
       "name": "Spiral, rod and ring forms",
