@@ -1,7 +1,44 @@
 {
   "v": 1,
-  "updated": "2026-10-18T03:12:20.831Z",
+  "updated": "2026-10-18T21:08:46.139Z",
   "sets": [
+    {
+      "id": "20260930-seed12",
+      "name": "Spirals and solids",
+      "handle": "Naturalist Home",
+      "note": "A geometry-only list I run quietly in the background while drawing.",
+      "tags": [
+        "Sacred Geometry Architecture"
+      ],
+      "phrases": [
+        "Residual Flower of Life Resolution",
+        "Residual Seed of Life Resolution",
+        "Residual Vesica Piscis Resolution",
+        "Residual Tree of Life Resolution",
+        "Residual Fibonacci Spiral Resolution",
+        "Residual Golden Spiral Resolution",
+        "Residual Golden Ratio Resolution",
+        "Residual Toroidal Geometry Resolution",
+        "Residual Icosahedron Resolution",
+        "Residual Dodecahedron Resolution",
+        "Residual Metatrons Cube Resolution",
+        "Residual Merkaba Resolution"
+      ],
+      "rife": "",
+      "session": {
+        "waveforms": [
+          "wf_composite"
+        ],
+        "phraseRepeat": "1",
+        "frequencyMode": "proportional",
+        "sessionTimer": "",
+        "cycleLimit": "1",
+        "delayBetweenCyclesMinutes": ""
+      },
+      "doctrine": "v27.26",
+      "published": "2026-10-18T21:08:46.139Z",
+      "starter": true
+    },
     {
       "id": "20261016-form04",
       "name": "Spiral, rod and ring forms",
@@ -111,7 +148,7 @@
         "Residual Electromagnetic Field Distortion Resolution",
         "Residual Spirit Bound Residue Resolution",
         "Residual Energetic Noise Resolution",
-        "Residual Sea Salt At Entryways Resolution",
+        "Residual Threshold Salt Imprint Resolution",
         "Residual Smudging Resolution",
         "Residual Subtle Field Distortion Resolution",
         "Residual Field Distortion Resolution"
@@ -391,7 +428,7 @@
         "Residual Negative EMF Resolution",
         "Residual Radiofrequency Imprint Resolution",
         "Residual Wireless Signal Imprint Resolution",
-        "Residual Electromagnetic Frequency Resonance Distortion Resolution",
+        "Residual Electromagnetic Frequency Distortion Resolution",
         "Residual Radiation Imprint Resolution",
         "Residual Endogenous Electromagnetic Distortion Resolution",
         "Residual Signal Distortion Resolution",
@@ -549,7 +586,7 @@
         "Residual Thyroid Hormone Burden Resolution",
         "Residual Thyroid Communication Signal Resolution",
         "Residual Thyroid Communication Resolution",
-        "Residual Thalamic Pituitary Axis Distortion Resolution",
+        "Residual Hypothalamic Pituitary Axis Imprint Resolution",
         "Residual Endocrine Communication Signal Resolution",
         "Residual Halide Burden Resolution",
         "Residual Metabolic Distortion Resolution",
@@ -592,7 +629,7 @@
         "Residual Stress Imprint Resolution",
         "Residual Autonomic Distortion Resolution",
         "Residual Circadian Distortion Resolution",
-        "Residual Survival State Nervous System Distortion Resolution",
+        "Residual Survival State Distortion Resolution",
         "Residual Kidney Meridian Congestion Resolution",
         "Residual Shenshu Point Congestion Resolution",
         "Residual Mingmen Point Congestion Resolution"
@@ -817,13 +854,13 @@
         "Residual Bisphenol Burden Resolution",
         "Residual Petrochemical Resolution",
         "Residual Chemical Toxicant Resolution",
-        "Residual Aromatic Vapor Resolution",
+        "Residual Aromatic Hydrocarbon Vapor Resolution",
         "Residual Deposited Film Resolution",
         "Residual Flame Retardant Burden Resolution",
         "Residual Fluorinated Compound Burden Resolution",
         "Residual Pesticide Residue Resolution",
         "Residual Glyphosate Burden Resolution",
-        "Residual Chemical Residue Energetic Retention Resolution",
+        "Residual Chemical Residue Imprint Resolution",
         "Residual Hepatic Congestion Resolution",
         "Residual Drainage Pathway Congestion Resolution"
       ],
@@ -1107,7 +1144,7 @@
         "Residual Limbic Circuits Resolution",
         "Residual Vagus Nerve Distortion Resolution",
         "Residual Autonomic Distortion Resolution",
-        "Residual Gut Brain Axis Distortion Resolution"
+        "Residual Gut Brain Axis Imprint Resolution"
       ],
       "rife": "",
       "session": {
@@ -1873,10 +1910,10 @@
       ],
       "phrases": [
         "Residual Root Chakra Congestion Resolution",
-        "Residual Root Chakra Color Congestion Resolution",
+        "Residual Root Chakra Color Distortion Resolution",
         "Residual Sacral Chakra Congestion Resolution",
         "Residual Solar Plexus Chakra Congestion Resolution",
-        "Residual Solar Plexus Chakra Color Congestion Resolution",
+        "Residual Solar Plexus Chakra Color Distortion Resolution",
         "Residual Ancestral Imprint Resolution",
         "Residual Emotional Imprint Resolution",
         "Residual Stressor Imprint Resolution"
@@ -1909,13 +1946,13 @@
       ],
       "phrases": [
         "Residual Heart Chakra Congestion Resolution",
-        "Residual Heart Chakra Color Congestion Resolution",
+        "Residual Heart Chakra Color Distortion Resolution",
         "Residual Throat Chakra Congestion Resolution",
-        "Residual Throat Chakra Color Congestion Resolution",
+        "Residual Throat Chakra Color Distortion Resolution",
         "Residual Third Eye Chakra Congestion Resolution",
-        "Residual Third Eye Chakra Color Congestion Resolution",
+        "Residual Third Eye Chakra Color Distortion Resolution",
         "Residual Crown Chakra Congestion Resolution",
-        "Residual Crown Chakra Color Congestion Resolution",
+        "Residual Crown Chakra Color Distortion Resolution",
         "Residual Thyroid Communication Signal Resolution"
       ],
       "rife": "",
@@ -1985,7 +2022,7 @@
       "phrases": [
         "Residual Energetic Blueprint Distortion Resolution",
         "Residual Etheric Template Resolution",
-        "Residual Original Soul Blueprint Distortion Resolution",
+        "Residual Soul Blueprint Distortion Resolution",
         "Residual Biofield Geometry Distortion Resolution",
         "Residual Energetic Structure Distortion Resolution",
         "Residual Etheric Grid Distortion Resolution",
@@ -2266,7 +2303,7 @@
         "Residual Fear Conditioning Resolution",
         "Residual Startle Retention Resolution",
         "Residual Amygdalar Imprint Resolution",
-        "Residual Survival State Nervous System Distortion Resolution",
+        "Residual Survival State Distortion Resolution",
         "Residual Autonomic Distortion Resolution",
         "Residual Vagus Nerve Distortion Resolution",
         "Residual Kidney Meridian Congestion Resolution",
@@ -2304,7 +2341,7 @@
         "Residual Mixed Microbial Consortium Resolution",
         "Residual Bacterial Consortium Resolution",
         "Residual Fungal Consortium Resolution",
-        "Residual Microbial Consortium Structural Framework Resolution",
+        "Residual Microbial Consortium Framework Resolution",
         "Residual Extracellular Polymeric Substance Resolution",
         "Residual Polysaccharide Structural Framework Resolution",
         "Residual Microbial Mineral Residue Resolution",
@@ -2419,7 +2456,7 @@
         "Residual Bisphenol Resolution",
         "Residual Petrochemical Resolution",
         "Residual Chemical Toxicant Resolution",
-        "Residual Aromatic Vapor Resolution",
+        "Residual Aromatic Hydrocarbon Vapor Resolution",
         "Residual Deposited Film Resolution",
         "Residual Flame Retardant Resolution",
         "Residual Fluorinated Compound Resolution",
