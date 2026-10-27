@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-27T02:26:17.553Z",
+  "updated": "2026-10-27T18:30:18.801Z",
   "sets": [
     {
       "id": "20260930-seed12",
@@ -2577,7 +2577,6 @@
           "wf_composite",
           "wf_noise",
           "wf_pulse25",
-          "wf_invsaw",
           "wf_sawtooth"
         ],
         "phraseRepeat": "1",
