@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-29T18:16:19.725Z",
+  "updated": "2026-10-29T19:36:14.964Z",
   "sets": [
     {
       "id": "20260930-seed12",
@@ -132,6 +132,7 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_fm",
           "wf_triangle",
           "wf_trapezoid",
           "wf_stepped",
@@ -313,6 +314,7 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_fm",
           "wf_trapezoid",
           "wf_stepped",
           "wf_am",
@@ -357,6 +359,7 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_fm",
           "wf_am",
           "wf_burst",
           "wf_noise",
@@ -447,6 +450,7 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_fm",
           "wf_triangle",
           "wf_trapezoid",
           "wf_stepped",
@@ -634,6 +638,7 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_fm",
           "wf_trapezoid",
           "wf_am",
           "wf_binaural",
@@ -800,16 +805,16 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_dampsine",
+          "wf_composite",
+          "wf_pulse25",
           "wf_triangle",
           "wf_trapezoid",
           "wf_stepped",
           "wf_am",
           "wf_binaural",
           "wf_burst",
-          "wf_dampsine",
-          "wf_composite",
           "wf_noise",
-          "wf_pulse25",
           "wf_dampsquare",
           "wf_sawtooth"
         ],
@@ -951,18 +956,19 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_am",
-          "wf_burst",
+          "wf_stepped",
+          "wf_binaural",
+          "wf_composite",
           "wf_noise",
           "wf_pulse25",
+          "wf_dampsquare",
+          "wf_am",
+          "wf_burst",
           "wf_sawtooth",
           "wf_triangle",
           "wf_trapezoid",
-          "wf_binaural",
           "wf_dampsine",
-          "wf_composite",
           "wf_square",
-          "wf_dampsquare",
           "wf_invsaw"
         ],
         "phraseRepeat": "1",
@@ -1151,6 +1157,7 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_fm",
           "wf_trapezoid",
           "wf_am",
           "wf_binaural",
@@ -1199,6 +1206,7 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_fm",
           "wf_trapezoid",
           "wf_stepped",
           "wf_am",
@@ -1293,6 +1301,7 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_fm",
           "wf_triangle",
           "wf_trapezoid",
           "wf_stepped",
@@ -1713,8 +1722,7 @@
           "wf_burst",
           "wf_noise",
           "wf_pulse25",
-          "wf_sawtooth",
-          "wf_trapezoid"
+          "wf_sawtooth"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -2201,6 +2209,7 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_fm",
           "wf_am",
           "wf_burst",
           "wf_noise",
@@ -2511,6 +2520,7 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_fm",
           "wf_am",
           "wf_burst",
           "wf_noise",
@@ -2667,6 +2677,7 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_fm",
           "wf_triangle",
           "wf_trapezoid",
           "wf_stepped",
@@ -2795,18 +2806,18 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_triangle",
-          "wf_trapezoid",
           "wf_stepped",
-          "wf_am",
-          "wf_burst",
+          "wf_binaural",
+          "wf_composite",
           "wf_noise",
-          "wf_square",
           "wf_pulse25",
           "wf_dampsquare",
-          "wf_sawtooth",
-          "wf_binaural",
-          "wf_composite"
+          "wf_triangle",
+          "wf_trapezoid",
+          "wf_am",
+          "wf_burst",
+          "wf_square",
+          "wf_sawtooth"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
