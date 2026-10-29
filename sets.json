@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-29T19:36:14.964Z",
+  "updated": "2026-10-29T19:39:44.518Z",
   "sets": [
     {
       "id": "20260930-seed12",
@@ -805,15 +805,16 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_trapezoid",
+          "wf_stepped",
+          "wf_binaural",
+          "wf_burst",
           "wf_dampsine",
           "wf_composite",
           "wf_pulse25",
+          "wf_invsaw",
           "wf_triangle",
-          "wf_trapezoid",
-          "wf_stepped",
           "wf_am",
-          "wf_binaural",
-          "wf_burst",
           "wf_noise",
           "wf_dampsquare",
           "wf_sawtooth"
