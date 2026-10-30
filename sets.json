@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-29T19:39:44.518Z",
+  "updated": "2026-10-30T20:11:58.536Z",
   "sets": [
     {
       "id": "20260930-seed12",
@@ -132,15 +132,17 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_trapezoid",
           "wf_fm",
           "wf_triangle",
-          "wf_trapezoid",
           "wf_stepped",
           "wf_am",
-          "wf_burst",
+          "wf_binaural",
+          "wf_dampsine",
           "wf_composite",
           "wf_noise",
           "wf_pulse25",
+          "wf_burst",
           "wf_dampsquare",
           "wf_sawtooth"
         ],
@@ -179,6 +181,7 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_trapezoid",
           "wf_triangle",
           "wf_dampsine",
           "wf_composite",
@@ -227,6 +230,7 @@
           "wf_trapezoid",
           "wf_stepped",
           "wf_am",
+          "wf_fm",
           "wf_burst",
           "wf_noise",
           "wf_pulse25",
@@ -314,8 +318,8 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_fm",
           "wf_trapezoid",
+          "wf_fm",
           "wf_stepped",
           "wf_am",
           "wf_burst",
@@ -359,16 +363,16 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_trapezoid",
           "wf_fm",
+          "wf_binaural",
+          "wf_dampsine",
           "wf_am",
           "wf_burst",
           "wf_noise",
           "wf_pulse25",
           "wf_sawtooth",
-          "wf_trapezoid",
           "wf_stepped",
-          "wf_binaural",
-          "wf_dampsine",
           "wf_composite",
           "wf_dampsquare"
         ],
@@ -407,12 +411,14 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_trapezoid",
+          "wf_binaural",
+          "wf_dampsine",
           "wf_am",
           "wf_burst",
           "wf_noise",
           "wf_pulse25",
-          "wf_sawtooth",
-          "wf_trapezoid"
+          "wf_sawtooth"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -450,9 +456,9 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_trapezoid",
           "wf_fm",
           "wf_triangle",
-          "wf_trapezoid",
           "wf_stepped",
           "wf_am",
           "wf_burst",
@@ -548,11 +554,11 @@
       "session": {
         "waveforms": [
           "wf_trapezoid",
+          "wf_binaural",
+          "wf_dampsine",
           "wf_stepped",
           "wf_am",
-          "wf_binaural",
           "wf_burst",
-          "wf_dampsine",
           "wf_composite",
           "wf_noise",
           "wf_square",
@@ -597,6 +603,7 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_trapezoid",
           "wf_am",
           "wf_burst",
           "wf_noise",
@@ -638,12 +645,12 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_fm",
           "wf_trapezoid",
-          "wf_am",
+          "wf_fm",
           "wf_binaural",
-          "wf_burst",
           "wf_dampsine",
+          "wf_am",
+          "wf_burst",
           "wf_composite",
           "wf_square",
           "wf_dampsquare",
@@ -687,8 +694,10 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_triangle",
           "wf_trapezoid",
+          "wf_binaural",
+          "wf_dampsine",
+          "wf_triangle",
           "wf_stepped",
           "wf_am",
           "wf_burst",
@@ -737,10 +746,10 @@
       "session": {
         "waveforms": [
           "wf_trapezoid",
-          "wf_am",
           "wf_binaural",
-          "wf_burst",
           "wf_dampsine",
+          "wf_am",
+          "wf_burst",
           "wf_composite",
           "wf_square",
           "wf_dampsquare",
@@ -856,15 +865,16 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_trapezoid",
+          "wf_binaural",
+          "wf_dampsine",
           "wf_am",
           "wf_burst",
           "wf_noise",
           "wf_pulse25",
           "wf_sawtooth",
           "wf_triangle",
-          "wf_trapezoid",
           "wf_stepped",
-          "wf_binaural",
           "wf_composite",
           "wf_dampsquare"
         ],
@@ -905,14 +915,14 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_trapezoid",
+          "wf_binaural",
+          "wf_dampsine",
           "wf_am",
           "wf_burst",
           "wf_noise",
           "wf_pulse25",
           "wf_sawtooth",
-          "wf_trapezoid",
-          "wf_binaural",
-          "wf_dampsine",
           "wf_composite",
           "wf_square",
           "wf_dampsquare",
@@ -957,8 +967,10 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_trapezoid",
           "wf_stepped",
           "wf_binaural",
+          "wf_dampsine",
           "wf_composite",
           "wf_noise",
           "wf_pulse25",
@@ -967,8 +979,6 @@
           "wf_burst",
           "wf_sawtooth",
           "wf_triangle",
-          "wf_trapezoid",
-          "wf_dampsine",
           "wf_square",
           "wf_invsaw"
         ],
@@ -1009,18 +1019,19 @@
       "session": {
         "waveforms": [
           "wf_trapezoid",
+          "wf_binaural",
+          "wf_dampsine",
           "wf_stepped",
           "wf_am",
-          "wf_binaural",
           "wf_burst",
-          "wf_dampsine",
           "wf_composite",
           "wf_noise",
           "wf_square",
           "wf_pulse25",
           "wf_dampsquare",
           "wf_invsaw",
-          "wf_sawtooth"
+          "wf_sawtooth",
+          "wf_triangle"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -1059,13 +1070,14 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_trapezoid",
+          "wf_binaural",
+          "wf_dampsine",
           "wf_am",
           "wf_burst",
           "wf_noise",
           "wf_pulse25",
           "wf_sawtooth",
-          "wf_binaural",
-          "wf_dampsine",
           "wf_composite",
           "wf_square",
           "wf_dampsquare",
@@ -1109,11 +1121,11 @@
       "session": {
         "waveforms": [
           "wf_trapezoid",
+          "wf_binaural",
+          "wf_dampsine",
           "wf_stepped",
           "wf_am",
-          "wf_binaural",
           "wf_burst",
-          "wf_dampsine",
           "wf_composite",
           "wf_noise",
           "wf_square",
@@ -1158,12 +1170,12 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_fm",
           "wf_trapezoid",
-          "wf_am",
+          "wf_fm",
           "wf_binaural",
-          "wf_burst",
           "wf_dampsine",
+          "wf_am",
+          "wf_burst",
           "wf_composite",
           "wf_square",
           "wf_dampsquare",
@@ -1207,13 +1219,13 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_fm",
           "wf_trapezoid",
+          "wf_fm",
+          "wf_binaural",
+          "wf_dampsine",
           "wf_stepped",
           "wf_am",
-          "wf_binaural",
           "wf_burst",
-          "wf_dampsine",
           "wf_composite",
           "wf_noise",
           "wf_square",
@@ -1259,6 +1271,8 @@
       "session": {
         "waveforms": [
           "wf_trapezoid",
+          "wf_binaural",
+          "wf_dampsine",
           "wf_stepped",
           "wf_am",
           "wf_burst",
@@ -1302,9 +1316,9 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_trapezoid",
           "wf_fm",
           "wf_triangle",
-          "wf_trapezoid",
           "wf_stepped",
           "wf_am",
           "wf_burst",
@@ -1353,6 +1367,9 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_trapezoid",
+          "wf_binaural",
+          "wf_dampsine",
           "wf_am",
           "wf_burst",
           "wf_noise",
@@ -1439,12 +1456,12 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_triangle",
           "wf_trapezoid",
-          "wf_am",
           "wf_binaural",
-          "wf_burst",
           "wf_dampsine",
+          "wf_triangle",
+          "wf_am",
+          "wf_burst",
           "wf_composite",
           "wf_noise",
           "wf_square",
@@ -1493,10 +1510,10 @@
       "session": {
         "waveforms": [
           "wf_trapezoid",
-          "wf_am",
           "wf_binaural",
-          "wf_burst",
           "wf_dampsine",
+          "wf_am",
+          "wf_burst",
           "wf_composite",
           "wf_noise",
           "wf_square",
@@ -1541,6 +1558,8 @@
       "session": {
         "waveforms": [
           "wf_trapezoid",
+          "wf_binaural",
+          "wf_dampsine",
           "wf_stepped",
           "wf_am",
           "wf_burst",
@@ -1584,6 +1603,8 @@
       "session": {
         "waveforms": [
           "wf_trapezoid",
+          "wf_binaural",
+          "wf_dampsine",
           "wf_stepped",
           "wf_am",
           "wf_burst",
@@ -1591,8 +1612,6 @@
           "wf_pulse25",
           "wf_sawtooth",
           "wf_triangle",
-          "wf_binaural",
-          "wf_dampsine",
           "wf_composite",
           "wf_square",
           "wf_dampsquare"
@@ -1632,6 +1651,7 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_trapezoid",
           "wf_stepped",
           "wf_am",
           "wf_burst",
@@ -1673,6 +1693,7 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_trapezoid",
           "wf_am",
           "wf_burst",
           "wf_noise",
@@ -1719,6 +1740,7 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_trapezoid",
           "wf_am",
           "wf_burst",
           "wf_noise",
@@ -1759,6 +1781,7 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_trapezoid",
           "wf_am",
           "wf_burst",
           "wf_noise",
@@ -1799,6 +1822,7 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_trapezoid",
           "wf_am",
           "wf_burst",
           "wf_noise",
@@ -1839,6 +1863,7 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_trapezoid",
           "wf_am",
           "wf_burst",
           "wf_noise",
@@ -1880,6 +1905,7 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_trapezoid",
           "wf_triangle",
           "wf_stepped",
           "wf_am",
@@ -2165,6 +2191,7 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_trapezoid",
           "wf_triangle",
           "wf_stepped",
           "wf_am",
@@ -2210,6 +2237,7 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_trapezoid",
           "wf_fm",
           "wf_am",
           "wf_burst",
@@ -2254,6 +2282,7 @@
           "wf_trapezoid",
           "wf_stepped",
           "wf_am",
+          "wf_fm",
           "wf_burst",
           "wf_noise",
           "wf_pulse25",
@@ -2296,6 +2325,7 @@
           "wf_trapezoid",
           "wf_stepped",
           "wf_am",
+          "wf_fm",
           "wf_burst",
           "wf_noise",
           "wf_pulse25",
@@ -2335,6 +2365,7 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_trapezoid",
           "wf_triangle",
           "wf_stepped",
           "wf_am",
@@ -2430,6 +2461,8 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_trapezoid",
+          "wf_fm",
           "wf_triangle",
           "wf_stepped",
           "wf_am",
@@ -2478,8 +2511,11 @@
       "session": {
         "waveforms": [
           "wf_trapezoid",
+          "wf_binaural",
+          "wf_dampsine",
           "wf_stepped",
           "wf_am",
+          "wf_fm",
           "wf_burst",
           "wf_noise",
           "wf_pulse25",
@@ -2521,16 +2557,17 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_triangle",
+          "wf_trapezoid",
           "wf_fm",
+          "wf_binaural",
+          "wf_dampsine",
           "wf_am",
           "wf_burst",
           "wf_noise",
           "wf_pulse25",
           "wf_sawtooth",
-          "wf_trapezoid",
           "wf_stepped",
-          "wf_binaural",
-          "wf_dampsine",
           "wf_composite",
           "wf_square",
           "wf_dampsquare",
@@ -2620,8 +2657,8 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_triangle",
           "wf_trapezoid",
+          "wf_triangle",
           "wf_stepped",
           "wf_am",
           "wf_burst",
@@ -2678,9 +2715,9 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_trapezoid",
           "wf_fm",
           "wf_triangle",
-          "wf_trapezoid",
           "wf_stepped",
           "wf_am",
           "wf_binaural",
@@ -2748,13 +2785,13 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_triangle",
           "wf_trapezoid",
+          "wf_binaural",
+          "wf_dampsine",
+          "wf_triangle",
           "wf_stepped",
           "wf_am",
-          "wf_binaural",
           "wf_burst",
-          "wf_dampsine",
           "wf_composite",
           "wf_noise",
           "wf_square",
@@ -2807,14 +2844,15 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_trapezoid",
           "wf_stepped",
           "wf_binaural",
+          "wf_dampsine",
           "wf_composite",
           "wf_noise",
           "wf_pulse25",
           "wf_dampsquare",
           "wf_triangle",
-          "wf_trapezoid",
           "wf_am",
           "wf_burst",
           "wf_square",
@@ -2939,6 +2977,7 @@
           "wf_trapezoid",
           "wf_stepped",
           "wf_am",
+          "wf_fm",
           "wf_burst",
           "wf_noise",
           "wf_pulse25",
@@ -3053,6 +3092,7 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_trapezoid",
           "wf_am",
           "wf_burst",
           "wf_noise",
@@ -3092,9 +3132,14 @@
       "session": {
         "waveforms": [
           "wf_trapezoid",
+          "wf_triangle",
           "wf_stepped",
           "wf_am",
+          "wf_fm",
+          "wf_binaural",
           "wf_burst",
+          "wf_dampsine",
+          "wf_composite",
           "wf_noise",
           "wf_pulse25",
           "wf_sawtooth"
