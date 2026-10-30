@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-30T21:16:50.127Z",
+  "updated": "2026-10-30T21:22:49.364Z",
   "sets": [
     {
       "id": "20260930-seed12",
@@ -464,10 +464,10 @@
           "wf_stepped",
           "wf_am",
           "wf_fm",
+          "wf_burst",
           "wf_noise",
           "wf_pulse25",
           "wf_triangle",
-          "wf_burst",
           "wf_dampsine",
           "wf_composite",
           "wf_square",
@@ -2579,8 +2579,8 @@
           "wf_dampsine",
           "wf_noise",
           "wf_pulse25",
-          "wf_burst",
           "wf_sawtooth",
+          "wf_burst",
           "wf_composite",
           "wf_square",
           "wf_dampsquare",
