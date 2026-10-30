@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-30T21:12:13.218Z",
+  "updated": "2026-10-30T21:16:50.127Z",
   "sets": [
     {
       "id": "20260930-seed12",
@@ -2908,9 +2908,9 @@
           "wf_trapezoid",
           "wf_stepped",
           "wf_am",
-          "wf_burst",
           "wf_noise",
           "wf_pulse25",
+          "wf_burst",
           "wf_sawtooth"
         ],
         "phraseRepeat": "1",
@@ -2948,9 +2948,9 @@
           "wf_trapezoid",
           "wf_stepped",
           "wf_am",
-          "wf_burst",
           "wf_noise",
           "wf_pulse25",
+          "wf_burst",
           "wf_sawtooth"
         ],
         "phraseRepeat": "1",
@@ -2990,10 +2990,10 @@
           "wf_trapezoid",
           "wf_stepped",
           "wf_am",
-          "wf_fm",
-          "wf_burst",
           "wf_noise",
           "wf_pulse25",
+          "wf_fm",
+          "wf_burst",
           "wf_sawtooth"
         ],
         "phraseRepeat": "1",
@@ -3030,9 +3030,9 @@
           "wf_trapezoid",
           "wf_stepped",
           "wf_am",
-          "wf_burst",
           "wf_noise",
           "wf_pulse25",
+          "wf_burst",
           "wf_sawtooth"
         ],
         "phraseRepeat": "1",
@@ -3106,10 +3106,11 @@
       "session": {
         "waveforms": [
           "wf_trapezoid",
+          "wf_stepped",
           "wf_am",
-          "wf_burst",
           "wf_noise",
           "wf_pulse25",
+          "wf_burst",
           "wf_sawtooth"
         ],
         "phraseRepeat": "1",
@@ -3145,16 +3146,16 @@
       "session": {
         "waveforms": [
           "wf_trapezoid",
-          "wf_triangle",
           "wf_stepped",
           "wf_am",
+          "wf_noise",
+          "wf_pulse25",
+          "wf_triangle",
           "wf_fm",
           "wf_binaural",
           "wf_burst",
           "wf_dampsine",
           "wf_composite",
-          "wf_noise",
-          "wf_pulse25",
           "wf_sawtooth"
         ],
         "phraseRepeat": "1",
@@ -3233,9 +3234,9 @@
           "wf_trapezoid",
           "wf_stepped",
           "wf_am",
-          "wf_burst",
           "wf_noise",
           "wf_pulse25",
+          "wf_burst",
           "wf_sawtooth"
         ],
         "phraseRepeat": "1",
