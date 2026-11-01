@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-30T21:59:36.873Z",
+  "updated": "2026-11-01T17:20:50.310Z",
   "sets": [
     {
       "id": "20260930-seed12",
@@ -123,10 +123,10 @@
         "Residual Geomantic Imprint Resolution",
         "Residual Ley Line Distortion Resolution",
         "Residual Electromagnetic Field Distortion Resolution",
-        "Residual Spirit Bound Residue Resolution",
+        "Residual Sorbed Residue Resolution",
         "Residual Energetic Noise Resolution",
-        "Residual Threshold Salt Imprint Resolution",
-        "Residual Smudging Resolution",
+        "Residual Salt Imprint Resolution",
+        "Residual Smudging Imprint Resolution",
         "Residual Subtle Field Distortion Resolution",
         "Residual Field Distortion Resolution"
       ],
@@ -144,8 +144,7 @@
           "wf_dampsine",
           "wf_composite",
           "wf_burst",
-          "wf_dampsquare",
-          "wf_sawtooth"
+          "wf_dampsquare"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -173,7 +172,7 @@
         "Residual Aura Attachment Resolution",
         "Residual Aura Boundary Leakage Resolution",
         "Residual Energetic Shielding Distortion Resolution",
-        "Residual Etheric Cords Resolution",
+        "Residual Energetic Cord Resolution",
         "Residual External Influence Resolution",
         "Residual Biofield Energy Sealing Resolution",
         "Residual Subtle Field Distortion Resolution",
@@ -187,12 +186,7 @@
           "wf_am",
           "wf_noise",
           "wf_pulse25",
-          "wf_triangle",
-          "wf_dampsine",
-          "wf_composite",
-          "wf_square",
-          "wf_dampsquare",
-          "wf_invsaw",
+          "wf_burst",
           "wf_sawtooth"
         ],
         "phraseRepeat": "1",
@@ -220,7 +214,7 @@
         "Residual Energetic Congestion Resolution",
         "Residual Exertion Imprint Resolution",
         "Residual Emotional Retention Resolution",
-        "Residual Etheric Cords Resolution",
+        "Residual Energetic Cord Resolution",
         "Residual Spiritual Attachment Resolution",
         "Residual Auric Field Distortion Resolution",
         "Residual Autonomic Distortion Resolution",
@@ -239,10 +233,7 @@
           "wf_burst",
           "wf_sawtooth",
           "wf_triangle",
-          "wf_composite",
-          "wf_square",
-          "wf_dampsquare",
-          "wf_invsaw"
+          "wf_composite"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -662,7 +653,8 @@
           "wf_composite",
           "wf_square",
           "wf_dampsquare",
-          "wf_invsaw"
+          "wf_invsaw",
+          "wf_sawtooth"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -821,17 +813,16 @@
       "rife": "",
       "session": {
         "waveforms": [
+          "wf_triangle",
           "wf_trapezoid",
           "wf_stepped",
+          "wf_am",
           "wf_binaural",
           "wf_burst",
           "wf_dampsine",
           "wf_composite",
-          "wf_pulse25",
-          "wf_invsaw",
-          "wf_triangle",
-          "wf_am",
           "wf_noise",
+          "wf_pulse25",
           "wf_dampsquare",
           "wf_sawtooth"
         ],
@@ -880,10 +871,10 @@
           "wf_noise",
           "wf_pulse25",
           "wf_sawtooth",
-          "wf_triangle",
-          "wf_stepped",
           "wf_composite",
-          "wf_dampsquare"
+          "wf_square",
+          "wf_dampsquare",
+          "wf_invsaw"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -985,7 +976,6 @@
           "wf_am",
           "wf_burst",
           "wf_sawtooth",
-          "wf_triangle",
           "wf_square",
           "wf_invsaw"
         ],
@@ -1037,8 +1027,7 @@
           "wf_square",
           "wf_dampsquare",
           "wf_invsaw",
-          "wf_sawtooth",
-          "wf_triangle"
+          "wf_sawtooth"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -1084,11 +1073,7 @@
           "wf_burst",
           "wf_noise",
           "wf_pulse25",
-          "wf_sawtooth",
-          "wf_composite",
-          "wf_square",
-          "wf_dampsquare",
-          "wf_invsaw"
+          "wf_sawtooth"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -1465,15 +1450,15 @@
         "waveforms": [
           "wf_trapezoid",
           "wf_binaural",
+          "wf_burst",
           "wf_dampsine",
+          "wf_noise",
+          "wf_dampsquare",
           "wf_triangle",
           "wf_am",
-          "wf_burst",
           "wf_composite",
-          "wf_noise",
           "wf_square",
           "wf_pulse25",
-          "wf_dampsquare",
           "wf_invsaw",
           "wf_sawtooth",
           "wf_stepped"
@@ -2389,8 +2374,7 @@
           "wf_triangle",
           "wf_burst",
           "wf_composite",
-          "wf_dampsquare",
-          "wf_sawtooth"
+          "wf_dampsquare"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -2422,7 +2406,7 @@
         "Residual Energetic Debt Resolution",
         "Residual Consent Imprinting Resolution",
         "Residual Ritual Imprinting Resolution",
-        "Residual Etheric Cords Resolution"
+        "Residual Energetic Cord Resolution"
       ],
       "rife": "",
       "session": {
@@ -2431,14 +2415,12 @@
           "wf_stepped",
           "wf_am",
           "wf_burst",
-          "wf_dampsine",
           "wf_composite",
           "wf_noise",
           "wf_square",
           "wf_pulse25",
           "wf_dampsquare",
-          "wf_invsaw",
-          "wf_sawtooth"
+          "wf_invsaw"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -2468,8 +2450,8 @@
         "Residual Energetic Noise Resolution",
         "Residual Energetic Congestion Resolution",
         "Residual Subtle Field Distortion Resolution",
-        "Residual Sacred Smoke Resolution",
-        "Residual Smudging Resolution",
+        "Residual Aromatic Smoke Resolution",
+        "Residual Smudging Imprint Resolution",
         "Residual Field Distortion Resolution"
       ],
       "rife": "",
@@ -2486,8 +2468,7 @@
           "wf_composite",
           "wf_square",
           "wf_dampsquare",
-          "wf_invsaw",
-          "wf_sawtooth"
+          "wf_invsaw"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -2625,14 +2606,12 @@
       "session": {
         "waveforms": [
           "wf_triangle",
-          "wf_dampsine",
+          "wf_stepped",
+          "wf_am",
+          "wf_burst",
           "wf_composite",
           "wf_noise",
-          "wf_square",
-          "wf_pulse25",
-          "wf_dampsquare",
-          "wf_invsaw",
-          "wf_sawtooth"
+          "wf_pulse25"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -2801,16 +2780,16 @@
         "waveforms": [
           "wf_trapezoid",
           "wf_binaural",
+          "wf_burst",
           "wf_dampsine",
+          "wf_noise",
+          "wf_dampsquare",
           "wf_triangle",
           "wf_stepped",
           "wf_am",
-          "wf_burst",
           "wf_composite",
-          "wf_noise",
           "wf_square",
           "wf_pulse25",
-          "wf_dampsquare",
           "wf_invsaw",
           "wf_sawtooth"
         ],
@@ -2870,7 +2849,8 @@
           "wf_am",
           "wf_burst",
           "wf_square",
-          "wf_sawtooth"
+          "wf_sawtooth",
+          "wf_invsaw"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -3182,8 +3162,7 @@
         "Residual Seed of Life Resolution",
         "Residual Vesica Piscis Resolution",
         "Residual Golden Spiral Resolution",
-        "Residual Toroidal Geometry Resolution",
-        "Residual Solfeggio Frequency Resolution"
+        "Residual Toroidal Geometry Resolution"
       ],
       "rife": "432, 528",
       "session": {
@@ -3193,12 +3172,12 @@
           "wf_burst",
           "wf_sawtooth",
           "wf_triangle",
+          "wf_am",
+          "wf_binaural",
           "wf_dampsine",
           "wf_composite",
           "wf_noise",
-          "wf_square",
           "wf_pulse25",
-          "wf_dampsquare",
           "wf_invsaw"
         ],
         "phraseRepeat": "1",
@@ -3339,17 +3318,9 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_triangle",
           "wf_stepped",
-          "wf_am",
-          "wf_binaural",
-          "wf_burst",
-          "wf_dampsine",
           "wf_composite",
-          "wf_noise",
-          "wf_pulse25",
-          "wf_invsaw",
-          "wf_sawtooth"
+          "wf_invsaw"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
