@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-11-06T22:01:13.258Z",
+  "updated": "2026-11-06T22:07:37.300Z",
   "sets": [
     {
       "id": "20260930-seed12",
@@ -2670,6 +2670,8 @@
           "wf_triangle",
           "wf_trapezoid",
           "wf_stepped",
+          "wf_am",
+          "wf_fm",
           "wf_binaural",
           "wf_burst",
           "wf_dampsine",
@@ -2679,8 +2681,6 @@
           "wf_dampsquare",
           "wf_invsaw",
           "wf_sawtooth",
-          "wf_am",
-          "wf_fm",
           "wf_square"
         ],
         "phraseRepeat": "1",
