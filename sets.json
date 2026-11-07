@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-11-07T04:26:37.180Z",
+  "updated": "2026-11-07T05:02:48.437Z",
   "sets": [
     {
       "id": "20260930-seed12",
@@ -2967,20 +2967,13 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_triangle",
-          "wf_trapezoid",
-          "wf_stepped",
-          "wf_am",
-          "wf_binaural",
-          "wf_burst",
-          "wf_dampsine",
-          "wf_composite",
-          "wf_noise",
           "wf_square",
-          "wf_pulse25",
-          "wf_dampsquare",
-          "wf_invsaw",
-          "wf_sawtooth"
+          "wf_sawtooth",
+          "wf_burst",
+          "wf_composite",
+          "wf_triangle",
+          "wf_noise",
+          "wf_pulse25"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
