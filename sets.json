@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-11-07T00:10:34.548Z",
+  "updated": "2026-11-07T00:16:07.458Z",
   "sets": [
     {
       "id": "20260930-seed12",
@@ -3555,8 +3555,8 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_stepped",
           "wf_composite",
+          "wf_dampsquare",
           "wf_invsaw"
         ],
         "phraseRepeat": "1",
