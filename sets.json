@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-11-07T16:43:53.084Z",
+  "updated": "2026-11-07T16:48:11.080Z",
   "sets": [
     {
       "id": "20260930-seed12",
@@ -1028,21 +1028,10 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_triangle",
-          "wf_trapezoid",
-          "wf_stepped",
-          "wf_am",
-          "wf_fm",
-          "wf_binaural",
-          "wf_burst",
-          "wf_dampsine",
-          "wf_composite",
-          "wf_noise",
-          "wf_square",
+          "wf_sawtooth",
           "wf_pulse25",
-          "wf_dampsquare",
-          "wf_invsaw",
-          "wf_sawtooth"
+          "wf_composite",
+          "wf_trapezoid"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -2321,7 +2310,6 @@
           "wf_trapezoid",
           "wf_stepped",
           "wf_am",
-          "wf_fm",
           "wf_burst",
           "wf_dampsine",
           "wf_composite",
@@ -2330,6 +2318,7 @@
           "wf_pulse25",
           "wf_dampsquare",
           "wf_sawtooth",
+          "wf_fm",
           "wf_invsaw"
         ],
         "phraseRepeat": "1",
@@ -2414,13 +2403,13 @@
         "waveforms": [
           "wf_trapezoid",
           "wf_stepped",
-          "wf_am",
           "wf_fm",
           "wf_burst",
           "wf_dampsine",
           "wf_noise",
           "wf_pulse25",
           "wf_sawtooth",
+          "wf_am",
           "wf_square",
           "wf_invsaw"
         ],
