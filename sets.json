@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-11-07T05:05:42.964Z",
+  "updated": "2026-11-07T05:21:52.831Z",
   "sets": [
     {
       "id": "20260930-seed12",
@@ -188,13 +188,14 @@
           "wf_triangle",
           "wf_trapezoid",
           "wf_am",
+          "wf_fm",
           "wf_burst",
           "wf_composite",
+          "wf_noise",
           "wf_square",
           "wf_pulse25",
           "wf_dampsquare",
           "wf_stepped",
-          "wf_noise",
           "wf_sawtooth"
         ],
         "phraseRepeat": "1",
@@ -641,6 +642,7 @@
           "wf_trapezoid",
           "wf_stepped",
           "wf_am",
+          "wf_binaural",
           "wf_burst",
           "wf_dampsine",
           "wf_composite",
@@ -2635,6 +2637,7 @@
           "wf_trapezoid",
           "wf_stepped",
           "wf_am",
+          "wf_fm",
           "wf_burst",
           "wf_dampsine",
           "wf_composite",
@@ -2643,7 +2646,6 @@
           "wf_pulse25",
           "wf_dampsquare",
           "wf_sawtooth",
-          "wf_fm",
           "wf_invsaw"
         ],
         "phraseRepeat": "1",
@@ -2798,7 +2800,6 @@
           "wf_pulse25",
           "wf_dampsquare",
           "wf_sawtooth",
-          "wf_fm",
           "wf_invsaw"
         ],
         "phraseRepeat": "1",
@@ -3350,14 +3351,14 @@
         "waveforms": [
           "wf_trapezoid",
           "wf_stepped",
+          "wf_am",
+          "wf_fm",
           "wf_burst",
           "wf_dampsine",
           "wf_noise",
           "wf_pulse25",
           "wf_dampsquare",
-          "wf_sawtooth",
-          "wf_fm",
-          "wf_am"
+          "wf_sawtooth"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -3433,14 +3434,14 @@
         "waveforms": [
           "wf_trapezoid",
           "wf_stepped",
+          "wf_am",
+          "wf_fm",
           "wf_burst",
           "wf_dampsine",
           "wf_noise",
           "wf_pulse25",
           "wf_dampsquare",
           "wf_sawtooth",
-          "wf_am",
-          "wf_fm",
           "wf_square",
           "wf_invsaw"
         ],
