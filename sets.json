@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-11-09T03:25:36.979Z",
+  "updated": "2026-11-09T03:28:08.731Z",
   "sets": [
     {
       "id": "20260930-seed12",
@@ -1731,7 +1731,6 @@
           "wf_trapezoid",
           "wf_stepped",
           "wf_am",
-          "wf_binaural",
           "wf_burst",
           "wf_dampsine",
           "wf_composite",
