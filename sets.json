@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-11-09T21:08:44.387Z",
+  "updated": "2026-11-09T21:24:34.003Z",
   "sets": [
     {
       "id": "20260930-seed12",
@@ -647,8 +647,8 @@
           "wf_square",
           "wf_pulse25",
           "wf_dampsquare",
-          "wf_sawtooth",
-          "wf_invsaw"
+          "wf_invsaw",
+          "wf_sawtooth"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -1337,8 +1337,8 @@
           "wf_square",
           "wf_pulse25",
           "wf_dampsquare",
-          "wf_sawtooth",
-          "wf_invsaw"
+          "wf_invsaw",
+          "wf_sawtooth"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
@@ -1586,8 +1586,8 @@
           "wf_square",
           "wf_pulse25",
           "wf_dampsquare",
-          "wf_sawtooth",
-          "wf_invsaw"
+          "wf_invsaw",
+          "wf_sawtooth"
         ],
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
