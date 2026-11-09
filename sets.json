@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-11-09T19:18:59.194Z",
+  "updated": "2026-11-09T19:23:14.667Z",
   "sets": [
     {
       "id": "20260930-seed12",
@@ -2431,7 +2431,6 @@
         "waveforms": [
           "wf_triangle",
           "wf_am",
-          "wf_fm",
           "wf_binaural",
           "wf_burst",
           "wf_dampsine",
