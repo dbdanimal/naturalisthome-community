@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-11-20T01:25:05.211Z",
+  "updated": "2026-11-20T03:13:27.000Z",
   "sets": [
     {
       "id": "20260930-seed12",
@@ -29,6 +29,7 @@
         "waveforms": [
           "wf_triangle",
           "wf_am",
+          "wf_impact",
           "wf_invsaw",
           "wf_trapezoid",
           "wf_stepped",
@@ -94,6 +95,7 @@
           "wf_dampsine",
           "wf_composite",
           "wf_noise",
+          "wf_impact",
           "wf_pulse25",
           "wf_dampsquare",
           "wf_invsaw",
@@ -144,6 +146,7 @@
           "wf_burst",
           "wf_composite",
           "wf_noise",
+          "wf_granular",
           "wf_square",
           "wf_pulse25",
           "wf_dampsquare",
@@ -195,6 +198,7 @@
           "wf_burst",
           "wf_composite",
           "wf_noise",
+          "wf_granular",
           "wf_square",
           "wf_pulse25",
           "wf_dampsquare",
@@ -247,6 +251,7 @@
           "wf_dampsine",
           "wf_composite",
           "wf_noise",
+          "wf_granular",
           "wf_square",
           "wf_pulse25",
           "wf_dampsquare",
@@ -298,6 +303,7 @@
           "wf_dampsine",
           "wf_composite",
           "wf_noise",
+          "wf_granular",
           "wf_pulse25",
           "wf_dampsquare",
           "wf_invsaw",
@@ -359,7 +365,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:43:36.481Z",
@@ -401,6 +408,7 @@
           "wf_dampsine",
           "wf_composite",
           "wf_noise",
+          "wf_granular",
           "wf_square",
           "wf_pulse25",
           "wf_dampsquare",
@@ -452,6 +460,7 @@
           "wf_dampsine",
           "wf_composite",
           "wf_noise",
+          "wf_granular",
           "wf_square",
           "wf_pulse25",
           "wf_dampsquare",
@@ -511,7 +520,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:43:36.481Z",
@@ -559,7 +569,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:43:36.481Z",
@@ -599,6 +610,7 @@
           "wf_dampsine",
           "wf_composite",
           "wf_noise",
+          "wf_granular",
           "wf_square",
           "wf_pulse25",
           "wf_dampsquare",
@@ -661,7 +673,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:43:36.481Z",
@@ -712,7 +725,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.023Z",
@@ -763,7 +777,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.023Z",
@@ -814,7 +829,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.023Z",
@@ -875,6 +891,7 @@
           "wf_dampsine",
           "wf_composite",
           "wf_noise",
+          "wf_granular",
           "wf_square",
           "wf_pulse25",
           "wf_dampsquare",
@@ -937,7 +954,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.023Z",
@@ -988,7 +1006,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.023Z",
@@ -1033,6 +1052,7 @@
           "wf_dampsine",
           "wf_composite",
           "wf_noise",
+          "wf_granular",
           "wf_square",
           "wf_pulse25",
           "wf_dampsquare",
@@ -1095,7 +1115,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.023Z",
@@ -1137,6 +1158,7 @@
           "wf_dampsine",
           "wf_composite",
           "wf_noise",
+          "wf_granular",
           "wf_square",
           "wf_pulse25",
           "wf_dampsquare",
@@ -1189,6 +1211,7 @@
           "wf_dampsine",
           "wf_composite",
           "wf_noise",
+          "wf_granular",
           "wf_square",
           "wf_pulse25",
           "wf_dampsquare",
@@ -1242,6 +1265,7 @@
           "wf_dampsine",
           "wf_composite",
           "wf_noise",
+          "wf_granular",
           "wf_square",
           "wf_pulse25",
           "wf_dampsquare",
@@ -1294,6 +1318,7 @@
           "wf_dampsine",
           "wf_composite",
           "wf_noise",
+          "wf_granular",
           "wf_square",
           "wf_pulse25",
           "wf_dampsquare",
@@ -1357,7 +1382,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.023Z",
@@ -1405,7 +1431,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.024Z",
@@ -1456,7 +1483,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.024Z",
@@ -1501,7 +1529,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.024Z",
@@ -1543,6 +1572,7 @@
           "wf_dampsine",
           "wf_composite",
           "wf_noise",
+          "wf_granular",
           "wf_square",
           "wf_pulse25",
           "wf_dampsquare",
@@ -1607,7 +1637,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.024Z",
@@ -1647,6 +1678,7 @@
           "wf_dampsine",
           "wf_composite",
           "wf_noise",
+          "wf_granular",
           "wf_square",
           "wf_pulse25",
           "wf_dampsquare",
@@ -1698,6 +1730,7 @@
           "wf_dampsine",
           "wf_composite",
           "wf_noise",
+          "wf_granular",
           "wf_square",
           "wf_pulse25",
           "wf_dampsquare",
@@ -1758,7 +1791,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.024Z",
@@ -1797,6 +1831,7 @@
           "wf_dampsine",
           "wf_composite",
           "wf_noise",
+          "wf_granular",
           "wf_square",
           "wf_pulse25",
           "wf_dampsquare",
@@ -1856,7 +1891,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.024Z",
@@ -1904,7 +1940,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.024Z",
@@ -1943,6 +1980,7 @@
           "wf_dampsine",
           "wf_composite",
           "wf_noise",
+          "wf_granular",
           "wf_square",
           "wf_pulse25",
           "wf_dampsquare",
@@ -2002,7 +2040,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.024Z",
@@ -2047,7 +2086,8 @@
           "wf_sawtooth",
           "wf_invsaw",
           "wf_fm",
-          "wf_binaural"
+          "wf_binaural",
+          "wf_granular"
         ],
         "wfHand": false,
         "phraseRepeat": "1",
@@ -2100,7 +2140,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.025Z",
@@ -2147,7 +2188,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.025Z",
@@ -2190,7 +2232,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.025Z",
@@ -2235,7 +2278,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.025Z",
@@ -2273,7 +2317,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.025Z",
@@ -2320,7 +2365,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.025Z",
@@ -2367,7 +2413,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.025Z",
@@ -2415,7 +2462,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.025Z",
@@ -2463,7 +2511,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.025Z",
@@ -2511,7 +2560,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.025Z",
@@ -2558,7 +2608,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.025Z",
@@ -2604,7 +2655,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.025Z",
@@ -2654,7 +2706,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.025Z",
@@ -2695,6 +2748,7 @@
           "wf_dampsine",
           "wf_composite",
           "wf_noise",
+          "wf_granular",
           "wf_square",
           "wf_pulse25",
           "wf_dampsquare",
@@ -2748,6 +2802,7 @@
           "wf_dampsine",
           "wf_composite",
           "wf_noise",
+          "wf_granular",
           "wf_square",
           "wf_pulse25",
           "wf_dampsquare",
@@ -2809,7 +2864,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-06T22:17:37.480Z",
@@ -2860,7 +2916,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-10-06T22:17:37.480Z",
@@ -2911,6 +2968,7 @@
           "wf_dampsine",
           "wf_composite",
           "wf_noise",
+          "wf_granular",
           "wf_square",
           "wf_pulse25",
           "wf_dampsquare",
@@ -2982,6 +3040,8 @@
           "wf_dampsine",
           "wf_composite",
           "wf_noise",
+          "wf_granular",
+          "wf_impact",
           "wf_square",
           "wf_pulse25",
           "wf_dampsquare",
@@ -3043,6 +3103,7 @@
           "wf_dampsine",
           "wf_composite",
           "wf_noise",
+          "wf_granular",
           "wf_square",
           "wf_pulse25",
           "wf_dampsquare",
@@ -3102,7 +3163,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-09-30T15:23:04.681Z",
@@ -3148,7 +3210,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-09-30T15:23:04.681Z",
@@ -3196,7 +3259,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-09-30T15:23:04.681Z",
@@ -3241,7 +3305,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-09-30T15:23:04.681Z",
@@ -3276,7 +3341,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-09-30T15:23:04.681Z",
@@ -3327,7 +3393,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-09-30T15:23:04.682Z",
@@ -3375,7 +3442,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-09-30T15:23:04.682Z",
@@ -3401,6 +3469,7 @@
         "waveforms": [
           "wf_triangle",
           "wf_am",
+          "wf_impact",
           "wf_invsaw",
           "wf_trapezoid",
           "wf_stepped",
@@ -3460,7 +3529,8 @@
           "wf_dampsquare",
           "wf_sawtooth",
           "wf_invsaw",
-          "wf_binaural"
+          "wf_binaural",
+          "wf_granular"
         ],
         "wfHand": false,
         "phraseRepeat": "1",
@@ -3502,7 +3572,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-09-30T15:23:04.682Z",
@@ -3541,7 +3612,8 @@
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": ""
+        "delayBetweenCyclesMinutes": "",
+        "wfHand": false
       },
       "doctrine": "v27.44",
       "published": "2026-09-30T15:23:04.682Z",
@@ -3568,6 +3640,7 @@
         "waveforms": [
           "wf_triangle",
           "wf_am",
+          "wf_impact",
           "wf_invsaw",
           "wf_stepped",
           "wf_binaural",

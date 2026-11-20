@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "updated": "2026-11-20T03:13:18.000Z",
+ "essentials": [
+  "Triangle",
+  "Trapezoid",
+  "Stepped",
+  "AM",
+  "FM",
+  "Binaural",
+  "Burst",
+  "Damped Sine",
+  "Composite",
+  "Noise",
+  "Granular",
+  "Impact",
+  "Square",
+  "Pulse",
+  "Damped Square",
+  "Inverse Sawtooth",
+  "Sawtooth"
+ ],
+ "typicalSix": [
+  "Pulse",
+  "Composite",
+  "Noise",
+  "Triangle",
+  "Damped Square",
+  "Binaural"
+ ],
+ "sample": [
+  "Triangle",
+  "AM",
+  "Burst",
+  "Composite",
+  "Square",
+  "Pulse",
+  "Damped Square",
+  "Stepped",
+  "Noise",
+  "Inverse Sawtooth"
+ ]
+}
