@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-21T00:41:09.000Z",
+ "updated": "2026-11-21T03:58:57.884Z",
  "essentials": [
   "Triangle",
   "Trapezoid",
@@ -29,15 +29,15 @@
   "Binaural"
  ],
  "sample": [
-  "Triangle",
   "AM",
   "Burst",
   "Composite",
   "Square",
-  "Pulse",
   "Damped Square",
+  "Triangle",
   "Stepped",
   "Noise",
+  "Pulse",
   "Inverse Sawtooth"
  ]
 }
