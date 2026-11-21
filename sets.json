@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-11-21T00:41:09.000Z",
+  "updated": "2026-11-21T03:58:59.238Z",
   "sets": [
     {
       "id": "20260930-seed12",
@@ -825,7 +825,6 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_triangle",
           "wf_trapezoid",
           "wf_stepped",
           "wf_am",
@@ -838,15 +837,16 @@
           "wf_pulse25",
           "wf_dampsquare",
           "wf_sawtooth",
+          "wf_triangle",
           "wf_fm",
           "wf_invsaw"
         ],
+        "wfHand": false,
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": "",
-        "wfHand": false
+        "delayBetweenCyclesMinutes": ""
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.023Z",
@@ -1916,7 +1916,6 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_triangle",
           "wf_trapezoid",
           "wf_stepped",
           "wf_am",
@@ -1928,16 +1927,17 @@
           "wf_pulse25",
           "wf_dampsquare",
           "wf_sawtooth",
+          "wf_triangle",
           "wf_fm",
           "wf_binaural",
           "wf_invsaw"
         ],
+        "wfHand": false,
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": "",
-        "wfHand": false
+        "delayBetweenCyclesMinutes": ""
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.024Z",
@@ -2172,7 +2172,6 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_triangle",
           "wf_trapezoid",
           "wf_stepped",
           "wf_am",
@@ -2184,16 +2183,17 @@
           "wf_pulse25",
           "wf_dampsquare",
           "wf_sawtooth",
+          "wf_triangle",
           "wf_fm",
           "wf_binaural",
           "wf_invsaw"
         ],
+        "wfHand": false,
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": "",
-        "wfHand": false
+        "delayBetweenCyclesMinutes": ""
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.025Z",
@@ -2222,7 +2222,6 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_triangle",
           "wf_trapezoid",
           "wf_stepped",
           "wf_am",
@@ -2234,16 +2233,17 @@
           "wf_pulse25",
           "wf_dampsquare",
           "wf_sawtooth",
+          "wf_triangle",
           "wf_fm",
           "wf_binaural",
           "wf_invsaw"
         ],
+        "wfHand": false,
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": "",
-        "wfHand": false
+        "delayBetweenCyclesMinutes": ""
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.025Z",
@@ -2525,7 +2525,6 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_triangle",
           "wf_trapezoid",
           "wf_stepped",
           "wf_am",
@@ -2538,15 +2537,16 @@
           "wf_pulse25",
           "wf_dampsquare",
           "wf_sawtooth",
+          "wf_triangle",
           "wf_binaural",
           "wf_invsaw"
         ],
+        "wfHand": false,
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": "",
-        "wfHand": false
+        "delayBetweenCyclesMinutes": ""
       },
       "doctrine": "v27.44",
       "published": "2026-10-07T02:13:50.025Z",
@@ -3292,7 +3292,6 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_triangle",
           "wf_trapezoid",
           "wf_stepped",
           "wf_am",
@@ -3304,16 +3303,17 @@
           "wf_pulse25",
           "wf_dampsquare",
           "wf_sawtooth",
+          "wf_triangle",
           "wf_fm",
           "wf_binaural",
           "wf_invsaw"
         ],
+        "wfHand": false,
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": "",
-        "wfHand": false
+        "delayBetweenCyclesMinutes": ""
       },
       "doctrine": "v27.44",
       "published": "2026-09-30T15:23:04.681Z",
@@ -3490,7 +3490,6 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_triangle",
           "wf_trapezoid",
           "wf_stepped",
           "wf_am",
@@ -3502,16 +3501,17 @@
           "wf_pulse25",
           "wf_dampsquare",
           "wf_sawtooth",
+          "wf_triangle",
           "wf_fm",
           "wf_binaural",
           "wf_invsaw"
         ],
+        "wfHand": false,
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": "",
-        "wfHand": false
+        "delayBetweenCyclesMinutes": ""
       },
       "doctrine": "v27.44",
       "published": "2026-09-30T15:23:04.682Z",
@@ -3539,7 +3539,6 @@
       "rife": "7.83, 14.1",
       "session": {
         "waveforms": [
-          "wf_triangle",
           "wf_trapezoid",
           "wf_stepped",
           "wf_am",
@@ -3553,15 +3552,16 @@
           "wf_pulse25",
           "wf_dampsquare",
           "wf_sawtooth",
+          "wf_triangle",
           "wf_granular",
           "wf_invsaw"
         ],
+        "wfHand": false,
         "phraseRepeat": "1",
         "frequencyMode": "proportional",
         "sessionTimer": "",
         "cycleLimit": "1",
-        "delayBetweenCyclesMinutes": "",
-        "wfHand": false
+        "delayBetweenCyclesMinutes": ""
       },
       "doctrine": "v27.44",
       "published": "2026-09-30T15:23:04.682Z",
@@ -3633,7 +3633,6 @@
       "rife": "",
       "session": {
         "waveforms": [
-          "wf_triangle",
           "wf_trapezoid",
           "wf_stepped",
           "wf_am",
@@ -3646,6 +3645,7 @@
           "wf_pulse25",
           "wf_dampsquare",
           "wf_sawtooth",
+          "wf_triangle",
           "wf_binaural",
           "wf_granular",
           "wf_invsaw"
