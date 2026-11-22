@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-11-21T21:31:33.111Z",
+  "updated": "2026-11-22T03:21:29.000Z",
   "sets": [
     {
       "id": "20260930-seed12",
@@ -126,7 +126,6 @@
       ],
       "phrases": [
         "Residual Previous Occupant Imprint Resolution",
-        "Residual Structural Sound Retention Resolution",
         "Residual Geomantic Imprint Resolution",
         "Residual Ley Line Distortion Resolution",
         "Residual Electromagnetic Field Distortion Resolution",
@@ -180,13 +179,10 @@
       ],
       "phrases": [
         "Residual Absorbed Emotional Imprint Resolution",
-        "Residual Psychic Intrusion Resolution",
+        "Residual Psychic Intrusion Imprint Resolution",
         "Residual Aura Attachment Resolution",
-        "Residual Aura Boundary Leakage Resolution",
-        "Residual Energetic Shielding Distortion Resolution",
+        "Residual Aura Boundary Distortion Resolution",
         "Residual Energetic Cord Resolution",
-        "Residual External Influence Resolution",
-        "Residual Biofield Energy Sealing Resolution",
         "Residual Subtle Field Distortion Resolution",
         "Residual Field Distortion Resolution"
       ],
@@ -233,9 +229,8 @@
       ],
       "phrases": [
         "Residual Stressor Imprint Resolution",
-        "Residual Energetic Congestion Resolution",
         "Residual Exertion Imprint Resolution",
-        "Residual Emotional Retention Resolution",
+        "Residual Emotional Imprint Resolution",
         "Residual Energetic Cord Resolution",
         "Residual Spiritual Attachment Resolution",
         "Residual Auric Field Distortion Resolution",
@@ -289,7 +284,6 @@
         "Residual Trigger Point Congestion Resolution",
         "Residual Myofascial Adhesion Resolution",
         "Residual Fascial Adhesion Resolution",
-        "Residual Cervical Congestion Resolution",
         "Residual Fengchi Point Congestion Resolution",
         "Residual Jianjing Point Congestion Resolution",
         "Residual Tianzhu Point Congestion Resolution",
@@ -446,7 +440,6 @@
       ],
       "phrases": [
         "Residual Joint Congestion Resolution",
-        "Residual Synovial Congestion Resolution",
         "Residual Cartilage Burden Resolution",
         "Residual Ligament Distortion Resolution",
         "Residual Tendon Distortion Resolution",
@@ -500,7 +493,6 @@
       "phrases": [
         "Residual Electromagnetic Field Distortion Resolution",
         "Residual Electromagnetic Distortion Resolution",
-        "Residual Negative EMF Resolution",
         "Residual Radiofrequency Imprint Resolution",
         "Residual Wireless Signal Imprint Resolution",
         "Residual Electromagnetic Frequency Distortion Resolution",
@@ -552,7 +544,7 @@
         "Residual Screen Light Imprint Resolution",
         "Residual Melatonin Rhythm Distortion Resolution",
         "Residual Circadian Distortion Resolution",
-        "Residual Pineal Distortion Resolution",
+        "Residual Pineal Congestion Resolution",
         "Residual Sleep Architecture Distortion Resolution",
         "Residual Dream Imprint Resolution",
         "Residual Anmian Point Congestion Resolution"
@@ -652,9 +644,9 @@
       ],
       "phrases": [
         "Residual Hippocampal Imprint Resolution",
-        "Residual Memory Encoding Resolution",
+        "Residual Mental Imprint Resolution",
         "Residual Misfolded Protein Aggregate Resolution",
-        "Residual Neural Inflammatory Compound Resolution",
+        "Residual Neural Inflammatory Compound Burden Resolution",
         "Residual Blood Brain Barrier Retention Resolution",
         "Residual Nervous System Distortion Resolution",
         "Residual Brainwave Distortion Resolution",
@@ -706,10 +698,9 @@
       ],
       "phrases": [
         "Residual Thyroid Hormone Burden Resolution",
-        "Residual Thyroid Communication Signal Resolution",
-        "Residual Thyroid Communication Resolution",
+        "Residual Thyroid Signal Distortion Resolution",
         "Residual Hypothalamic Pituitary Axis Imprint Resolution",
-        "Residual Endocrine Communication Signal Resolution",
+        "Residual Endocrine Signal Distortion Resolution",
         "Residual Halide Burden Resolution",
         "Residual Metabolic Distortion Resolution",
         "Residual Mitochondrial Burden Resolution",
@@ -760,7 +751,7 @@
         "Residual Adrenal Burden Resolution",
         "Residual Stress Hormone Burden Resolution",
         "Residual Cortisol Rhythm Distortion Resolution",
-        "Residual Hypothalamic Pituitary Adrenal Axis Distortion Resolution",
+        "Residual Hypothalamic Pituitary Adrenal Axis Imprint Resolution",
         "Residual Stress Imprint Resolution",
         "Residual Autonomic Distortion Resolution",
         "Residual Circadian Distortion Resolution",
@@ -1103,7 +1094,7 @@
         "Residual Histamine Burden Resolution",
         "Residual Mast Cell Burden Resolution",
         "Residual Immune Burden Resolution",
-        "Residual Inflammatory Compound Resolution",
+        "Residual Inflammatory Compound Burden Resolution",
         "Residual Leukotriene Burden Resolution",
         "Residual Allergen Resolution",
         "Residual Chemical Sensitizer Resolution",
@@ -1217,7 +1208,7 @@
         "Residual Salicylate Burden Resolution",
         "Residual Food Additive Burden Resolution",
         "Residual Gut Lining Distortion Resolution",
-        "Residual Microbiome Distortion Resolution",
+        "Residual Gut Microbial Consortium Resolution",
         "Residual Histamine Burden Resolution",
         "Residual Immune Burden Resolution",
         "Residual Digestive Residue Resolution"
@@ -1273,7 +1264,7 @@
         "Residual Metabolic Byproduct Burden Resolution",
         "Residual Lactic Acid Residue Resolution",
         "Residual Cellular Signal Distortion Resolution",
-        "Residual Biophoton Cellular Burden Resolution"
+        "Residual Biophoton Distortion Resolution"
       ],
       "rife": "",
       "session": {
@@ -1371,10 +1362,10 @@
       ],
       "phrases": [
         "Residual Blood Brain Barrier Retention Resolution",
-        "Residual Neural Inflammatory Compound Resolution",
+        "Residual Neural Inflammatory Compound Burden Resolution",
         "Residual Microglial Burden Resolution",
         "Residual Glymphatic Congestion Resolution",
-        "Residual Cerebrospinal Fluid Congestion Resolution",
+        "Residual Cerebrospinal Fluid Retention Resolution",
         "Residual Nervous System Distortion Resolution",
         "Residual Brainwave Distortion Resolution",
         "Residual Thalamic Retention Resolution",
@@ -1431,7 +1422,7 @@
         "Residual Acetylcholine Signal Distortion Resolution",
         "Residual Glutamate Signal Distortion Resolution",
         "Residual Reward System Distortion Resolution",
-        "Residual Limbic Circuits Resolution",
+        "Residual Limbic Imprint Resolution",
         "Residual Vagus Nerve Distortion Resolution",
         "Residual Autonomic Distortion Resolution",
         "Residual Gut Brain Axis Imprint Resolution"
@@ -1533,7 +1524,7 @@
         "Residual Lymph Node Congestion Resolution",
         "Residual Thoracic Duct Congestion Resolution",
         "Residual Cisterna Chyli Congestion Resolution",
-        "Residual Interstitial Fluid Congestion Resolution",
+        "Residual Interstitial Fluid Retention Resolution",
         "Residual Drainage Pathway Congestion Resolution",
         "Residual Kidney Meridian Congestion Resolution",
         "Residual Bladder Meridian Congestion Resolution",
@@ -1640,7 +1631,7 @@
         "Residual Immune Burden Resolution",
         "Residual Cytokine Burden Resolution",
         "Residual Immune Complex Burden Resolution",
-        "Residual Inflammatory Compound Resolution",
+        "Residual Inflammatory Compound Burden Resolution",
         "Residual Mast Cell Burden Resolution",
         "Residual Lymphoid Congestion Resolution",
         "Residual Splenic Congestion Resolution",
@@ -1694,7 +1685,6 @@
       "phrases": [
         "Residual Skin Barrier Distortion Resolution",
         "Residual Dermal Residue Resolution",
-        "Residual Dermal Congestion Resolution",
         "Residual Skin Microbial Consortium Resolution",
         "Residual Collagen Burden Resolution",
         "Residual Histamine Burden Resolution",
@@ -1853,7 +1843,6 @@
         "Residual Oral Microbial Consortium Resolution",
         "Residual Gum Line Microbial Consortium Resolution",
         "Residual Tongue Microbial Consortium Resolution",
-        "Residual Oral Microbiome Distortion Resolution",
         "Residual Dental Plaque Residue Resolution",
         "Residual Tonsillar Congestion Resolution",
         "Residual Sinus Microbial Consortium Resolution",
@@ -2116,7 +2105,7 @@
         "Residual Renal Congestion Resolution",
         "Residual Fear Resolution",
         "Residual Fear Imprint Resolution",
-        "Residual Startle Retention Resolution"
+        "Residual Startle Imprint Resolution"
       ],
       "rife": "",
       "session": {
@@ -2418,8 +2407,7 @@
         "Residual Throat Chakra Congestion Resolution",
         "Residual Third Eye Chakra Congestion Resolution",
         "Residual Crown Chakra Congestion Resolution",
-        "Residual Chakra Network Resolution",
-        "Residual Chakra Architecture Resolution"
+        "Residual Chakra Congestion Resolution"
       ],
       "rife": "",
       "session": {
@@ -2519,7 +2507,7 @@
         "Residual Third Eye Chakra Color Distortion Resolution",
         "Residual Crown Chakra Congestion Resolution",
         "Residual Crown Chakra Color Distortion Resolution",
-        "Residual Thyroid Communication Signal Resolution"
+        "Residual Thyroid Signal Distortion Resolution"
       ],
       "rife": "",
       "session": {
@@ -2563,7 +2551,7 @@
       "phrases": [
         "Residual Auric Field Distortion Resolution",
         "Residual Aura Layer Fragment Resolution",
-        "Residual Aura Boundary Leakage Resolution",
+        "Residual Aura Boundary Distortion Resolution",
         "Residual Etheric Body Distortion Resolution",
         "Residual Emotional Body Distortion Resolution",
         "Residual Mental Body Distortion Resolution",
@@ -2613,13 +2601,13 @@
       ],
       "phrases": [
         "Residual Energetic Blueprint Distortion Resolution",
-        "Residual Etheric Template Resolution",
+        "Residual Etheric Template Distortion Resolution",
         "Residual Soul Blueprint Distortion Resolution",
         "Residual Biofield Geometry Distortion Resolution",
         "Residual Energetic Structure Distortion Resolution",
         "Residual Etheric Grid Distortion Resolution",
         "Residual Light Body Distortion Resolution",
-        "Residual Energetic Body Misalignment Resolution",
+        "Residual Energetic Body Distortion Resolution",
         "Residual Whole System Distortion Resolution"
       ],
       "rife": "",
@@ -2665,10 +2653,9 @@
       "phrases": [
         "Residual Ancestral Imprint Resolution",
         "Residual Generational Imprint Resolution",
-        "Residual Ancestral Distortion Resolution",
         "Residual Lineage Imprint Resolution",
-        "Residual Epigenetic Energy Imprints Resolution",
-        "Residual Inherited Spiritual Imprinting Resolution",
+        "Residual Epigenetic Imprint Resolution",
+        "Residual Inherited Spiritual Imprint Resolution",
         "Residual Genetic Miasm Resolution"
       ],
       "rife": "",
@@ -2710,14 +2697,13 @@
       ],
       "phrases": [
         "Residual Ancestral Vow Resolution",
-        "Residual Soul Contract Information Resolution",
+        "Residual Soul Contract Resolution",
         "Residual Covenant Resolution",
         "Residual Karmic Imprint Resolution",
-        "Residual Karmic Imprinting Resolution",
-        "Residual Past Life Imprinting Resolution",
+        "Residual Past Life Imprint Resolution",
         "Residual Energetic Debt Resolution",
-        "Residual Consent Imprinting Resolution",
-        "Residual Ritual Imprinting Resolution",
+        "Residual Consent Imprint Resolution",
+        "Residual Ritual Imprint Resolution",
         "Residual Energetic Cord Resolution"
       ],
       "rife": "",
@@ -2761,7 +2747,6 @@
         "Residual Spoken Word Imprint Resolution",
         "Residual Stressor Imprint Resolution",
         "Residual Energetic Noise Resolution",
-        "Residual Energetic Congestion Resolution",
         "Residual Subtle Field Distortion Resolution",
         "Residual Aromatic Smoke Resolution",
         "Residual Smudging Imprint Resolution",
@@ -2812,11 +2797,11 @@
         "Residual Stomach Meridian Congestion Resolution",
         "Residual Zusanli Point Congestion Resolution",
         "Residual Spleen Meridian Congestion Resolution",
-        "Residual Gastric Electrical Frequency Resolution",
+        "Residual Gastric Electrical Distortion Resolution",
         "Residual Bile Burden Resolution",
         "Residual Gut Lining Distortion Resolution",
         "Residual Nutrient Absorption Distortion Resolution",
-        "Residual Microbiome Distortion Resolution",
+        "Residual Gut Microbial Consortium Resolution",
         "Residual Small Intestine Meridian Congestion Resolution"
       ],
       "rife": "",
@@ -2862,7 +2847,7 @@
       ],
       "phrases": [
         "Residual Metabolic Distortion Resolution",
-        "Residual Glycemic Distortion Resolution",
+        "Residual Glucose Burden Resolution",
         "Residual Mitochondrial Burden Resolution",
         "Residual Ion Gradient Distortion Resolution",
         "Residual Mineral Resolution",
@@ -2916,14 +2901,13 @@
         "Evening"
       ],
       "phrases": [
-        "Residual Emotional Retention Resolution",
+        "Residual Emotional Imprint Resolution",
         "Residual Grief Imprint Resolution",
         "Residual Grief Resolution",
         "Residual Sorrow Resolution",
-        "Residual Loss Grief Abandonment Resolution",
+        "Residual Abandonment Resolution",
         "Residual Loneliness Resolution",
         "Residual Regret Resolution",
-        "Residual Yearning Resolution",
         "Residual Limbic Imprint Resolution",
         "Residual Lung Meridian Congestion Resolution",
         "Residual Heart Meridian Congestion Resolution"
@@ -2974,8 +2958,7 @@
         "Residual Stress Imprint Resolution",
         "Residual Fear Imprint Resolution",
         "Residual Worry Imprint Resolution",
-        "Residual Fear Conditioning Resolution",
-        "Residual Startle Retention Resolution",
+        "Residual Startle Imprint Resolution",
         "Residual Amygdalar Imprint Resolution",
         "Residual Survival State Distortion Resolution",
         "Residual Autonomic Distortion Resolution",
@@ -3100,7 +3083,6 @@
         "Residual Hemoparasite Resolution",
         "Residual Persister Cell Resolution",
         "Residual Pathogen Reservoir Resolution",
-        "Residual Pathogen Viability Resolution",
         "Residual Microbial Consortium Resolution",
         "Residual Infection Resolution",
         "Residual Secondary Infection Resolution",
@@ -3232,7 +3214,7 @@
         "Residual Limbic Imprint Resolution",
         "Residual Vagus Nerve Distortion Resolution",
         "Residual Autonomic Distortion Resolution",
-        "Residual Emotional Retention Resolution"
+        "Residual Emotional Imprint Resolution"
       ],
       "rife": "",
       "session": {
@@ -3375,8 +3357,7 @@
         "Coherence"
       ],
       "phrases": [
-        "Residual Energetic Congestion Resolution",
-        "Residual Emotional Retention Resolution",
+        "Residual Emotional Imprint Resolution",
         "Residual Stressor Imprint Resolution",
         "Residual Subtle Field Distortion Resolution",
         "Residual Biofield Distortion Resolution",
@@ -3467,7 +3448,6 @@
         "Meridian"
       ],
       "phrases": [
-        "Residual Meridian Line Distortion Resolution",
         "Residual Lung Meridian Congestion Resolution",
         "Residual Large Intestine Meridian Congestion Resolution",
         "Residual Stomach Meridian Congestion Resolution",
@@ -3524,11 +3504,8 @@
       "phrases": [
         "Residual Acoustic Distortion Resolution",
         "Residual Vibration Distortion Resolution",
-        "Residual Structural Sound Retention Resolution",
         "Residual Energetic Noise Resolution",
-        "Residual Energetic Congestion Resolution",
         "Residual Schumann Resonance Distortion Resolution",
-        "Residual Frequency Mismatch Resolution",
         "Residual Subtle Field Distortion Resolution"
       ],
       "rife": "7.83, 14.1",
@@ -3618,7 +3595,7 @@
       ],
       "phrases": [
         "Residual Circadian Distortion Resolution",
-        "Residual Rhythmic Incoherence Resolution",
+        "Residual Biological Rhythm Distortion Resolution",
         "Residual Circulatory Congestion Resolution",
         "Residual Lymphoid Congestion Resolution",
         "Residual Muscular Retention Resolution",
@@ -3762,7 +3739,7 @@
         "Residual Octahedron Resolution",
         "Residual Dodecahedron Resolution",
         "Residual Icosahedron Resolution",
-        "Residual Platonic Solids Resolution"
+        "Residual Platonic Solid Resolution"
       ],
       "rife": "",
       "session": {
