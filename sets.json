@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-11-22T03:21:29.000Z",
+  "updated": "2026-11-22T09:27:48.000Z",
   "sets": [
     {
       "id": "20260930-seed12",
@@ -182,6 +182,7 @@
         "Residual Psychic Intrusion Imprint Resolution",
         "Residual Aura Attachment Resolution",
         "Residual Aura Boundary Distortion Resolution",
+        "Residual Shield Distortion Resolution",
         "Residual Energetic Cord Resolution",
         "Residual Subtle Field Distortion Resolution",
         "Residual Field Distortion Resolution"
